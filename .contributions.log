@@ -64,3 +64,4 @@
 [2026-01-23 19:01:47] fix: improve error handling
 [2026-01-23 21:50:13] chore: sort entries
 [2026-01-23 22:30:50] fix: edge case handling
+[2026-01-02 08:33:29] fix: null check
