@@ -138,3 +138,4 @@
 [2026-01-03 18:25:14] docs: add inline comments
 [2026-01-03 18:26:11] chore: format file
 [2026-01-03 19:44:11] docs: fix wording
+[2026-01-03 20:57:40] fix: improve error handling
