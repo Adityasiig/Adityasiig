@@ -124,3 +124,4 @@
 [2026-01-03 09:43:44] fix: edge case handling
 [2026-01-03 10:01:46] feat: small improvement
 [2026-01-03 10:52:43] feat: tweak default
+[2026-01-03 11:55:25] refactor: shorter loop
