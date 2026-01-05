@@ -19,3 +19,4 @@
 [2026-01-22 16:44:09] fix: capitalization
 [2026-01-22 21:01:41] fix: improve error handling
 [2026-01-05 10:53:38] docs: add inline comments
+[2026-01-05 11:11:46] fix: edge case handling
