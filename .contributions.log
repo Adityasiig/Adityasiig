@@ -21,3 +21,4 @@
 [2026-01-05 10:53:38] docs: add inline comments
 [2026-01-05 11:11:46] fix: edge case handling
 [2026-01-05 11:20:32] fix: trim trailing space
+[2026-01-05 16:33:50] docs: clarify variable name
