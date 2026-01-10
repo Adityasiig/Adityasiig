@@ -32,3 +32,4 @@
 [2026-01-18 12:24:35] refactor: rename for clarity
 [2026-01-18 18:27:38] feat: improve message
 [2026-01-10 09:15:07] fix: trim trailing space
+[2026-01-10 09:49:10] feat: add validation check
