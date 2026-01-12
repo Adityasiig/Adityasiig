@@ -84,3 +84,4 @@
 [2026-01-12 17:45:09] chore: log cleanup
 [2026-01-12 18:37:28] fix: off-by-one
 [2026-01-12 18:45:56] docs: small note
+[2026-01-12 20:41:28] fix: improve error handling
