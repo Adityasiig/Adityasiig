@@ -114,3 +114,4 @@
 [2026-01-19 12:31:42] feat: small improvement
 [2026-01-19 17:07:29] feat: better default
 [2026-01-19 17:44:04] chore: dependency update
+[2026-01-19 19:56:09] fix: handle empty input
