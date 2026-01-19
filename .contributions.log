@@ -116,3 +116,4 @@
 [2026-01-19 17:44:04] chore: dependency update
 [2026-01-19 19:56:09] fix: handle empty input
 [2026-01-19 20:06:17] fix: missing return
+[2026-01-19 20:12:49] feat: tweak default
