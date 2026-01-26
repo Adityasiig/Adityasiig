@@ -91,3 +91,4 @@
 [2026-01-15 10:52:20] chore: remove dead code
 [2026-01-15 13:31:34] fix: trim trailing space
 [2026-01-26 11:03:09] refactor: inline tiny helper
+[2026-01-26 21:31:32] docs: fix wording
