@@ -109,3 +109,4 @@
 [2026-01-27 14:06:03] chore: dependency update
 [2026-01-27 17:32:24] chore: minor cleanup
 [2026-01-27 17:34:42] chore: tidy whitespace
+[2026-01-27 19:11:26] fix: off-by-one
