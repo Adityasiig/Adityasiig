@@ -183,3 +183,4 @@
 [2026-02-09 11:08:19] refactor: simplify logic
 [2026-02-09 11:14:15] docs: clarify variable name
 [2026-02-09 11:19:16] feat: tweak default
+[2026-02-09 12:49:37] fix: off-by-one
