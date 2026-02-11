@@ -162,3 +162,4 @@
 [2026-02-03 13:53:28] fix: edge case handling
 [2026-02-03 14:52:07] feat: better default
 [2026-02-03 17:55:16] fix: trim trailing space
+[2026-02-11 09:06:41] fix: missing return
