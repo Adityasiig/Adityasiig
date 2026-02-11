@@ -167,3 +167,4 @@
 [2026-02-11 11:39:48] docs: update notes
 [2026-02-11 11:44:41] chore: bump version note
 [2026-02-11 12:24:14] fix: missing return
+[2026-02-11 13:09:23] refactor: extract helper
