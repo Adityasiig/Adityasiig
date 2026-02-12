@@ -226,3 +226,4 @@
 [2026-02-12 16:44:16] chore: remove dead code
 [2026-02-12 17:47:25] fix: edge case handling
 [2026-02-12 18:33:33] fix: missing return
+[2026-02-12 21:37:16] refactor: extract helper
