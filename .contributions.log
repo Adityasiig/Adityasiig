@@ -227,3 +227,4 @@
 [2026-02-12 17:47:25] fix: edge case handling
 [2026-02-12 18:33:33] fix: missing return
 [2026-02-12 21:37:16] refactor: extract helper
+[2026-02-12 22:09:34] fix: edge case handling
