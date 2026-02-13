@@ -174,3 +174,4 @@
 [2026-02-11 19:10:55] docs: typo
 [2026-02-02 08:22:10] chore: sort entries
 [2026-02-02 14:52:31] fix: handle empty input
+[2026-02-13 12:04:30] fix: missing return
