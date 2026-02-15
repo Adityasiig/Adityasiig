@@ -274,3 +274,4 @@
 [2026-02-15 15:59:04] chore: remove dead code
 [2026-02-15 16:06:08] chore: dependency update
 [2026-02-15 16:43:34] chore: bump version note
+[2026-02-15 16:52:42] refactor: rename for clarity
