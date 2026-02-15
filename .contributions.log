@@ -276,3 +276,4 @@
 [2026-02-15 16:43:34] chore: bump version note
 [2026-02-15 16:52:42] refactor: rename for clarity
 [2026-02-15 17:02:09] feat: better default
+[2026-02-15 18:11:59] refactor: extract helper
