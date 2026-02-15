@@ -281,3 +281,4 @@
 [2026-02-15 19:29:27] fix: capitalization
 [2026-02-15 20:22:54] chore: sort entries
 [2026-02-15 20:47:58] chore: tidy whitespace
+[2026-02-15 20:54:10] refactor: inline tiny helper
