@@ -48,6 +48,8 @@ me.say_hi()
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-3E3E3E?style=for-the-badge&logo=hackthebox&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 </div>
 
@@ -72,12 +74,46 @@ me.say_hi()
 
 ### 🔥 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-[![WebVulnScanner](https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=WebVulnScanner&theme=radical&hide_border=true)](https://github.com/Adityasiig/WebVulnScanner)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=Portfolio&theme=radical&hide_border=true)](https://github.com/Adityasiig/Portfolio)
+### 🛡️ [WebVulnScanner](https://github.com/Adityasiig/WebVulnScanner)
+Python-based web vulnerability scanner with **7 modules**: SQL Injection, XSS, Security Headers, Sensitive Files, Path Traversal, Open Redirect, SSL/TLS Analysis.
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🌐 [Portfolio](https://github.com/Adityasiig/Portfolio)
+Personal portfolio website showcasing my projects, skills, and experience in cybersecurity and development.
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📝 [TODO-list](https://github.com/Adityasiig/TODO-list)
+A clean task management app built with JavaScript. Features add, delete, and manage tasks.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%">
+
+### 🚀 More Coming Soon...
+Currently building more **offensive security tools** and **CTF writeups**. Stay tuned!
+
+![WIP](https://img.shields.io/badge/Work_In_Progress-FFD700?style=flat-square&logo=github&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -85,12 +121,12 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adityasiig&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasiig&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adityasiig&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
 <br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasiig&layout=compact&theme=radical&hide_border=true" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adityasiig&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
@@ -100,17 +136,17 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adityasiig&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adityasiig&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Contribution Graph
 
 <div align="center">
 
-![Snake animation](https://github.com/Adityasiig/Adityasiig/blob/output/github-snake-dark.svg)
+[![Adityasiig's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityasiig&theme=redical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -123,6 +159,8 @@ me.say_hi()
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaajaysingh0104@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adityasiig)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com/)
 
 </div>
 
@@ -135,12 +173,12 @@ me.say_hi()
 <br>
 
 ```
- ██████╗ ██╗  ██╗ █████╗  ██████╗██╗  ██╗    ████████╗██╗  ██╗███████╗
- ██╔═══╝ ██║  ██║██╔══██╗██╔════╝██║ ██╔╝    ╚══██╔══╝██║  ██║██╔════╝
- ██████╗ ███████║███████║██║     █████╔╝        ██║   ███████║█████╗  
- ██╔══██╗██╔══██║██╔══██║██║     ██╔═██╗        ██║   ██╔══██║██╔══╝  
- ██████║ ██║  ██║██║  ██║╚██████╗██║  ██╗       ██║   ██║  ██║███████╗
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝
+ ██╗  ██╗ █████╗  ██████╗██╗  ██╗  ████████╗██╗  ██╗███████╗
+ ██║  ██║██╔══██╗██╔════╝██║ ██╔╝  ╚══██╔══╝██║  ██║██╔════╝
+ ███████║███████║██║     █████╔╝      ██║   ███████║█████╗
+ ██╔══██║██╔══██║██║     ██╔═██╗      ██║   ██╔══██║██╔══╝
+ ██║  ██║██║  ██║╚██████╗██║  ██╗     ██║   ██║  ██║███████╗
+ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝     ╚═╝   ╚═╝  ╚═╝╚══════╝
  ██████╗ ██╗      █████╗ ███╗   ██╗███████╗████████╗    ██╗
  ██╔══██╗██║     ██╔══██╗████╗  ██║██╔════╝╚══██╔══╝    ██║
  ██████╔╝██║     ███████║██╔██╗ ██║█████╗     ██║       ██║
