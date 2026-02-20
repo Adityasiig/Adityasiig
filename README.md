@@ -1,178 +1,68 @@
 <div align="center">
 
-# Hey, I'm Aditya Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hey, I'm Aditya Singh 👋
 
-### `Cybersecurity Enthusiast` | `Red Team` | `Full Stack Dev`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Cybersecurity+%7C+Red+Team;Building+Security+Tools;BSc+IT+Student+%7C+3rd+Year)](https://git.io/typing-svg)
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+%7C+Red+Team+%7C+Pentesting;Building+Security+Tools+with+Python;BSc+IT+Student+%7C+Always+Learning;Hack+The+Planet+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=flat-square&logo=googlechrome&logoColor=black)](https://adityasiig.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/singhaditya70-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/singhaditya70)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityaajaysingh0104@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=Adityasiig&color=555&style=flat-square&label=views)
 
 </div>
 
 ---
-
-<img align="right" alt="Hacking" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### About Me
 
 ```python
 class AdityaSingh:
-    def __init__(self):
-        self.role = "Cybersecurity Enthusiast"
-        self.education = "BSc IT (3rd Year)"
-        self.languages = ["C++", "Python", "JavaScript",
-                          "Core Java", "R Programming"]
-        self.interests = ["Red Teaming", "Pentesting",
-                          "Web Security", "Tool Development"]
-        self.web_skills = ["HTML/CSS", "Node.js", "React.js",
-                           "WordPress", "MongoDB"]
-        self.currently_learning = ["OSCP Prep", "Malware Analysis",
-                                    "Cloud Security"]
-        self.fun_fact = "I break things to make them more secure"
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's hack ethically 🔐")
-
-me = AdityaSingh()
-me.say_hi()
+    role      = "Cybersecurity Enthusiast & Red Teamer"
+    education = "BSc IT — 3rd Year"
+    skills    = ["Python", "C++", "JavaScript", "Java", "Bash"]
+    web       = ["React", "Node.js", "MongoDB", "HTML/CSS"]
+    security  = ["Pentesting", "Web App Security", "OWASP Top 10"]
+    tools     = ["Kali Linux", "Burp Suite", "Metasploit", "Nmap", "Wireshark"]
 ```
 
-<br>
-
 ---
 
-### 🛡️ Cybersecurity & Tools
+### Tech Stack
 
 <div align="center">
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-3E3E3E?style=for-the-badge&logo=hackthebox&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-
-</div>
-
-### 💻 Languages & Technologies
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-### 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛡️ [WebVulnScanner](https://github.com/Adityasiig/WebVulnScanner)
-Python-based web vulnerability scanner with **7 modules**: SQL Injection, XSS, Security Headers, Sensitive Files, Path Traversal, Open Redirect, SSL/TLS Analysis.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Security](https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🌐 [Portfolio](https://github.com/Adityasiig/Portfolio)
-Personal portfolio website showcasing my projects, skills, and certifications. [**Live Site**](https://adityasiig.github.io/Portfolio/)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📝 [TODO-list](https://github.com/Adityasiig/TODO-list)
-Feature-rich TODO app with responsive UI, data persistence, and animated backgrounds. [**Live Demo**](https://adityasiig.github.io/TODO-list/)
-
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🚀 More Coming Soon...
-Currently building more **offensive security tools** and **CTF writeups**. Stay tuned!
-
-![WIP](https://img.shields.io/badge/Work_In_Progress-FFD700?style=flat-square&logo=github&logoColor=black)
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasiig&theme=radical&hide_border=true" />
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adityasiig&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-<br>
-
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adityasiig&layout=compact&theme=radical&hide_border=true" />
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### Projects
 
-<div align="center">
+🛡️ **[WebVulnScanner](https://github.com/Adityasiig/WebVulnScanner)** — Web vulnerability scanner with 7 modules (SQLi, XSS, headers, path traversal, and more). Built with Python.
 
-[![trophy](https://github-trophies.vercel.app/?username=Adityasiig&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+🌐 **[Portfolio](https://github.com/Adityasiig/Portfolio)** — Personal portfolio site with skills, projects & certifications. [Live →](https://adityasiig.github.io/Portfolio/)
 
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-[![Adityasiig's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityasiig&theme=redical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+📝 **[TODO-list](https://github.com/Adityasiig/TODO-list)** — Task management app with persistence, auth & animated UI. [Live →](https://adityasiig.github.io/TODO-list/)
 
 ---
 
-### 📫 Connect With Me
+### GitHub Stats
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/adityaajaysingh0104@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaajaysingh0104@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Aditya_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/singhaditya70)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://adityasiig.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/Adityasiig-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adityasiig)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com/)
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasiig&theme=radical&hide_border=true" />
+
+<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adityasiig&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=true" />
 
 </div>
 
@@ -180,25 +70,6 @@ Currently building more **offensive security tools** and **CTF writeups**. Stay 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adityasiig&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br>
-
-```
- ██╗  ██╗ █████╗  ██████╗██╗  ██╗  ████████╗██╗  ██╗███████╗
- ██║  ██║██╔══██╗██╔════╝██║ ██╔╝  ╚══██╔══╝██║  ██║██╔════╝
- ███████║███████║██║     █████╔╝      ██║   ███████║█████╗
- ██╔══██║██╔══██║██║     ██╔═██╗      ██║   ██╔══██║██╔══╝
- ██║  ██║██║  ██║╚██████╗██║  ██╗     ██║   ██║  ██║███████╗
- ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝     ╚═╝   ╚═╝  ╚═╝╚══════╝
- ██████╗ ██╗      █████╗ ███╗   ██╗███████╗████████╗    ██╗
- ██╔══██╗██║     ██╔══██╗████╗  ██║██╔════╝╚══██╔══╝    ██║
- ██████╔╝██║     ███████║██╔██╗ ██║█████╗     ██║       ██║
- ██╔═══╝ ██║     ██╔══██║██║╚██╗██║██╔══╝     ██║       ╚═╝
- ██║     ███████╗██║  ██║██║ ╚████║███████╗   ██║       ██╗
- ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝       ╚═╝
-```
-
-**"The quieter you become, the more you are able to hear."** — *Kali Linux*
+*"The quieter you become, the more you are able to hear."*
 
 </div>
