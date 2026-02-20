@@ -143,3 +143,4 @@
 [2026-01-11 16:17:48] fix: null check
 [2026-01-11 19:32:14] docs: update notes
 [2026-01-11 21:05:38] fix: edge case handling
+[2026-02-20 08:20:18] feat: improve message
