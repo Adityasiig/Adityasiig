@@ -237,3 +237,4 @@
 [2026-02-05 21:07:58] fix: missing return
 [2026-02-05 22:47:04] chore: format file
 [2026-02-25 08:53:31] fix: capitalization
+[2026-02-25 10:25:38] fix: handle empty input
