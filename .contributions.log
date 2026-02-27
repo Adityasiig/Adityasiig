@@ -210,3 +210,4 @@
 [2026-02-27 16:52:55] refactor: simplify logic
 [2026-02-27 17:00:16] chore: dependency update
 [2026-02-27 17:03:56] feat: tweak default
+[2026-02-27 17:08:30] fix: trim trailing space
