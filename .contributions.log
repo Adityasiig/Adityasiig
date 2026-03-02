@@ -328,3 +328,4 @@
 [2026-03-02 13:06:37] refactor: extract helper
 [2026-03-02 14:00:13] chore: format file
 [2026-03-02 17:03:40] feat: better default
+[2026-03-02 19:24:37] fix: missing return
