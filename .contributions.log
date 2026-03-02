@@ -325,3 +325,4 @@
 [2026-03-02 08:05:22] chore: bump version note
 [2026-03-02 10:38:05] feat: add validation check
 [2026-03-02 12:28:44] chore: tidy whitespace
+[2026-03-02 13:06:37] refactor: extract helper
