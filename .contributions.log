@@ -424,3 +424,4 @@
 [2026-03-05 21:12:53] chore: minor cleanup
 [2026-03-05 21:34:41] chore: drop unused
 [2026-03-05 21:46:47] docs: add inline comments
+[2026-03-05 22:09:54] fix: handle empty input
