@@ -360,3 +360,4 @@
 [2026-03-07 21:03:33] docs: clarify variable name
 [2026-03-07 21:07:56] chore: remove dead code
 [2026-03-07 21:41:08] chore: minor cleanup
+[2026-03-07 22:14:54] refactor: simplify logic
