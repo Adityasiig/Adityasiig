@@ -435,3 +435,4 @@
 [2026-03-31 16:02:45] fix: trim trailing space
 [2026-03-31 21:22:45] fix: missing return
 [2026-03-08 11:49:29] fix: edge case handling
+[2026-03-08 17:39:03] fix: improve error handling
