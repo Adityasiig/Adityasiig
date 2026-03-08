@@ -434,3 +434,4 @@
 [2026-03-31 14:20:24] chore: format file
 [2026-03-31 16:02:45] fix: trim trailing space
 [2026-03-31 21:22:45] fix: missing return
+[2026-03-08 11:49:29] fix: edge case handling
