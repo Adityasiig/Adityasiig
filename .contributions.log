@@ -383,3 +383,4 @@
 [2026-03-13 08:57:52] refactor: inline tiny helper
 [2026-03-13 09:22:36] chore: sort entries
 [2026-03-13 11:58:05] chore: sort entries
+[2026-03-13 16:49:23] fix: off-by-one
