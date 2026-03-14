@@ -363,3 +363,4 @@
 [2026-03-07 22:14:54] refactor: simplify logic
 [2026-03-14 11:23:38] fix: edge case handling
 [2026-03-14 14:27:02] chore: log cleanup
+[2026-03-14 19:32:24] refactor: rename for clarity
