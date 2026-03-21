@@ -131,9 +131,9 @@ class SecurityResearcher:
 
 ### `> ls -la ~/projects/`
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td>
 
 <h3>
 <img src="https://img.shields.io/badge/01-00ff41?style=flat-square&labelColor=0d1117&color=0d1117" />
@@ -143,24 +143,27 @@ class SecurityResearcher:
 <img src="https://img.shields.io/badge/active-006400?style=flat-square&labelColor=0d1117" />
 </h3>
 
-```
-$ python scanner.py --target example.com
-[+] Scanning for vulnerabilities...
-[+] Modules: SQLi | XSS | Headers | Files
-[+]          Traversal | Redirect | SSL
-[+] Found: 7 modules loaded
+```bash
+$ python scanner.py --target example.com --all-modules
+[*] Target: example.com
+[+] Module 1/7: SQL Injection      ████████████████████ LOADED
+[+] Module 2/7: XSS                ████████████████████ LOADED
+[+] Module 3/7: Insecure Headers   ████████████████████ LOADED
+[+] Module 4/7: Sensitive Files    ████████████████████ LOADED
+[+] Module 5/7: Path Traversal     ████████████████████ LOADED
+[+] Module 6/7: Open Redirect      ████████████████████ LOADED
+[+] Module 7/7: SSL/TLS Analysis   ████████████████████ LOADED
+[*] All modules armed. Scanning...
 ```
 
-<p>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/Security-0d1117?style=flat-square&logo=hackaday&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/OWASP-0d1117?style=flat-square&logo=owasp&logoColor=00ff41" />
-</p>
-
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Security-0d1117?style=flat-square&logo=hackaday&logoColor=00ff41" /> <img src="https://img.shields.io/badge/OWASP-0d1117?style=flat-square&logo=owasp&logoColor=00ff41" /> <img src="https://img.shields.io/badge/CLI-0d1117?style=flat-square&logo=windowsterminal&logoColor=00ff41" />
+&emsp;
 <a href="https://github.com/Adityasiig/WebVulnScanner"><img src="https://img.shields.io/badge/source_code_%E2%86%92-0d1117?style=flat-square" /></a>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td>
 
 <h3>
 <img src="https://img.shields.io/badge/02-00ff41?style=flat-square&labelColor=0d1117&color=0d1117" />
@@ -170,27 +173,30 @@ $ python scanner.py --target example.com
 <img src="https://img.shields.io/badge/live-006400?style=flat-square&labelColor=0d1117" />
 </h3>
 
-```
+```bash
 $ npm start
-[+] Server running on port 3000
-[+] MongoDB connected
-[+] Features: drag-drop | priority
-[+]           themes | persistence
+> taskflow@1.0.0 start
+> node server.js
+
+[+] Express server ........... running on :3000
+[+] MongoDB connection ....... established
+[+] Features loaded:
+    - Drag & drop sorting    [ok]
+    - Priority levels        [ok]
+    - Theme switching        [ok]
+    - Data persistence       [ok]
+    - Animated backgrounds   [ok]
 ```
 
-<p>
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00ff41" />
-</p>
-
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=00ff41" /> <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00ff41" />
+&emsp;
 <a href="https://github.com/Adityasiig/TODO-list"><img src="https://img.shields.io/badge/source_code_%E2%86%92-0d1117?style=flat-square" /></a>&nbsp;
 <a href="https://adityasiig.github.io/TODO-list/"><img src="https://img.shields.io/badge/live_demo_%E2%86%92-006400?style=flat-square&labelColor=0d1117" /></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td>
 
 <h3>
 <img src="https://img.shields.io/badge/03-00ff41?style=flat-square&labelColor=0d1117&color=0d1117" />
@@ -200,24 +206,25 @@ $ npm start
 <img src="https://img.shields.io/badge/active-006400?style=flat-square&labelColor=0d1117" />
 </h3>
 
-```
-$ python ztna.py --mode secure
-[+] Initializing Zero Trust framework
-[+] Loading post-quantum algorithms
-[+] Kyber-1024 | Dilithium | SPHINCS+
-[+] Secure channel established
+```bash
+$ python ztna.py --mode secure --pqc-enabled
+[*] Initializing Zero Trust Network Access framework
+[+] Loading post-quantum algorithms:
+    - Kyber-1024 (key encapsulation)     [ok]
+    - Dilithium (digital signatures)     [ok]
+    - SPHINCS+ (hash-based signatures)   [ok]
+[+] Quantum-resistant channel established
+[*] All traffic routed through secure tunnel
 ```
 
-<p>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/Crypto-0d1117?style=flat-square&logo=letsencrypt&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/Networking-0d1117?style=flat-square&logo=cisco&logoColor=00ff41" />
-</p>
-
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Cryptography-0d1117?style=flat-square&logo=letsencrypt&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Networking-0d1117?style=flat-square&logo=cisco&logoColor=00ff41" />
+&emsp;
 <a href="https://github.com/Adityasiig/ztna-pqc"><img src="https://img.shields.io/badge/source_code_%E2%86%92-0d1117?style=flat-square" /></a>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td>
 
 <h3>
 <img src="https://img.shields.io/badge/04-00ff41?style=flat-square&labelColor=0d1117&color=0d1117" />
@@ -227,20 +234,24 @@ $ python ztna.py --mode secure
 <img src="https://img.shields.io/badge/live-006400?style=flat-square&labelColor=0d1117" />
 </h3>
 
-```
-$ serve ./portfolio --port 8080
-[+] Serving at localhost:8080
-[+] Aurora backgrounds loaded
-[+] Bento grid | Glassmorphism
-[+] Animations: smooth & responsive
+```bash
+$ npx serve ./portfolio --port 8080
+   ┌──────────────────────────────────┐
+   │                                  │
+   │   Serving!                       │
+   │                                  │
+   │   Local:  http://localhost:8080  │
+   │                                  │
+   │   Aurora backgrounds     [ok]    │
+   │   Bento grid layout      [ok]    │
+   │   Glassmorphism UI       [ok]    │
+   │   Smooth animations      [ok]    │
+   │                                  │
+   └──────────────────────────────────┘
 ```
 
-<p>
-<img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41" />
-</p>
-
+<img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=00ff41" /> <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=00ff41" /> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41" />
+&emsp;
 <a href="https://github.com/Adityasiig/Portfolio"><img src="https://img.shields.io/badge/source_code_%E2%86%92-0d1117?style=flat-square" /></a>&nbsp;
 <a href="https://adityasiig.github.io/Portfolio/"><img src="https://img.shields.io/badge/live_demo_%E2%86%92-006400?style=flat-square&labelColor=0d1117" /></a>
 
