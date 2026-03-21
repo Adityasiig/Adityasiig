@@ -1,161 +1,165 @@
 <div align="center">
 
-# Hey there! I'm Aditya Singh
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║     █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗                  ║
+║    ██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗                ║
+║    ███████║██║  ██║██║   ██║    ╚████╔╝ ███████║                 ║
+║    ██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║                 ║
+║    ██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║                 ║
+║    ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝                 ║
+║                                                                  ║
+║            [ SECURITY RESEARCHER & DEVELOPER ]                   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1500&color=6C5CE7&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast+%26+Red+Teamer;Full-Stack+Web+Developer;BSc+IT+Student+%E2%80%94+3rd+Year;Building+Security+Tools+with+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&width=500&lines=%24+whoami+%E2%86%92+aditya_singh;%24+cat+%2Fetc%2Fmotd+%E2%86%92+welcome+to+my+profile;%24+uptime+%E2%86%92+3rd+year+BSc+IT;%24+uname+-a+%E2%86%92+security+%7C+web+%7C+code" alt="Typing SVG" />
 
 <br>
 
-I'm a third-year BSc IT student from India passionate about **cybersecurity** and **web development**.
-I love breaking things apart to understand how they work — then building tools to make them better.
-
-<br>
-
-<a href="https://adityasiig.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-111?style=flat&logo=googlechrome&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://in.linkedin.com/in/singhaditya70"><img src="https://img.shields.io/badge/LinkedIn-111?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="mailto:adityaajaysingh0104@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Adityasiig&color=888&style=flat&label=visitors" />
+<a href="https://adityasiig.github.io/Portfolio/"><img src="https://img.shields.io/badge/-%F0%9F%8C%90_Portfolio-0d1117?style=flat-square&labelColor=0d1117" /></a>
+<a href="https://in.linkedin.com/in/singhaditya70"><img src="https://img.shields.io/badge/-%F0%9F%94%97_LinkedIn-0d1117?style=flat-square&labelColor=0d1117" /></a>
+<a href="mailto:adityaajaysingh0104@gmail.com"><img src="https://img.shields.io/badge/-%F0%9F%93%A7_Email-0d1117?style=flat-square&labelColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=Adityasiig&color=00ff41&style=flat-square&label=profile+views" />
 
 </div>
 
-<br>
+---
+
+```python
+#!/usr/bin/env python3
+# aditya_singh.py — who am i?
+
+class SecurityResearcher:
+
+    def __init__(self):
+        self.name       = "Aditya Singh"
+        self.role       = "Developer & Security Researcher"
+        self.education  = "BSc IT — 3rd Year"
+        self.location   = "India"
+        self.hireable   = True
+
+    def current_focus(self):
+        return [
+            "Building WebVulnScanner v2 with AI-powered exploit suggestions",
+            "Advanced penetration testing & cloud security",
+            "Open-source security tooling",
+        ]
+
+    def motto(self):
+        return "I break things to learn how to fix them."
+```
 
 ---
 
-<br>
+### `> cat /etc/arsenal`
 
-<img align="right" width="280" src="https://github.com/Adityasiig/Adityasiig/blob/main/assets/coding.gif?raw=true" onerror="this.style.display='none'" alt="" />
-
-### About Me
-
-- **Education** — BSc Information Technology, 3rd Year
-- **Focus** — Cybersecurity & Full-Stack Development
-- **Currently Learning** — Advanced Pentesting, Cloud Security
-- **Fun Fact** — I break things to learn how to fix them
-
-<br>
-
-### What I Work With
-
-**Languages** &nbsp; `Python` `C++` `JavaScript` `Java` `Bash` `R`
-
-**Web** &nbsp; `React` `Node.js` `Express` `MongoDB` `HTML/CSS`
-
-**Security** &nbsp; `Kali Linux` `Burp Suite` `Metasploit` `Nmap` `Wireshark`
-
-**Tools** &nbsp; `Git` `Docker` `VS Code` `Linux` `WordPress`
-
-<br clear="right"/>
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  [LANGUAGES]     Python ▰▰▰▰▰▰▰▰▰░  C++ ▰▰▰▰▰▰▰░░░       │
+│                  JavaScript ▰▰▰▰▰▰▰▰░░  Java ▰▰▰▰▰▰░░░░   │
+│                  Bash ▰▰▰▰▰▰▰░░░  SQL ▰▰▰▰▰▰░░░░          │
+│                                                              │
+│  [FRONTEND]      React ◆  Node.js ◆  HTML/CSS ◆  Express    │
+│                  MongoDB ◆  Flask ◆  REST APIs               │
+│                                                              │
+│  [SECURITY]      Kali Linux ◆  Burp Suite ◆  Metasploit     │
+│                  Nmap ◆  Wireshark ◆  sqlmap ◆  Hydra       │
+│                                                              │
+│  [TOOLS]         Git ◆  Docker ◆  Linux ◆  VS Code          │
+│                  WordPress ◆  AWS ◆  Postman                 │
+│                                                              │
+│  [CERTS]         Ethical Hacking ◆  Kali Linux               │
+│                  Cybersecurity ◆  Computer Networking         │
+│                  C++ ◆  PL/SQL ◆  R Programming              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-<br>
+### `> ls -la ~/projects/`
 
-### Projects
+```
+drwxr-xr-x  aditya  staff   WebVulnScanner/     ← Python vuln scanner | SQLi, XSS, 7 modules
+drwxr-xr-x  aditya  staff   TODO-list/          ← Full-stack task manager | Node.js + MongoDB
+drwxr-xr-x  aditya  staff   ztna-pqc/           ← Zero Trust + Post-Quantum Crypto
+drwxr-xr-x  aditya  staff   Portfolio/           ← Developer portfolio | HTML/CSS/JS
+-rw-r--r--  aditya  staff   .currently_building  ← WebVulnScanner v2 + AI exploits
+```
 
 <table>
 <tr>
 <td width="50%">
 
-<h3 align="center">WebVulnScanner</h3>
-<p align="center">
-Web vulnerability scanner detecting SQLi, XSS, path traversal, open redirect & SSL/TLS issues
-</p>
-<p align="center">
-<a href="https://github.com/Adityasiig/WebVulnScanner"><img src="https://img.shields.io/badge/View_Project_%E2%86%92-555?style=flat" /></a>
-</p>
+**[`WebVulnScanner`](https://github.com/Adityasiig/WebVulnScanner)**
+> Automated scanner detecting SQLi, XSS, insecure headers, sensitive files, path traversal, open redirects & SSL/TLS issues. 7 modules.
+
+`python` `security` `owasp` `cli`
 
 </td>
 <td width="50%">
 
-<h3 align="center">Portfolio</h3>
-<p align="center">
-Modern portfolio with aurora backgrounds, bento grid layout, glassmorphism & smooth animations
-</p>
-<p align="center">
-<a href="https://github.com/Adityasiig/Portfolio"><img src="https://img.shields.io/badge/View_Project_%E2%86%92-555?style=flat" /></a>&nbsp;
-<a href="https://adityasiig.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Demo_%E2%86%92-6C5CE7?style=flat" /></a>
-</p>
+**[`TaskFlow`](https://github.com/Adityasiig/TODO-list)** &nbsp; [`live`](https://adityasiig.github.io/TODO-list/)
+> Feature-rich task manager with drag-and-drop, priority levels, theming, data persistence & animated UI.
+
+`javascript` `node.js` `express` `mongodb`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<h3 align="center">TODO List App</h3>
-<p align="center">
-Full-stack task manager with user auth, MongoDB persistence & responsive animated UI
-</p>
-<p align="center">
-<a href="https://github.com/Adityasiig/TODO-list"><img src="https://img.shields.io/badge/View_Project_%E2%86%92-555?style=flat" /></a>&nbsp;
-<a href="https://adityasiig.github.io/TODO-list/"><img src="https://img.shields.io/badge/Live_Demo_%E2%86%92-6C5CE7?style=flat" /></a>
-</p>
+**[`ZTNA-PQC`](https://github.com/Adityasiig/ztna-pqc)**
+> Zero Trust Network Access with post-quantum cryptography for future-proof secure communications.
+
+`python` `cryptography` `networking`
 
 </td>
 <td width="50%">
 
-<h3 align="center">More Coming Soon</h3>
-<p align="center">
-Working on open-source security tools and experimental side projects
-</p>
-<p align="center">
-<a href="https://github.com/Adityasiig?tab=repositories"><img src="https://img.shields.io/badge/All_Repos_%E2%86%92-555?style=flat" /></a>
-</p>
+**[`Portfolio`](https://github.com/Adityasiig/Portfolio)** &nbsp; [`live`](https://adityasiig.github.io/Portfolio/)
+> Personal developer portfolio with aurora backgrounds, bento grid layout & smooth animations.
+
+`html` `css` `javascript`
 
 </td>
 </tr>
 </table>
 
-<br>
-
 ---
 
-<br>
+### `> cat ~/.status`
 
-<div align="center">
-
-### GitHub Stats
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Adityasiig&show_icons=true&theme=transparent&hide_border=true&title_color=6C5CE7&icon_color=6C5CE7&text_color=ccc&count_private=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Adityasiig&show_icons=true&theme=transparent&hide_border=true&title_color=6C5CE7&icon_color=6C5CE7&text_color=333&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adityasiig&show_icons=true&theme=transparent&hide_border=true&title_color=6C5CE7&icon_color=6C5CE7&count_private=true&include_all_commits=true" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Adityasiig&theme=transparent&hide_border=true&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7&sideLabels=ccc&dates=888&currStreakNum=ccc&sideNums=ccc" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Adityasiig&theme=transparent&hide_border=true&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7&sideLabels=333&dates=888&currStreakNum=333&sideNums=333" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasiig&theme=transparent&hide_border=true&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Adityasiig&bg_color=00000000&color=888&line=6C5CE7&point=fff&area=true&area_color=6C5CE7&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Adityasiig&bg_color=00000000&color=555&line=6C5CE7&point=333&area=true&area_color=6C5CE7&hide_border=true" />
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityasiig&bg_color=00000000&color=888&line=6C5CE7&point=fff&area=true&area_color=6C5CE7&hide_border=true" />
-</picture>
-
-</div>
-
-<br>
+```diff
++ Open to internships, freelance projects, and collaborations
++ Currently building: WebVulnScanner v2 with AI-powered exploit suggestions
+! Focus areas: Penetration Testing, Web Security, Full-Stack Development
+```
 
 ---
 
 <div align="center">
 
-<br>
-
-*"The quieter you become, the more you are able to hear."*
-
-<br>
+```
+┌─────────────────────────────────────────────┐
+│                                             │
+│   "The quieter you become,                  │
+│    the more you are able to hear."          │
+│                              — Kali Linux   │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
 <a href="https://adityasiig.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Visit_My_Portfolio_%E2%86%92-6C5CE7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/→_visit_portfolio-00ff41?style=for-the-badge&labelColor=0d1117&color=0d1117" />
 </a>
 
 <br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=80&section=footer" width="100%" />
 
 </div>
