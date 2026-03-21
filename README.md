@@ -4,7 +4,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║     █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗                  ║
-║    ██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗                 ║
+║    ██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗                ║
 ║    ███████║██║  ██║██║   ██║    ╚████╔╝ ███████║                 ║
 ║    ██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║                 ║
 ║    ██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║                 ║
@@ -131,133 +131,24 @@ class SecurityResearcher:
 
 ### `> ls -la ~/projects/`
 
-<table width="100%">
-<tr>
-<td>
+<a href="https://github.com/Adityasiig/WebVulnScanner">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=WebVulnScanner&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=00ff41&icon_color=00ff41&text_color=8b949e" width="49%" />
+</a>
+<a href="https://github.com/Adityasiig/TODO-list">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=TODO-list&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=00ff41&icon_color=00ff41&text_color=8b949e" width="49%" />
+</a>
+<a href="https://github.com/Adityasiig/ztna-pqc">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=ztna-pqc&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=00ff41&icon_color=00ff41&text_color=8b949e" width="49%" />
+</a>
+<a href="https://github.com/Adityasiig/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=Portfolio&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=00ff41&icon_color=00ff41&text_color=8b949e" width="49%" />
+</a>
 
-<h3>
-<img src="https://img.shields.io/badge/01-00ff41?style=flat-square&labelColor=0d1117&color=0d1117" />
-&nbsp;
-<a href="https://github.com/Adityasiig/WebVulnScanner">WebVulnScanner</a>
-&nbsp;
-<img src="https://img.shields.io/badge/active-006400?style=flat-square&labelColor=0d1117" />
-</h3>
-
-```bash
-$ python scanner.py --target example.com --all-modules
-[*] Target: example.com
-[+] Module 1/7: SQL Injection      ████████████████████ LOADED
-[+] Module 2/7: XSS                ████████████████████ LOADED
-[+] Module 3/7: Insecure Headers   ████████████████████ LOADED
-[+] Module 4/7: Sensitive Files    ████████████████████ LOADED
-[+] Module 5/7: Path Traversal     ████████████████████ LOADED
-[+] Module 6/7: Open Redirect      ████████████████████ LOADED
-[+] Module 7/7: SSL/TLS Analysis   ████████████████████ LOADED
-[*] All modules armed. Scanning...
-```
-
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Security-0d1117?style=flat-square&logo=hackaday&logoColor=00ff41" /> <img src="https://img.shields.io/badge/OWASP-0d1117?style=flat-square&logo=owasp&logoColor=00ff41" /> <img src="https://img.shields.io/badge/CLI-0d1117?style=flat-square&logo=windowsterminal&logoColor=00ff41" />
-&emsp;
-<a href="https://github.com/Adityasiig/WebVulnScanner"><img src="https://img.shields.io/badge/source_code_%E2%86%92-0d1117?style=flat-square" /></a>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<h3>
-<img src="https://img.shields.io/badge/02-00ff41?style=flat-square&labelColor=0d1117&color=0d1117" />
-&nbsp;
-<a href="https://github.com/Adityasiig/TODO-list">TaskFlow</a>
-&nbsp;
-<img src="https://img.shields.io/badge/live-006400?style=flat-square&labelColor=0d1117" />
-</h3>
-
-```bash
-$ npm start
-> taskflow@1.0.0 start
-> node server.js
-
-[+] Express server ........... running on :3000
-[+] MongoDB connection ....... established
-[+] Features loaded:
-    - Drag & drop sorting    [ok]
-    - Priority levels        [ok]
-    - Theme switching        [ok]
-    - Data persistence       [ok]
-    - Animated backgrounds   [ok]
-```
-
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=00ff41" /> <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00ff41" />
-&emsp;
-<a href="https://github.com/Adityasiig/TODO-list"><img src="https://img.shields.io/badge/source_code_%E2%86%92-0d1117?style=flat-square" /></a>&nbsp;
-<a href="https://adityasiig.github.io/TODO-list/"><img src="https://img.shields.io/badge/live_demo_%E2%86%92-006400?style=flat-square&labelColor=0d1117" /></a>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<h3>
-<img src="https://img.shields.io/badge/03-00ff41?style=flat-square&labelColor=0d1117&color=0d1117" />
-&nbsp;
-<a href="https://github.com/Adityasiig/ztna-pqc">ZTNA-PQC</a>
-&nbsp;
-<img src="https://img.shields.io/badge/active-006400?style=flat-square&labelColor=0d1117" />
-</h3>
-
-```bash
-$ python ztna.py --mode secure --pqc-enabled
-[*] Initializing Zero Trust Network Access framework
-[+] Loading post-quantum algorithms:
-    - Kyber-1024 (key encapsulation)     [ok]
-    - Dilithium (digital signatures)     [ok]
-    - SPHINCS+ (hash-based signatures)   [ok]
-[+] Quantum-resistant channel established
-[*] All traffic routed through secure tunnel
-```
-
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Cryptography-0d1117?style=flat-square&logo=letsencrypt&logoColor=00ff41" /> <img src="https://img.shields.io/badge/Networking-0d1117?style=flat-square&logo=cisco&logoColor=00ff41" />
-&emsp;
-<a href="https://github.com/Adityasiig/ztna-pqc"><img src="https://img.shields.io/badge/source_code_%E2%86%92-0d1117?style=flat-square" /></a>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<h3>
-<img src="https://img.shields.io/badge/04-00ff41?style=flat-square&labelColor=0d1117&color=0d1117" />
-&nbsp;
-<a href="https://github.com/Adityasiig/Portfolio">Portfolio</a>
-&nbsp;
-<img src="https://img.shields.io/badge/live-006400?style=flat-square&labelColor=0d1117" />
-</h3>
-
-```bash
-$ npx serve ./portfolio --port 8080
-   ┌──────────────────────────────────┐
-   │                                  │
-   │   Serving!                       │
-   │                                  │
-   │   Local:  http://localhost:8080  │
-   │                                  │
-   │   Aurora backgrounds     [ok]    │
-   │   Bento grid layout      [ok]    │
-   │   Glassmorphism UI       [ok]    │
-   │   Smooth animations      [ok]    │
-   │                                  │
-   └──────────────────────────────────┘
-```
-
-<img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=00ff41" /> <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=00ff41" /> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41" />
-&emsp;
-<a href="https://github.com/Adityasiig/Portfolio"><img src="https://img.shields.io/badge/source_code_%E2%86%92-0d1117?style=flat-square" /></a>&nbsp;
-<a href="https://adityasiig.github.io/Portfolio/"><img src="https://img.shields.io/badge/live_demo_%E2%86%92-006400?style=flat-square&labelColor=0d1117" /></a>
-
-</td>
-</tr>
-</table>
+<p>
+<a href="https://adityasiig.github.io/TODO-list/"><img src="https://img.shields.io/badge/TaskFlow_live_demo_%E2%86%92-006400?style=flat-square&labelColor=0d1117" /></a>&nbsp;
+<a href="https://adityasiig.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio_live_demo_%E2%86%92-006400?style=flat-square&labelColor=0d1117" /></a>&nbsp;
+<a href="https://github.com/Adityasiig?tab=repositories"><img src="https://img.shields.io/badge/all_repos_%E2%86%92-0d1117?style=flat-square" /></a>
+</p>
 
 ---
 
