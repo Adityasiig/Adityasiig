@@ -56,28 +56,76 @@ class SecurityResearcher:
 
 ### `> cat /etc/arsenal`
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  [LANGUAGES]     Python ▰▰▰▰▰▰▰▰▰░  C++ ▰▰▰▰▰▰▰░░░       │
-│                  JavaScript ▰▰▰▰▰▰▰▰░░  Java ▰▰▰▰▰▰░░░░   │
-│                  Bash ▰▰▰▰▰▰▰░░░  SQL ▰▰▰▰▰▰░░░░          │
-│                                                              │
-│  [FRONTEND]      React ◆  Node.js ◆  HTML/CSS ◆  Express    │
-│                  MongoDB ◆  Flask ◆  REST APIs               │
-│                                                              │
-│  [SECURITY]      Kali Linux ◆  Burp Suite ◆  Metasploit     │
-│                  Nmap ◆  Wireshark ◆  sqlmap ◆  Hydra       │
-│                                                              │
-│  [TOOLS]         Git ◆  Docker ◆  Linux ◆  VS Code          │
-│                  WordPress ◆  AWS ◆  Postman                 │
-│                                                              │
-│  [CERTS]         Ethical Hacking ◆  Kali Linux               │
-│                  Cybersecurity ◆  Computer Networking         │
-│                  C++ ◆  PL/SQL ◆  R Programming              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<details open>
+<summary>&nbsp;<b>Languages</b></summary>
+<br>
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=00ff41" />
+</p>
+</details>
+
+<details open>
+<summary>&nbsp;<b>Web & Backend</b></summary>
+<br>
+<p>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ff41" />
+</p>
+</details>
+
+<details open>
+<summary>&nbsp;<b>Security & Offensive</b></summary>
+<br>
+<p>
+<img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=portswigger&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/sqlmap-0d1117?style=for-the-badge&logo=databricks&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Hydra-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff41" />
+</p>
+</details>
+
+<details open>
+<summary>&nbsp;<b>Tools & Infrastructure</b></summary>
+<br>
+<p>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=00ff41" />
+</p>
+</details>
+
+<details>
+<summary>&nbsp;<b>Certifications</b></summary>
+<br>
+<p>
+<img src="https://img.shields.io/badge/Ethical_Hacking-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=006400" />
+<img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=006400" />
+<img src="https://img.shields.io/badge/Cybersecurity-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=006400" />
+<img src="https://img.shields.io/badge/Computer_Networking-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=006400" />
+<img src="https://img.shields.io/badge/Ubuntu_Server-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=006400" />
+<img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=006400" />
+<img src="https://img.shields.io/badge/PL%2FSQL-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=006400" />
+<img src="https://img.shields.io/badge/R_Programming-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=006400" />
+<img src="https://img.shields.io/badge/Computer_Architecture-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=006400" />
+</p>
+</details>
 
 ---
 
