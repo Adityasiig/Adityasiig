@@ -131,48 +131,118 @@ class SecurityResearcher:
 
 ### `> ls -la ~/projects/`
 
-```
-drwxr-xr-x  aditya  staff   WebVulnScanner/     ← Python vuln scanner | SQLi, XSS, 7 modules
-drwxr-xr-x  aditya  staff   TODO-list/          ← Full-stack task manager | Node.js + MongoDB
-drwxr-xr-x  aditya  staff   ztna-pqc/           ← Zero Trust + Post-Quantum Crypto
-drwxr-xr-x  aditya  staff   Portfolio/           ← Developer portfolio | HTML/CSS/JS
--rw-r--r--  aditya  staff   .currently_building  ← WebVulnScanner v2 + AI exploits
-```
-
 <table>
 <tr>
 <td width="50%">
 
-**[`WebVulnScanner`](https://github.com/Adityasiig/WebVulnScanner)**
-> Automated scanner detecting SQLi, XSS, insecure headers, sensitive files, path traversal, open redirects & SSL/TLS issues. 7 modules.
+<h3>
+<img src="https://img.shields.io/badge/01-00ff41?style=flat-square&labelColor=0d1117&color=0d1117" />
+&nbsp;
+<a href="https://github.com/Adityasiig/WebVulnScanner">WebVulnScanner</a>
+&nbsp;
+<img src="https://img.shields.io/badge/active-006400?style=flat-square&labelColor=0d1117" />
+</h3>
 
-`python` `security` `owasp` `cli`
+```
+$ python scanner.py --target example.com
+[+] Scanning for vulnerabilities...
+[+] Modules: SQLi | XSS | Headers | Files
+[+]          Traversal | Redirect | SSL
+[+] Found: 7 modules loaded
+```
+
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Security-0d1117?style=flat-square&logo=hackaday&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/OWASP-0d1117?style=flat-square&logo=owasp&logoColor=00ff41" />
+</p>
+
+<a href="https://github.com/Adityasiig/WebVulnScanner"><img src="https://img.shields.io/badge/source_code_%E2%86%92-0d1117?style=flat-square" /></a>
 
 </td>
 <td width="50%">
 
-**[`TaskFlow`](https://github.com/Adityasiig/TODO-list)** &nbsp; [`live`](https://adityasiig.github.io/TODO-list/)
-> Feature-rich task manager with drag-and-drop, priority levels, theming, data persistence & animated UI.
+<h3>
+<img src="https://img.shields.io/badge/02-00ff41?style=flat-square&labelColor=0d1117&color=0d1117" />
+&nbsp;
+<a href="https://github.com/Adityasiig/TODO-list">TaskFlow</a>
+&nbsp;
+<img src="https://img.shields.io/badge/live-006400?style=flat-square&labelColor=0d1117" />
+</h3>
 
-`javascript` `node.js` `express` `mongodb`
+```
+$ npm start
+[+] Server running on port 3000
+[+] MongoDB connected
+[+] Features: drag-drop | priority
+[+]           themes | persistence
+```
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00ff41" />
+</p>
+
+<a href="https://github.com/Adityasiig/TODO-list"><img src="https://img.shields.io/badge/source_code_%E2%86%92-0d1117?style=flat-square" /></a>&nbsp;
+<a href="https://adityasiig.github.io/TODO-list/"><img src="https://img.shields.io/badge/live_demo_%E2%86%92-006400?style=flat-square&labelColor=0d1117" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[`ZTNA-PQC`](https://github.com/Adityasiig/ztna-pqc)**
-> Zero Trust Network Access with post-quantum cryptography for future-proof secure communications.
+<h3>
+<img src="https://img.shields.io/badge/03-00ff41?style=flat-square&labelColor=0d1117&color=0d1117" />
+&nbsp;
+<a href="https://github.com/Adityasiig/ztna-pqc">ZTNA-PQC</a>
+&nbsp;
+<img src="https://img.shields.io/badge/active-006400?style=flat-square&labelColor=0d1117" />
+</h3>
 
-`python` `cryptography` `networking`
+```
+$ python ztna.py --mode secure
+[+] Initializing Zero Trust framework
+[+] Loading post-quantum algorithms
+[+] Kyber-1024 | Dilithium | SPHINCS+
+[+] Secure channel established
+```
+
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Crypto-0d1117?style=flat-square&logo=letsencrypt&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Networking-0d1117?style=flat-square&logo=cisco&logoColor=00ff41" />
+</p>
+
+<a href="https://github.com/Adityasiig/ztna-pqc"><img src="https://img.shields.io/badge/source_code_%E2%86%92-0d1117?style=flat-square" /></a>
 
 </td>
 <td width="50%">
 
-**[`Portfolio`](https://github.com/Adityasiig/Portfolio)** &nbsp; [`live`](https://adityasiig.github.io/Portfolio/)
-> Personal developer portfolio with aurora backgrounds, bento grid layout & smooth animations.
+<h3>
+<img src="https://img.shields.io/badge/04-00ff41?style=flat-square&labelColor=0d1117&color=0d1117" />
+&nbsp;
+<a href="https://github.com/Adityasiig/Portfolio">Portfolio</a>
+&nbsp;
+<img src="https://img.shields.io/badge/live-006400?style=flat-square&labelColor=0d1117" />
+</h3>
 
-`html` `css` `javascript`
+```
+$ serve ./portfolio --port 8080
+[+] Serving at localhost:8080
+[+] Aurora backgrounds loaded
+[+] Bento grid | Glassmorphism
+[+] Animations: smooth & responsive
+```
+
+<p>
+<img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41" />
+</p>
+
+<a href="https://github.com/Adityasiig/Portfolio"><img src="https://img.shields.io/badge/source_code_%E2%86%92-0d1117?style=flat-square" /></a>&nbsp;
+<a href="https://adityasiig.github.io/Portfolio/"><img src="https://img.shields.io/badge/live_demo_%E2%86%92-006400?style=flat-square&labelColor=0d1117" /></a>
 
 </td>
 </tr>
