@@ -426,3 +426,4 @@
 [2026-03-05 21:46:47] docs: add inline comments
 [2026-03-05 22:09:54] fix: handle empty input
 [2026-03-22 09:25:42] fix: improve error handling
+[2026-03-22 11:50:32] fix: missing return
