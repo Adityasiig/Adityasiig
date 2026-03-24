@@ -440,3 +440,4 @@
 [2026-03-24 13:54:29] fix: edge case handling
 [2026-03-24 14:53:18] fix: capitalization
 [2026-03-24 18:52:52] chore: bump version note
+[2026-03-24 19:02:25] chore: remove dead code
