@@ -390,3 +390,4 @@
 [2026-03-26 15:04:40] docs: clarify variable name
 [2026-03-26 16:27:22] refactor: shorter loop
 [2026-03-26 16:30:51] fix: missing return
+[2026-03-26 17:07:48] fix: improve error handling
