@@ -392,3 +392,4 @@
 [2026-03-26 16:30:51] fix: missing return
 [2026-03-26 17:07:48] fix: improve error handling
 [2026-03-26 17:47:42] chore: remove dead code
+[2026-03-26 18:52:29] feat: add validation check
