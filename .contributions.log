@@ -334,3 +334,4 @@
 [2026-03-29 09:26:44] feat: small improvement
 [2026-03-29 10:16:18] refactor: simplify logic
 [2026-03-29 10:26:24] docs: clarify variable name
+[2026-03-29 11:33:16] fix: improve error handling
