@@ -598,3 +598,4 @@
 [2026-04-24 22:50:53] docs: fix wording
 [2026-04-02 15:45:40] chore: log cleanup
 [2026-04-02 18:49:28] chore: tidy whitespace
+[2026-04-02 19:00:20] refactor: inline tiny helper
