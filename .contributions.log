@@ -512,3 +512,4 @@
 [2026-04-03 11:40:04] docs: fix wording
 [2026-04-03 11:41:53] fix: null check
 [2026-04-03 11:59:27] fix: null check
+[2026-04-03 12:31:38] fix: off-by-one
