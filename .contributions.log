@@ -528,3 +528,4 @@
 [2026-04-03 21:07:18] fix: trim trailing space
 [2026-04-03 21:25:33] fix: edge case handling
 [2026-04-03 21:33:52] chore: bump version note
+[2026-04-03 21:45:37] fix: handle empty input
