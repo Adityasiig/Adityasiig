@@ -514,3 +514,4 @@
 [2026-04-03 11:59:27] fix: null check
 [2026-04-03 12:31:38] fix: off-by-one
 [2026-04-03 13:15:19] chore: format file
+[2026-04-03 16:08:27] chore: remove dead code
