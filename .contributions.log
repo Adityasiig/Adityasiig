@@ -510,3 +510,4 @@
 [2026-04-03 11:31:53] refactor: inline tiny helper
 [2026-04-03 11:35:45] chore: format file
 [2026-04-03 11:40:04] docs: fix wording
+[2026-04-03 11:41:53] fix: null check
