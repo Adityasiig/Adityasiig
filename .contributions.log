@@ -522,3 +522,4 @@
 [2026-04-03 18:12:13] refactor: extract helper
 [2026-04-03 19:02:48] feat: add validation check
 [2026-04-03 19:12:39] docs: update notes
+[2026-04-03 19:14:38] fix: improve error handling
