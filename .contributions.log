@@ -520,3 +520,4 @@
 [2026-04-03 17:39:14] chore: remove dead code
 [2026-04-03 17:44:33] fix: edge case handling
 [2026-04-03 18:12:13] refactor: extract helper
+[2026-04-03 19:02:48] feat: add validation check
