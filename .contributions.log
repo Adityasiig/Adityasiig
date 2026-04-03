@@ -507,3 +507,4 @@
 [2026-04-03 10:26:32] fix: missing return
 [2026-04-03 11:17:26] fix: null check
 [2026-04-03 11:20:16] feat: add validation check
+[2026-04-03 11:31:53] refactor: inline tiny helper
