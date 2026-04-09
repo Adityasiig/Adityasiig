@@ -457,3 +457,4 @@
 [2026-04-09 11:15:43] docs: small note
 [2026-04-09 12:28:16] refactor: extract helper
 [2026-04-09 12:42:00] fix: trim trailing space
+[2026-04-09 17:31:57] refactor: inline tiny helper
