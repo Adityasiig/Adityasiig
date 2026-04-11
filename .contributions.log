@@ -589,3 +589,4 @@
 [2026-04-11 14:50:53] fix: handle empty input
 [2026-04-11 17:59:57] chore: minor cleanup
 [2026-04-11 18:57:37] fix: edge case handling
+[2026-04-11 19:26:50] refactor: remove duplication
