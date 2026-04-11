@@ -584,3 +584,4 @@
 [2026-04-22 21:58:56] feat: improve message
 [2026-04-22 22:40:02] feat: tweak default
 [2026-04-11 08:16:44] refactor: remove duplication
+[2026-04-11 10:59:29] refactor: inline tiny helper
