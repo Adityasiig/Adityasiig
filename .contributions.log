@@ -492,3 +492,4 @@
 [2026-04-13 19:21:38] chore: remove dead code
 [2026-04-13 19:33:56] fix: missing return
 [2026-04-13 20:29:57] feat: add validation check
+[2026-04-13 20:50:12] refactor: code organization
