@@ -478,3 +478,4 @@
 [2026-04-13 11:39:48] fix: handle empty input
 [2026-04-13 11:51:22] refactor: inline tiny helper
 [2026-04-13 12:30:42] docs: add inline comments
+[2026-04-13 12:44:59] chore: drop unused
