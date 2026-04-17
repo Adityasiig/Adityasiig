@@ -545,3 +545,4 @@
 [2026-04-18 21:30:12] chore: tidy whitespace
 [2026-04-17 10:10:25] chore: tidy whitespace
 [2026-04-17 13:10:50] fix: null check
+[2026-04-17 16:12:30] refactor: inline tiny helper
