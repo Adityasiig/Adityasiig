@@ -549,3 +549,4 @@
 [2026-04-17 16:16:37] chore: log cleanup
 [2026-04-17 18:17:33] fix: handle empty input
 [2026-04-17 18:37:48] fix: null check
+[2026-04-17 19:12:36] refactor: inline tiny helper
