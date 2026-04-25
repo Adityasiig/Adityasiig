@@ -497,3 +497,4 @@
 [2026-04-13 21:58:29] chore: format file
 [2026-04-20 18:08:17] fix: missing return
 [2026-04-20 18:53:30] docs: clarify variable name
+[2026-04-25 17:38:39] fix: trim trailing space
