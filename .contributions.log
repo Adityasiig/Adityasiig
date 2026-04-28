@@ -459,3 +459,4 @@
 [2026-04-09 12:42:00] fix: trim trailing space
 [2026-04-09 17:31:57] refactor: inline tiny helper
 [2026-04-28 10:16:40] refactor: remove duplication
+[2026-04-28 10:57:51] chore: bump version note
