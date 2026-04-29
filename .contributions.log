@@ -570,3 +570,4 @@
 [2026-04-30 20:21:42] feat: tweak default
 [2026-04-30 21:58:25] refactor: simplify logic
 [2026-04-07 11:02:45] chore: drop unused
+[2026-04-29 11:29:52] refactor: inline tiny helper
