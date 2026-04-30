@@ -566,3 +566,4 @@
 [2026-04-30 17:57:13] chore: log cleanup
 [2026-04-30 20:05:12] fix: typo correction
 [2026-04-30 20:20:46] feat: small improvement
+[2026-04-30 20:21:00] refactor: extract helper
