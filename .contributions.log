@@ -559,3 +559,4 @@
 [2026-04-30 09:50:22] docs: small note
 [2026-04-30 10:00:09] fix: typo correction
 [2026-04-30 10:06:02] fix: off-by-one
+[2026-04-30 10:57:17] chore: remove dead code
