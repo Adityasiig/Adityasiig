@@ -703,3 +703,4 @@
 [2026-05-19 16:41:22] refactor: remove duplication
 [2026-05-19 19:53:54] chore: tidy whitespace
 [2026-05-03 08:01:04] refactor: extract helper
+[2026-05-03 09:46:23] fix: trim trailing space
