@@ -716,3 +716,4 @@
 [2026-05-05 17:50:56] fix: handle empty input
 [2026-05-05 19:39:22] refactor: inline tiny helper
 [2026-05-05 19:52:52] fix: typo correction
+[2026-05-05 21:09:11] chore: remove dead code
