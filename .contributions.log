@@ -713,3 +713,4 @@
 [2026-05-05 12:48:42] chore: remove dead code
 [2026-05-05 12:49:00] chore: format file
 [2026-05-05 14:55:26] refactor: shorter loop
+[2026-05-05 17:50:56] fix: handle empty input
