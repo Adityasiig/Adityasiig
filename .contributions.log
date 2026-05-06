@@ -697,3 +697,4 @@
 [2026-05-01 14:08:11] refactor: shorter loop
 [2026-05-01 15:25:52] chore: drop unused
 [2026-05-01 16:56:45] chore: remove dead code
+[2026-05-06 10:12:20] refactor: inline tiny helper
