@@ -662,3 +662,4 @@
 [2026-05-16 19:36:43] fix: edge case handling
 [2026-05-16 20:32:43] chore: log cleanup
 [2026-05-16 20:41:59] fix: typo correction
+[2026-05-16 21:34:14] chore: remove dead code
