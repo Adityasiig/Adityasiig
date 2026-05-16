@@ -654,3 +654,4 @@
 [2026-05-16 11:30:26] chore: bump version note
 [2026-05-16 12:13:40] chore: format file
 [2026-05-16 12:19:28] feat: small improvement
+[2026-05-16 14:14:07] fix: missing return
