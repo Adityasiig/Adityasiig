@@ -700,3 +700,4 @@
 [2026-05-06 10:12:20] refactor: inline tiny helper
 [2026-05-06 21:12:19] chore: format file
 [2026-05-19 16:26:32] fix: missing return
+[2026-05-19 16:41:22] refactor: remove duplication
