@@ -677,3 +677,4 @@
 [2026-05-22 11:47:05] chore: minor cleanup
 [2026-05-22 16:37:58] chore: format file
 [2026-05-22 19:36:34] refactor: shorter loop
+[2026-05-22 20:50:17] fix: off-by-one
