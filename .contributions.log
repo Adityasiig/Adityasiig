@@ -614,3 +614,4 @@
 [2026-05-31 13:03:05] fix: improve error handling
 [2026-05-31 13:10:29] fix: off-by-one
 [2026-05-31 13:15:31] fix: capitalization
+[2026-05-31 13:32:15] chore: remove dead code
