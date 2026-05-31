@@ -622,3 +622,4 @@
 [2026-05-31 16:12:57] fix: improve error handling
 [2026-05-31 16:46:25] chore: drop unused
 [2026-05-31 16:57:32] feat: tweak default
+[2026-05-31 16:59:29] fix: null check
