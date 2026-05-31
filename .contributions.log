@@ -625,3 +625,4 @@
 [2026-05-31 16:59:29] fix: null check
 [2026-05-31 17:12:38] fix: capitalization
 [2026-05-31 17:25:20] feat: add validation check
+[2026-05-31 18:13:16] refactor: remove duplication
