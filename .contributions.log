@@ -827,3 +827,4 @@
 [2026-06-01 12:58:46] chore: drop unused
 [2026-06-01 13:20:46] chore: minor cleanup
 [2026-06-01 14:07:16] refactor: remove duplication
+[2026-06-01 15:45:27] fix: missing return
