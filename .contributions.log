@@ -832,3 +832,4 @@
 [2026-06-01 18:30:54] fix: null check
 [2026-06-01 18:32:18] chore: bump version note
 [2026-06-01 18:36:41] docs: clarify variable name
+[2026-06-01 19:18:29] feat: add validation check
