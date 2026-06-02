@@ -753,3 +753,4 @@
 [2026-06-30 13:17:52] chore: dependency update
 [2026-06-27 20:07:51] feat: better default
 [2026-06-02 11:52:19] chore: minor cleanup
+[2026-06-02 12:24:25] refactor: remove duplication
