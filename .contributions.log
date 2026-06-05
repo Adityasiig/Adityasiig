@@ -788,3 +788,4 @@
 [2026-06-03 19:13:07] docs: clarify variable name
 [2026-06-20 20:23:17] fix: missing return
 [2026-06-05 10:35:17] docs: fix wording
+[2026-06-05 12:14:46] fix: null check
