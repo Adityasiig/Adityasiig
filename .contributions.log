@@ -741,3 +741,4 @@
 [2026-06-11 13:26:13] docs: add inline comments
 [2026-06-11 14:07:41] refactor: simplify logic
 [2026-06-11 14:14:47] docs: fix wording
+[2026-06-11 14:21:43] fix: trim trailing space
