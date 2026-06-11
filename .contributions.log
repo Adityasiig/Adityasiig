@@ -743,3 +743,4 @@
 [2026-06-11 14:14:47] docs: fix wording
 [2026-06-11 14:21:43] fix: trim trailing space
 [2026-06-11 15:04:55] chore: bump version note
+[2026-06-11 17:18:36] refactor: remove duplication
