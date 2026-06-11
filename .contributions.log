@@ -745,3 +745,4 @@
 [2026-06-11 15:04:55] chore: bump version note
 [2026-06-11 17:18:36] refactor: remove duplication
 [2026-06-11 19:37:32] fix: edge case handling
+[2026-06-11 20:50:13] chore: remove dead code
