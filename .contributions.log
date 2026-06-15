@@ -889,3 +889,4 @@
 [2026-06-15 20:13:32] fix: edge case handling
 [2026-06-15 21:24:31] refactor: simplify logic
 [2026-06-15 21:49:07] feat: add validation check
+[2026-06-15 21:49:50] fix: missing return
