@@ -890,3 +890,4 @@
 [2026-06-15 21:24:31] refactor: simplify logic
 [2026-06-15 21:49:07] feat: add validation check
 [2026-06-15 21:49:50] fix: missing return
+[2026-06-15 21:59:16] fix: null check
