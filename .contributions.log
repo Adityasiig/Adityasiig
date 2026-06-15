@@ -884,3 +884,4 @@
 [2026-06-15 17:11:54] chore: dependency update
 [2026-06-15 17:14:20] chore: drop unused
 [2026-06-15 18:12:41] fix: trim trailing space
+[2026-06-15 19:16:00] fix: edge case handling
