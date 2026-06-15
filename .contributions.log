@@ -887,3 +887,4 @@
 [2026-06-15 19:16:00] fix: edge case handling
 [2026-06-15 19:59:47] docs: fix wording
 [2026-06-15 20:13:32] fix: edge case handling
+[2026-06-15 21:24:31] refactor: simplify logic
