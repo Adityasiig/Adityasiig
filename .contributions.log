@@ -803,3 +803,4 @@
 [2026-06-23 11:35:24] refactor: extract helper
 [2026-06-23 12:02:03] chore: dependency update
 [2026-06-23 12:04:59] feat: small improvement
+[2026-06-23 12:59:20] fix: trim trailing space
