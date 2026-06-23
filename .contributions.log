@@ -819,3 +819,4 @@
 [2026-06-23 20:09:26] chore: log cleanup
 [2026-06-23 20:35:41] docs: add inline comments
 [2026-06-23 21:37:47] docs: fix wording
+[2026-06-23 22:11:36] fix: null check
