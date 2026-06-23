@@ -807,3 +807,4 @@
 [2026-06-23 13:11:00] fix: null check
 [2026-06-23 13:57:54] chore: dependency update
 [2026-06-23 15:02:30] fix: handle empty input
+[2026-06-23 15:16:19] fix: missing return
