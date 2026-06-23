@@ -804,3 +804,4 @@
 [2026-06-23 12:02:03] chore: dependency update
 [2026-06-23 12:04:59] feat: small improvement
 [2026-06-23 12:59:20] fix: trim trailing space
+[2026-06-23 13:11:00] fix: null check
