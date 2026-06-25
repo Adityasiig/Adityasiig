@@ -769,3 +769,4 @@
 [2026-06-25 13:31:34] refactor: remove duplication
 [2026-06-25 14:27:41] chore: minor cleanup
 [2026-06-25 14:27:42] refactor: rename for clarity
+[2026-06-25 15:15:24] refactor: inline tiny helper
