@@ -844,3 +844,4 @@
 [2026-06-26 09:32:52] fix: edge case handling
 [2026-06-26 10:21:40] refactor: inline tiny helper
 [2026-06-26 10:44:10] fix: null check
+[2026-06-26 10:51:26] chore: dependency update
