@@ -839,3 +839,4 @@
 [2026-06-26 08:08:12] fix: improve error handling
 [2026-06-26 08:09:47] fix: missing return
 [2026-06-26 08:23:04] refactor: shorter loop
+[2026-06-26 08:24:00] chore: sort entries
