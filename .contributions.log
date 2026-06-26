@@ -837,3 +837,4 @@
 [2026-06-01 20:40:45] feat: small improvement
 [2026-06-01 22:43:14] chore: format file
 [2026-06-26 08:08:12] fix: improve error handling
+[2026-06-26 08:09:47] fix: missing return
