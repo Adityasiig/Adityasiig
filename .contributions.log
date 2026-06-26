@@ -868,3 +868,4 @@
 [2026-06-26 21:50:46] chore: bump version note
 [2026-06-26 22:02:20] chore: minor cleanup
 [2026-06-26 22:07:01] fix: capitalization
+[2026-06-26 22:16:34] refactor: inline tiny helper
