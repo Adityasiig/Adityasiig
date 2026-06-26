@@ -842,3 +842,4 @@
 [2026-06-26 08:24:00] chore: sort entries
 [2026-06-26 09:31:37] chore: dependency update
 [2026-06-26 09:32:52] fix: edge case handling
+[2026-06-26 10:21:40] refactor: inline tiny helper
