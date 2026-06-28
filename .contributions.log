@@ -917,3 +917,4 @@
 [2026-06-28 19:30:52] docs: update notes
 [2026-06-28 21:48:58] chore: remove dead code
 [2026-06-28 21:54:40] chore: minor cleanup
+[2026-06-28 22:12:04] fix: missing return
