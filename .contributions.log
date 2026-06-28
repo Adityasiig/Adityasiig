@@ -900,3 +900,4 @@
 [2026-06-28 12:17:50] docs: update notes
 [2026-06-28 12:44:47] refactor: code organization
 [2026-06-28 12:54:25] fix: improve error handling
+[2026-06-28 13:03:05] fix: off-by-one
