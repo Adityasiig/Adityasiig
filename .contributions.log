@@ -892,3 +892,4 @@
 [2026-06-15 21:49:50] fix: missing return
 [2026-06-15 21:59:16] fix: null check
 [2026-06-28 08:15:15] chore: bump version note
+[2026-06-28 08:55:06] refactor: rename for clarity
