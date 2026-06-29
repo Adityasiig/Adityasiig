@@ -723,3 +723,4 @@
 [2026-06-16 11:11:06] feat: better default
 [2026-06-29 12:32:21] docs: update notes
 [2026-06-29 17:43:02] refactor: remove duplication
+[2026-06-29 20:07:29] refactor: inline tiny helper
