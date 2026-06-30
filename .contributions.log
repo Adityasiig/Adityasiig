@@ -749,3 +749,4 @@
 [2026-06-11 21:18:14] docs: typo
 [2026-06-11 21:26:51] chore: format file
 [2026-06-11 22:50:18] feat: better default
+[2026-06-30 12:16:33] fix: edge case handling
