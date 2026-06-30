@@ -17,7 +17,17 @@
 
 <br/>
 
-### 🐍 My contributions, eaten by a snake
+### 📅 My year in commits — isometric view
+
+<div align="center">
+
+<img src="./metrics.plugin.isocalendar.svg" alt="isometric calendar" />
+
+</div>
+
+<br/>
+
+### 🐍 Contribution snake
 
 <div align="center">
 
@@ -31,26 +41,33 @@
 
 <br/>
 
-### 📊 Live activity
+### 💻 Languages & habits
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Adityasiig&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=00FF9C&icon_color=00FF9C&title_color=00FF9C" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasiig&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9C" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityasiig&theme=tokyo-night&hide_border=true&area=true&color=00FF9C&line=00FF9C&point=ffffff" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasiig&theme=tokyonight&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+<img src="./metrics.plugin.languages.svg" width="48%" alt="languages" />
+<img src="./metrics.plugin.habits.svg" width="48%" alt="habits" />
 
 </div>
 
 <br/>
 
-### 💻 LeetCode
+### 📊 Live stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adityasiig&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=00FF9C&icon_color=00FF9C&title_color=00FF9C" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasiig&theme=tokyonight&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityasiig&theme=tokyo-night&hide_border=true&area=true&color=00FF9C&line=00FF9C&point=ffffff" />
+
+</div>
+
+<br/>
+
+### 🎯 LeetCode
 
 <div align="center">
 
@@ -60,11 +77,11 @@
 
 <br/>
 
-### 🏆 Trophies
+### 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adityasiig&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+<img src="./metrics.plugin.achievements.svg" alt="achievements" />
 
 </div>
 
@@ -76,7 +93,7 @@
 >
 > **[TaskFlow](https://github.com/Adityasiig/TODO-list)** — priority-based to-do, drag & drop, offline · [live](https://adityasiig.github.io/TODO-list/)
 >
-> **[CDR Direct](https://github.com/Adityasiig/cdr-direct)** — telecom billing analysis, FastAPI + DuckDB, 357M rows, sub-second queries
+> **[CDR Direct](https://github.com/Adityasiig/cdr-direct)** — telecom billing analysis · FastAPI + DuckDB · 357M rows, sub-second queries
 >
 > **[WebVulnScanner](https://github.com/Adityasiig/WebVulnScanner)** — modular web vuln scanner — SQLi · XSS · LFI · WAF evasion
 
@@ -84,6 +101,6 @@
 
 <div align="center">
 
-<sub>this readme auto-updates · last refresh by github actions</sub>
+<sub>auto-refreshed daily by github actions · <code>lowlighter/metrics</code> + <code>Platane/snk</code></sub>
 
 </div>

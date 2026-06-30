@@ -1,0 +1,73 @@
+name: metrics
+
+on:
+  # daily refresh
+  schedule:
+    - cron: "0 0 * * *"
+  # run on push to main
+  push:
+    branches:
+      - main
+  # manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # ── 1.  isometric 3D contribution calendar (full year) ────────────
+      - name: isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
+
+      # ── 2.  languages + recent activity detailed card ─────────────────
+      - name: languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss, dockerfile, makefile, batchfile, ejs, hcl, jupyter notebook
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used, recently-used
+          config_timezone: Asia/Kolkata
+
+      # ── 3.  habits (when you actually commit — day-of-week + hour) ────
+      - name: habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_trim: yes
+          config_timezone: Asia/Kolkata
+
+      # ── 4.  achievements (rare metrics badges) ────────────────────────
+      - name: achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          config_timezone: Asia/Kolkata
