@@ -2,90 +2,95 @@
 
 # Aditya Singh
 
-**Web Developer & Security Researcher**
+**Full-Stack Developer · Security Researcher**
 
-`BSc IT · 3rd Year · India` &nbsp;|&nbsp; `Red Teamer` &nbsp;|&nbsp; `Open Source Builder`
+`BSc IT · 3rd Year · India`
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00FF9C)](https://adityasiig.github.io/portfolio-v2/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00FF9C)](https://adityasiig.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/singhaditya70)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:adityaajaysingh0104@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=Adityasiig&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Adityasiig)
 
 </div>
 
 ---
 
-```python
-class Aditya:
-    role       = "Web Developer & Security Researcher"
-    degree     = "BSc IT · 3rd Year · India"
-    status     = "open to internships & collaborations"
-    building   = ["WebVulnScanner v2 — AI-powered exploit engine",
-                  "Friday   — Personal AI assistant (Claude + FastAPI + VPS)"]
-    interests  = ["Offensive Security", "Red Teaming", "Full-Stack Dev", "VoIP Systems"]
-    motto      = "I break things to learn how to fix them."
-```
+### About
+
+I build production **web apps with native Android wrappers**, hunt vulnerabilities on **HackerOne**, and ship infrastructure tooling for **VoIP / telecom systems** (OpenSIPS · FreeSWITCH · VOS3000).
+
+Most days I'm shipping something — a feature, a recon script, an Android APK, or a fresh exploit write-up. Open to internships, freelance, and red-team collaborations.
 
 ---
 
-## 🛠 Languages & Tools
+### 🚀 Featured projects
+
+| Project | Built with | Live |
+|---|---|---|
+| **[Health Tracker](https://github.com/Adityasiig/health-tracker)** — Macro & fitness tracker with Indian food database (IFCT 2017), AI nutrition coach, multi-user auth, native Android app | `Next.js` `Supabase` `Capacitor` `Groq` | [Web](https://health-tracker-five-xi.vercel.app/) · [APK](https://adityasiig.github.io/Portfolio/public/apk/health-tracker.apk) |
+| **[TaskFlow](https://github.com/Adityasiig/TODO-list)** — Priority-based task manager, drag & drop, offline-first, native Android | `JavaScript` `Capacitor` | [Web](https://adityasiig.github.io/TODO-list/) · [APK](https://adityasiig.github.io/Portfolio/public/apk/taskflow.apk) |
+| **[CDR Direct](https://github.com/Adityasiig/cdr-direct)** — Telecom billing analysis API on DuckDB · 357M rows, sub-second queries, glassmorphism dashboard | `FastAPI` `DuckDB` `SQLite` | — |
+| **[Portfolio](https://github.com/Adityasiig/Portfolio)** — Personal portfolio with glassmorphism, light/dark themes, animated GitHub calendar | `HTML` `CSS` `JS` | [Live](https://adityasiig.github.io/Portfolio/) |
+| **[WebVulnScanner](https://github.com/Adityasiig/WebVulnScanner)** — Modular web vulnerability scanner — SQLi, XSS, LFI, WAF evasion, HTML reports | `Python` | — |
+| **[OpenSIPS Deploy](https://github.com/Adityasiig/Opensips-Deploy)** — Dockerized OpenSIPS replicator with Apache UI — bundles configs, fresh-installs to remote servers | `PHP` `Docker` `Bash` | — |
+| **[Zero Trust Network Access](https://github.com/Adityasiig/Zero-Trust-Network-Access)** — Post-quantum ZTNA prototype with CRYSTALS-Kyber + Dilithium | `Python` `Kyber` | — |
+
+---
+
+### 🛠 Tech stack
 
 <div align="center">
 
-**Security**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,kali&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,kotlin,bash&theme=dark&perline=9" />
 
-**Development**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,flask,html,css,tailwind&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=9" />
 
-**Infrastructure & Tools**
+**Backend & Infra**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,mongodb,git,vscode,postman,github&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,docker,kubernetes,linux,nginx&theme=dark&perline=9" />
+
+**Data & Cloud**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,aws&theme=dark&perline=9" />
+
+**Security & Dev**
+
+<img src="https://skillicons.dev/icons?i=kali,git,github,vscode,postman,vim&theme=dark&perline=9" />
 
 </div>
 
 ---
 
-## 🚀 Projects
+### 📊 GitHub stats
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**WebVulnScanner**](https://github.com/Adityasiig/WebVulnScanner) | Modular web vuln scanner — SQLi, XSS, LFI, WAF evasion, HTML reports | `Python` `BeautifulSoup4` `crt.sh` |
-| [**Zero Trust Network Access**](https://github.com/Adityasiig/Zero-Trust-Network-Access) | Post-quantum cryptography (CRYSTALS-Kyber) with real-time threat dashboard | `Python` `Kyber` `Dilithium` |
-| [**OpenSIPS Deploy**](https://github.com/Adityasiig/Opensips-Deploy) | Local, Docker-packaged OpenSIPS deployment UI — bundle-driven | `PHP` `Docker` `OpenSIPS` |
-| [**Terminal Portfolio**](https://github.com/Adityasiig/terminal-portfolio) · [↗ live](https://adityasiig.github.io/terminal-portfolio/) | macOS terminal-style interactive portfolio | `React` `TypeScript` |
-| [**Portfolio v2**](https://github.com/Adityasiig/portfolio-v2) · [↗ live](https://adityasiig.github.io/portfolio-v2/) | Production portfolio with matrix rain & Framer Motion | `React` `Vite` `Tailwind` |
-| [**TaskFlow**](https://github.com/Adityasiig/TODO-list) · [↗ live](https://adityasiig.github.io/TODO-list/) | Task manager with drag-and-drop, dark mode, keyboard shortcuts | `HTML` `CSS` `JavaScript` |
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adityasiig&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasiig&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasiig&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🔐 Security Focus
+### 🔐 Security work
 
-```bash
-$ whoami
-  → Red Teamer in training · authorized pentest work · bug bounty research
-
-$ cat current_targets.txt
-  → Web applications (SQLi · XSS · IDOR · Auth bypass · SSRF)
-  → VoIP infrastructure (SIP · RTP · OpenSIPS)
-  → API security (REST · WebSocket · JWT · CORS misconfigs)
-
-$ cat tools_of_choice.txt
-  → WebVulnScanner (built it) · Burp Suite · ffuf · nmap · sqlmap
-```
+- **HackerOne** — active bug bounty researcher · web · API · IDOR · auth bypass · access control
+- **Authorized internal pentest engagements** — VoIP infrastructure, REST / Socket.IO APIs, JWT misconfigs
+- **Custom tooling** — WebVulnScanner, CDR forensics scripts, OpenSIPS replication automation
 
 ---
 
 <div align="center">
 
-```diff
-+ Open to: internships · freelance · red team collaborations
-+ Currently building: WebVulnScanner v2 with AI exploit suggestions
-```
+<sub><code>open to opportunities</code> · <code>currently shipping</code> · <code>always learning</code></sub>
 
 </div>
-
