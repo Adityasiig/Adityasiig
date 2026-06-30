@@ -1,78 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Aditya%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Security%20Researcher&descSize=18&descAlignY=58" />
+# Aditya Singh
+
+**Web Developer & Security Researcher**
+
+`BSc IT · 3rd Year · India` &nbsp;|&nbsp; `Red Teamer` &nbsp;|&nbsp; `Open Source Builder`
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-00FF9C?style=for-the-badge&logoColor=000)](https://adityasiig.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logoColor=fff)](https://linkedin.com/in/singhaditya70)
-[![Email](https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logoColor=fff)](mailto:adityaajaysingh0104@gmail.com)
-[![HackerOne](https://img.shields.io/badge/-HACKERONE-494649?style=for-the-badge&logo=hackerone&logoColor=fff)](https://hackerone.com/adityasig)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00FF9C)](https://adityasiig.github.io/portfolio-v2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/singhaditya70)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:adityaajaysingh0104@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=Adityasiig&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Adityasiig)
 
 </div>
 
-<br/>
+---
 
-## 🚀 Featured Projects
+```python
+class Aditya:
+    role       = "Web Developer & Security Researcher"
+    degree     = "BSc IT · 3rd Year · India"
+    status     = "open to internships & collaborations"
+    building   = ["WebVulnScanner v2 — AI-powered exploit engine",
+                  "Friday   — Personal AI assistant (Claude + FastAPI + VPS)"]
+    interests  = ["Offensive Security", "Red Teaming", "Full-Stack Dev", "VoIP Systems"]
+    motto      = "I break things to learn how to fix them."
+```
+
+---
+
+## 🛠 Languages & Tools
 
 <div align="center">
 
-<a href="https://github.com/Adityasiig/health-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=health-tracker&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Adityasiig/TODO-list">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=TODO-list&theme=tokyonight&hide_border=true" />
-</a>
+**Security**
 
-<a href="https://github.com/Adityasiig/cdr-direct">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=cdr-direct&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Adityasiig/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=Portfolio&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,kali&theme=dark" />
 
-<a href="https://github.com/Adityasiig/WebVulnScanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=WebVulnScanner&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Adityasiig/Opensips-Deploy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=Opensips-Deploy&theme=tokyonight&hide_border=true" />
-</a>
+**Development**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,flask,html,css,tailwind&theme=dark&perline=9" />
+
+**Infrastructure & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,mongodb,git,vscode,postman,github&theme=dark&perline=9" />
 
 </div>
 
-<br/>
+---
 
-## 🛠 Tech Stack
+## 🚀 Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**WebVulnScanner**](https://github.com/Adityasiig/WebVulnScanner) | Modular web vuln scanner — SQLi, XSS, LFI, WAF evasion, HTML reports | `Python` `BeautifulSoup4` `crt.sh` |
+| [**Zero Trust Network Access**](https://github.com/Adityasiig/Zero-Trust-Network-Access) | Post-quantum cryptography (CRYSTALS-Kyber) with real-time threat dashboard | `Python` `Kyber` `Dilithium` |
+| [**OpenSIPS Deploy**](https://github.com/Adityasiig/Opensips-Deploy) | Local, Docker-packaged OpenSIPS deployment UI — bundle-driven | `PHP` `Docker` `OpenSIPS` |
+| [**Terminal Portfolio**](https://github.com/Adityasiig/terminal-portfolio) · [↗ live](https://adityasiig.github.io/terminal-portfolio/) | macOS terminal-style interactive portfolio | `React` `TypeScript` |
+| [**Portfolio v2**](https://github.com/Adityasiig/portfolio-v2) · [↗ live](https://adityasiig.github.io/portfolio-v2/) | Production portfolio with matrix rain & Framer Motion | `React` `Vite` `Tailwind` |
+| [**TaskFlow**](https://github.com/Adityasiig/TODO-list) · [↗ live](https://adityasiig.github.io/TODO-list/) | Task manager with drag-and-drop, dark mode, keyboard shortcuts | `HTML` `CSS` `JavaScript` |
+
+---
+
+## 🔐 Security Focus
+
+```bash
+$ whoami
+  → Red Teamer in training · authorized pentest work · bug bounty research
+
+$ cat current_targets.txt
+  → Web applications (SQLi · XSS · IDOR · Auth bypass · SSRF)
+  → VoIP infrastructure (SIP · RTP · OpenSIPS)
+  → API security (REST · WebSocket · JWT · CORS misconfigs)
+
+$ cat tools_of_choice.txt
+  → WebVulnScanner (built it) · Burp Suite · ffuf · nmap · sqlmap
+```
+
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,bash,react,nextjs,tailwind&theme=dark&perline=8" />
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,docker,kubernetes,linux,nginx&theme=dark&perline=8" />
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,aws,kali,git,vscode&theme=dark&perline=8" />
+```diff
++ Open to: internships · freelance · red team collaborations
++ Currently building: WebVulnScanner v2 with AI exploit suggestions
+```
 
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adityasiig&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=00FF9C&icon_color=00FF9C" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasiig&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasiig&theme=tokyonight&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
-
-</div>
