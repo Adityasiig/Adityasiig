@@ -41,17 +41,6 @@
 
 <br/>
 
-### 💻 Languages & habits
-
-<div align="center">
-
-<img src="./metrics.plugin.languages.svg" width="48%" alt="languages" />
-<img src="./metrics.plugin.habits.svg" width="48%" alt="habits" />
-
-</div>
-
-<br/>
-
 ### 📊 Live stats
 
 <div align="center">
@@ -72,16 +61,6 @@
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/Adityasiig?theme=dark&font=Fira%20Code&border=0&radius=12&ext=heatmap" />
-
-</div>
-
-<br/>
-
-### 🏆 Achievements
-
-<div align="center">
-
-<img src="./metrics.plugin.achievements.svg" alt="achievements" />
 
 </div>
 
