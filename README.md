@@ -1,91 +1,89 @@
 <div align="center">
 
-# Aditya Singh
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=2400&pause=1200&color=00FF9C&center=true&vCenter=true&multiline=false&width=620&height=70&lines=hi%2C+i'm+aditya+%F0%9F%91%8B;full-stack+dev+%C2%B7+security+researcher;always+building+something" alt="header" />
 
-**Web Developer & Security Researcher**
-
-`BSc IT · 3rd Year · India` &nbsp;|&nbsp; `Red Teamer` &nbsp;|&nbsp; `Open Source Builder`
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00FF9C)](https://adityasiig.github.io/portfolio-v2/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/singhaditya70)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:adityaajaysingh0104@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=Adityasiig&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Adityasiig)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00FF9C)](https://adityasiig.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/singhaditya70)
+[![Email](https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:adityaajaysingh0104@gmail.com)
+[![HackerOne](https://img.shields.io/badge/hackerone-0d1117?style=for-the-badge&logo=hackerone&logoColor=00FF9C)](https://hackerone.com/adityasig)
 
 </div>
 
----
+<br/>
 
-```python
-class Aditya:
-    role       = "Web Developer & Security Researcher"
-    degree     = "BSc IT · 3rd Year · India"
-    status     = "open to internships & collaborations"
-    building   = ["WebVulnScanner v2 — AI-powered exploit engine",
-                  "Friday   — Personal AI assistant (Claude + FastAPI + VPS)"]
-    interests  = ["Offensive Security", "Red Teaming", "Full-Stack Dev", "VoIP Systems"]
-    motto      = "I break things to learn how to fix them."
-```
-
----
-
-## 🛠 Languages & Tools
+### 🐍 My contributions, eaten by a snake
 
 <div align="center">
 
-**Security**
-
-<img src="https://skillicons.dev/icons?i=python,bash,linux,kali&theme=dark" />
-
-**Development**
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,flask,html,css,tailwind&theme=dark&perline=9" />
-
-**Infrastructure & Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,aws,mongodb,git,vscode,postman,github&theme=dark&perline=9" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityasiig/Adityasiig/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityasiig/Adityasiig/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Adityasiig/Adityasiig/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
----
+<br/>
 
-## 🚀 Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**WebVulnScanner**](https://github.com/Adityasiig/WebVulnScanner) | Modular web vuln scanner — SQLi, XSS, LFI, WAF evasion, HTML reports | `Python` `BeautifulSoup4` `crt.sh` |
-| [**Zero Trust Network Access**](https://github.com/Adityasiig/Zero-Trust-Network-Access) | Post-quantum cryptography (CRYSTALS-Kyber) with real-time threat dashboard | `Python` `Kyber` `Dilithium` |
-| [**OpenSIPS Deploy**](https://github.com/Adityasiig/Opensips-Deploy) | Local, Docker-packaged OpenSIPS deployment UI — bundle-driven | `PHP` `Docker` `OpenSIPS` |
-| [**Terminal Portfolio**](https://github.com/Adityasiig/terminal-portfolio) · [↗ live](https://adityasiig.github.io/terminal-portfolio/) | macOS terminal-style interactive portfolio | `React` `TypeScript` |
-| [**Portfolio v2**](https://github.com/Adityasiig/portfolio-v2) · [↗ live](https://adityasiig.github.io/portfolio-v2/) | Production portfolio with matrix rain & Framer Motion | `React` `Vite` `Tailwind` |
-| [**TaskFlow**](https://github.com/Adityasiig/TODO-list) · [↗ live](https://adityasiig.github.io/TODO-list/) | Task manager with drag-and-drop, dark mode, keyboard shortcuts | `HTML` `CSS` `JavaScript` |
-
----
-
-## 🔐 Security Focus
-
-```bash
-$ whoami
-  → Red Teamer in training · authorized pentest work · bug bounty research
-
-$ cat current_targets.txt
-  → Web applications (SQLi · XSS · IDOR · Auth bypass · SSRF)
-  → VoIP infrastructure (SIP · RTP · OpenSIPS)
-  → API security (REST · WebSocket · JWT · CORS misconfigs)
-
-$ cat tools_of_choice.txt
-  → WebVulnScanner (built it) · Burp Suite · ffuf · nmap · sqlmap
-```
-
----
+### 📊 Live activity
 
 <div align="center">
 
-```diff
-+ Open to: internships · freelance · red team collaborations
-+ Currently building: WebVulnScanner v2 with AI exploit suggestions
-```
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Adityasiig&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=00FF9C&icon_color=00FF9C&title_color=00FF9C" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasiig&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9C" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityasiig&theme=tokyo-night&hide_border=true&area=true&color=00FF9C&line=00FF9C&point=ffffff" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasiig&theme=tokyonight&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 
 </div>
 
+<br/>
+
+### 💻 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Adityasiig?theme=dark&font=Fira%20Code&border=0&radius=12&ext=heatmap" />
+
+</div>
+
+<br/>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adityasiig&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+
+</div>
+
+<br/>
+
+### ⚡ What I'm building
+
+> **[Health Tracker](https://github.com/Adityasiig/health-tracker)** — macro & fitness tracker, Indian food DB, AI coach, native Android · [live](https://health-tracker-five-xi.vercel.app/)
+>
+> **[TaskFlow](https://github.com/Adityasiig/TODO-list)** — priority-based to-do, drag & drop, offline · [live](https://adityasiig.github.io/TODO-list/)
+>
+> **[CDR Direct](https://github.com/Adityasiig/cdr-direct)** — telecom billing analysis, FastAPI + DuckDB, 357M rows, sub-second queries
+>
+> **[WebVulnScanner](https://github.com/Adityasiig/WebVulnScanner)** — modular web vuln scanner — SQLi · XSS · LFI · WAF evasion
+
+<br/>
+
+<div align="center">
+
+<sub>this readme auto-updates · last refresh by github actions</sub>
+
+</div>
