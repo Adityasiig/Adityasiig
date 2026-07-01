@@ -31,7 +31,7 @@
 <table>
 <tr>
 <td width="34%" align="center">
-<img src="./assets/character.png" width="100%" alt="Sung Jin-Woo · Shadow Monarch" />
+<img src="./assets/character-v2.png" width="100%" alt="Sung Jin-Woo · Shadow Monarch" />
 </td>
 <td width="66%" valign="top">
 
