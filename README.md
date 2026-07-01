@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ── Animated cyberpunk hero banner (twinkling waves) ────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF1493,100:00FFFF&height=280&section=header&text=Aditya%20Singh&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%82%A2%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Security%20Researcher&descSize=18&descAlignY=56&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF1493,100:00FFFF&height=200&section=header&text=Aditya%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%82%A2%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Security%20Researcher&descSize=16&descAlignY=62&animation=twinkling" width="100%" />
 
 <br/>
 
@@ -193,7 +193,7 @@ _write code · break bugs · change the world_
 <br/>
 
 <!-- ── Animated cyberpunk footer banner ────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:FF1493,100:8A2BE2&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:FF1493,100:8A2BE2&height=180&section=footer&animation=fadeIn" width="100%" />
 
 <sub>また来てね · come back soon</sub>
 
