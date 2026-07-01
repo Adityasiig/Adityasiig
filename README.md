@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ── Animated cyberpunk hero banner (twinkling waves) ────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF1493,100:00FFFF&height=220&section=header&text=Aditya%20Singh&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%82%A2%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Security%20Researcher&descSize=17&descAlignY=58&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=220&section=header&text=Aditya%20Singh&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%82%A2%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Security%20Researcher&descSize=17&descAlignY=58&animation=twinkling" width="100%" />
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> &nbsp; Welcome to my dojo · ようこそ &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /></h2>
 
@@ -185,7 +185,7 @@ _write code · break bugs · change the world_
 <br/>
 
 <!-- ── Animated cyberpunk footer banner ────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:FF1493,100:8A2BE2&height=140&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:1E1B4B&height=140&section=footer&animation=fadeIn" width="100%" />
 
 <sub>また来てね · come back soon</sub>
 
