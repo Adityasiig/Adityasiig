@@ -114,8 +114,6 @@ Fav_Subject: Network Security · Cryptography · System Design
 
 > _"Present day, present time... hahaha!"_ — **Lain Iwakura**, Serial Experiments Lain
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="240" />
-
 ```bash
 $ whoami
   → Red Teamer in training · authorized pentest work · bug bounty research
@@ -132,8 +130,6 @@ $ echo $STAND_NAME
   → 「 CYBER DECK 」
   → Speed: ★★★★  ·  Precision: ★★★★★  ·  Range: ∞
 ```
-
-<br clear="both" />
 
 <img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
 
