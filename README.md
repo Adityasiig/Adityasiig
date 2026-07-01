@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" />
+<!-- ── Animated cyberpunk hero banner (twinkling waves) ────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF1493,100:00FFFF&height=280&section=header&text=Aditya%20Singh&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%82%A2%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Security%20Researcher&descSize=18&descAlignY=56&animation=twinkling" width="100%" />
 
-# Aditya Singh
-### アディティア・シング
+<br/>
 
-**Web Developer & Security Researcher**
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="42" /> &nbsp; **Welcome to my dojo** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="42" />
 
 `BSc IT · 3rd Year · India` &nbsp;|&nbsp; `Red Teamer` &nbsp;|&nbsp; `Open Source Builder`
 
@@ -14,13 +14,15 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00FF9C)](https://adityasiig.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/singhaditya70)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:adityaajaysingh0104@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=Adityasiig&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Adityasiig)
+[![Views](https://komarev.com/ghpvc/?username=Adityasiig&color=FF1493&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Adityasiig)
 
 <img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
 
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+
+## 👨‍💻 `whoami`
 
 ```python
 class Aditya:
@@ -37,7 +39,7 @@ class Aditya:
 
 <img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
 
-## 🌸 Languages & Tools 「 道具 」
+## 🌸 `stack` 「 道具 」
 
 <div align="center">
 
@@ -57,7 +59,7 @@ class Aditya:
 
 <img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
 
-## ⚔️ Projects 「 作品 」
+## ⚔️ `projects` 「 作品 」
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -70,7 +72,9 @@ class Aditya:
 
 <img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
 
-## 🥷 Security Focus 「 影の道 」
+## 🥷 `security_focus` 「 影の道 」
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="220" />
 
 ```bash
 $ whoami
@@ -85,9 +89,21 @@ $ cat tools_of_choice.txt
   → WebVulnScanner (built it) · Burp Suite · ffuf · nmap · sqlmap
 ```
 
+<br clear="both" />
+
 <img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
 
 <div align="center">
+
+## 「 コードを書く · バグを壊す · 世界を変える 」
+
+_write code · break bugs · change the world_
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/238200618-fbfd994c-8a89-4c7d-9210-1b96ac21b112.gif" width="120" />
+
+<br/>
 
 ```diff
 + Open to: internships · freelance · red team collaborations
@@ -96,11 +112,7 @@ $ cat tools_of_choice.txt
 
 <br/>
 
-### 「 コードを書く · バグを壊す · 世界を変える 」
-_write code · break bugs · change the world_
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/238200618-fbfd994c-8a89-4c7d-9210-1b96ac21b112.gif" width="80" />
+<!-- ── Animated cyberpunk footer banner ────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:FF1493,100:8A2BE2&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
