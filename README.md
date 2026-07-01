@@ -135,16 +135,35 @@ $ echo $STAND_NAME
 
 ## 📊 `Chapter 05 — Power Level` ・ 戦闘力
 
-<div align="center">
+```yaml
+──────── SCOUTER READOUT ────────
+Power Level:  OVER 9000
+Rank:         S-Class Hunter
+Class:        Netrunner / Web Alchemist
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adityasiig&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasiig&layout=compact&theme=synthwave&hide_border=true" />
+Core Skills:
+  Coding Speed         ★★★★★
+  Security Ops         ★★★★☆
+  System Design        ★★★★☆
+  Infrastructure       ★★★★★
+  Late-Night Coding    ★★★★★ (unmatched)
 
-<br/><br/>
+Fields Mastered:
+  ▸ Web Application Security (SQLi · XSS · IDOR · SSRF)
+  ▸ VoIP / SIP / Telecom Fraud Detection
+  ▸ Full-Stack Web (React · Next.js · FastAPI)
+  ▸ Post-Quantum Cryptography
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasiig&theme=synthwave&hide_border=true" />
+Signature Techniques:
+  ▸ 「 Cyber Deck 」        — hacks the net at close range
+  ▸ 「 Shadow Extraction 」  — pulls creds from live SIP capture
+  ▸ 「 3AM Ship Mode 」     — deploys production while others sleep
 
-</div>
+Weaknesses:
+  ▸ Sleep (voluntarily forfeited)
+  ▸ Yellow tips popups
+─────────────────────────────────
+```
 
 <img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
 
