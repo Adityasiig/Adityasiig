@@ -26,39 +26,50 @@
 
 </div>
 
-## 📖 `Chapter 01 — Origin` ・ 序章
+# About 私自身
 
-> _"The net is vast and infinite."_ — **Motoko Kusanagi**, Ghost in the Shell
+<table>
+<tr>
+<td width="34%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
+</td>
+<td width="66%" valign="top">
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" />
+```yaml
+Profile Version: 3.2
+─────────────────────
+Level:      二十一 (21)
 
-```python
-class Aditya:
-    role       = "Web Developer & Security Researcher"
-    degree     = "BSc IT · 3rd Year · India"
-    status     = "open to internships & collaborations"
-    building   = ["WebVulnScanner v2 — AI-powered exploit engine",
-                  "Friday   — Personal AI assistant (Claude + FastAPI + VPS)"]
-    interests  = ["Offensive Security", "Red Teaming", "Full-Stack Dev", "VoIP Systems"]
-    motto      = "I break things to learn how to fix them."
-    stand      = "「 Cyber Deck 」  — hacks the net at close range"
+Username:   Aditya Singh (アディティア・シング)
+WhoAmI:     BSc IT Student — 3rd Year
+            (情報技術専攻の学生)
+OS:         Windows 11 [64-bit] · Debian · Kali Linux
+Shell:      Bash · PowerShell · zsh
+Terminal:   VS Code · tmux · Warp
+
+Location:   India
+Education:  BSc IT · 3rd Year
+
+Interests:
+  - Web Application Security (SQLi · XSS · IDOR · SSRF)
+  - VoIP Infrastructure (OpenSIPS · FreeSWITCH · VOS3000)
+  - Full-Stack Development (React · Next.js · FastAPI)
+  - Red Team Engagements & Bug Bounty (HackerOne)
+  - Post-Quantum Cryptography
+
+Hobbies:    Coding at 3 AM · Breaking things · Anime
+Learning:   Rust · WebAssembly · Kubernetes Internals
+Languages:  Python · TypeScript · Kotlin · Bash · SQL
+Fav_Subject: Network Security · Cryptography · System Design
+
+─────────────────────
+"自分が立っている場所が頂点だと決めたら、私は決して動かない。"
+— If I decide the ground I stand on is the summit, I will never move.
 ```
 
-<br clear="both" />
-
-<div align="center">
-
-### ⚡ Character Sheet · キャラクターシート
-
-| Stat | Value |
-|:---:|:---:|
-| **Level** | 21 |
-| **Class** | Netrunner ／ Web Alchemist |
-| **Arc** | Red Team Training Arc |
-| **Ultimate** | `while(true) { learn(); ship(); }` |
-| **Currently Watching** | Cyberpunk: Edgerunners · Serial Experiments Lain · Steins;Gate |
-
-</div>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
 
