@@ -3,9 +3,9 @@
 <!-- ── Animated cyberpunk hero banner (twinkling waves) ────────── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF1493,100:00FFFF&height=180&section=header&text=Aditya%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%82%A2%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Security%20Researcher&descSize=15&descAlignY=62&animation=twinkling" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> &nbsp; <h3 style="display:inline">Welcome to my dojo · ようこそ</h3> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" />
+<h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> &nbsp; Welcome to my dojo · ようこそ &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /></h2>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=El+Psy+Kongroo.;The+net+is+vast+and+infinite.;Present+day%2C+present+time!;I+will+become+a+legend.&font=Fira+Code&size=26&center=true&width=620&height=50&duration=3000&pause=800&color=FF1493" />
+<img src="https://readme-typing-svg.demolab.com/?lines=El+Psy+Kongroo.;The+net+is+vast+and+infinite.;Present+day%2C+present+time!;I+will+become+a+legend.&font=Fira+Code&size=24&center=true&width=760&height=50&duration=3000&pause=800&color=FF1493" />
 
 ### `BSc IT · 3rd Year · India` &nbsp;|&nbsp; `Red Teamer` &nbsp;|&nbsp; `Open Source Builder`
 
