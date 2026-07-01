@@ -5,7 +5,13 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="42" /> &nbsp; **Welcome to my dojo** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="42" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="42" /> &nbsp; **Welcome to my dojo · ようこそ** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="42" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=El+Psy+Kongroo.;The+net+is+vast+and+infinite.;Present+day%2C+present+time!;I+will+become+a+legend.&font=Fira+Code&center=true&width=560&height=40&duration=3000&pause=800&color=FF1493" />
+
+<br/>
 
 `BSc IT · 3rd Year · India` &nbsp;|&nbsp; `Red Teamer` &nbsp;|&nbsp; `Open Source Builder`
 
@@ -20,9 +26,11 @@
 
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+## 📖 `Chapter 01 — Origin` ・ 序章
 
-## 👨‍💻 `whoami`
+> _"The net is vast and infinite."_ — **Motoko Kusanagi**, Ghost in the Shell
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" />
 
 ```python
 class Aditya:
@@ -33,25 +41,52 @@ class Aditya:
                   "Friday   — Personal AI assistant (Claude + FastAPI + VPS)"]
     interests  = ["Offensive Security", "Red Teaming", "Full-Stack Dev", "VoIP Systems"]
     motto      = "I break things to learn how to fix them."
+    stand      = "「 Cyber Deck 」  — hacks the net at close range"
 ```
 
 <br clear="both" />
 
+<div align="center">
+
+### ⚡ Character Sheet · キャラクターシート
+
+| Stat | Value |
+|:---:|:---:|
+| **Level** | 21 |
+| **Class** | Netrunner ／ Web Alchemist |
+| **Arc** | Red Team Training Arc |
+| **Ultimate** | `while(true) { learn(); ship(); }` |
+| **Currently Watching** | Cyberpunk: Edgerunners · Serial Experiments Lain · Steins;Gate |
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
 
-## 🌸 `stack` 「 道具 」
+## 🌸 `Chapter 02 — Arsenal` ・ 道具
+
+> _"A tool is only as good as the one who wields it."_ — **Levi Ackerman**, Attack on Titan
 
 <div align="center">
 
-**Security**
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" />
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" />
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" />
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" />
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" />
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60" />
+
+<br/><br/>
+
+**Security 「 影 」**
 
 <img src="https://skillicons.dev/icons?i=python,bash,linux,kali&theme=dark" />
 
-**Development**
+**Development 「 光 」**
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,flask,html,css,tailwind&theme=dark&perline=9" />
 
-**Infrastructure & Tools**
+**Infrastructure & Tools 「 城 」**
 
 <img src="https://skillicons.dev/icons?i=docker,aws,mongodb,git,vscode,postman,github&theme=dark&perline=9" />
 
@@ -59,22 +94,32 @@ class Aditya:
 
 <img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
 
-## ⚔️ `projects` 「 作品 」
+## ⚔️ `Chapter 03 — Works` ・ 作品
+
+> _"I want to be a legend."_ — **David Martinez**, Cyberpunk: Edgerunners
+
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="240" />
+
+<br/>
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**WebVulnScanner**](https://github.com/Adityasiig/WebVulnScanner) | Modular web vuln scanner — SQLi, XSS, LFI, WAF evasion, HTML reports | `Python` `BeautifulSoup4` `crt.sh` |
-| [**Zero Trust Network Access**](https://github.com/Adityasiig/Zero-Trust-Network-Access) | Post-quantum cryptography (CRYSTALS-Kyber) with real-time threat dashboard | `Python` `Kyber` `Dilithium` |
-| [**OpenSIPS Deploy**](https://github.com/Adityasiig/Opensips-Deploy) | Local, Docker-packaged OpenSIPS deployment UI — bundle-driven | `PHP` `Docker` `OpenSIPS` |
-| [**Terminal Portfolio**](https://github.com/Adityasiig/terminal-portfolio) · [↗ live](https://adityasiig.github.io/terminal-portfolio/) | macOS terminal-style interactive portfolio | `React` `TypeScript` |
-| [**Portfolio v2**](https://github.com/Adityasiig/portfolio-v2) · [↗ live](https://adityasiig.github.io/portfolio-v2/) | Production portfolio with matrix rain & Framer Motion | `React` `Vite` `Tailwind` |
-| [**TaskFlow**](https://github.com/Adityasiig/TODO-list) · [↗ live](https://adityasiig.github.io/TODO-list/) | Task manager with drag-and-drop, dark mode, keyboard shortcuts | `HTML` `CSS` `JavaScript` |
+| [**WebVulnScanner**](https://github.com/Adityasiig/WebVulnScanner) | Modular web vuln scanner — SQLi, XSS, LFI, WAF evasion, HTML reports | `Python` |
+| [**Zero Trust Network Access**](https://github.com/Adityasiig/Zero-Trust-Network-Access) | Post-quantum crypto (CRYSTALS-Kyber) + real-time threat dashboard | `Python` `Kyber` |
+| [**OpenSIPS Deploy**](https://github.com/Adityasiig/Opensips-Deploy) | Docker-packaged OpenSIPS deployment UI — bundle-driven | `PHP` `Docker` |
+| [**Terminal Portfolio**](https://github.com/Adityasiig/terminal-portfolio) · [↗ live](https://adityasiig.github.io/terminal-portfolio/) | macOS terminal-style interactive portfolio | `React` `TS` |
+| [**Portfolio v2**](https://github.com/Adityasiig/portfolio-v2) · [↗ live](https://adityasiig.github.io/portfolio-v2/) | Portfolio with matrix rain & Framer Motion | `React` `Vite` |
+| [**TaskFlow**](https://github.com/Adityasiig/TODO-list) · [↗ live](https://adityasiig.github.io/TODO-list/) | Task manager with drag & drop, dark mode | `Vanilla JS` |
+
+<br clear="both" />
 
 <img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
 
-## 🥷 `security_focus` 「 影の道 」
+## 🥷 `Chapter 04 — Path of Shadows` ・ 影の道
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="220" />
+> _"Present day, present time... hahaha!"_ — **Lain Iwakura**, Serial Experiments Lain
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="240" />
 
 ```bash
 $ whoami
@@ -87,9 +132,28 @@ $ cat current_targets.txt
 
 $ cat tools_of_choice.txt
   → WebVulnScanner (built it) · Burp Suite · ffuf · nmap · sqlmap
+
+$ echo $STAND_NAME
+  → 「 CYBER DECK 」
+  → Speed: ★★★★  ·  Precision: ★★★★★  ·  Range: ∞
 ```
 
 <br clear="both" />
+
+<img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
+
+## 📊 `Chapter 05 — Power Level` ・ 戦闘力
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adityasiig&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasiig&layout=compact&theme=synthwave&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasiig&theme=synthwave&hide_border=true" />
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
 
@@ -101,6 +165,11 @@ _write code · break bugs · change the world_
 
 <br/>
 
+> _"A lesson without pain is meaningless. That's because no one can gain anything without sacrificing something in return."_
+> — **Edward Elric**, Fullmetal Alchemist
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/238200618-fbfd994c-8a89-4c7d-9210-1b96ac21b112.gif" width="120" />
 
 <br/>
@@ -108,11 +177,14 @@ _write code · break bugs · change the world_
 ```diff
 + Open to: internships · freelance · red team collaborations
 + Currently building: WebVulnScanner v2 with AI exploit suggestions
+- Sleep schedule: sacrificed to the coding gods
 ```
 
 <br/>
 
 <!-- ── Animated cyberpunk footer banner ────────── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:FF1493,100:8A2BE2&height=120&section=footer&animation=fadeIn" width="100%" />
+
+<sub>また来てね · come back soon</sub>
 
 </div>
