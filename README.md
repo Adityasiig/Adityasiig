@@ -1,62 +1,45 @@
+<!-- ══════════ SYSTEM BOOT HERO ══════════ -->
 <div align="center">
 
-<!-- ── Animated cyberpunk hero banner (twinkling waves) ────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=220&section=header&text=Aditya%20Singh&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=%E3%82%A2%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%82%A2%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Security%20Researcher&descSize=17&descAlignY=58&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00b4ff,100:0a1a4f&height=230&section=header&text=ARISE.&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=SYSTEM%20%3A%3A%20Aditya%20Singh%20has%20awakened%20as%20a%20Shadow%20Monarch&descSize=17&descAlignY=68" width="100%" />
 
-<h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> &nbsp; Welcome to my dojo · ようこそ &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /></h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=El+Psy+Kongroo.;The+net+is+vast+and+infinite.;Present+day%2C+present+time!;I+will+become+a+legend.&font=Fira+Code&size=24&center=true&width=760&height=50&duration=3000&pause=800&color=FF1493" />
+<img src="https://readme-typing-svg.demolab.com/?font=Rajdhani&weight=700&size=28&duration=2600&pause=600&color=00D4FF&center=true&vCenter=true&width=820&height=60&lines=%5B+SYSTEM+%5D+You+have+acquired+the+job%3A+Security+Researcher;%5B+SYSTEM+%5D+Skill+unlocked%3A+Full-Stack+Development;%5B+SYSTEM+%5D+Daily+Quest%3A+Break+something.+Ship+something.;%5B+SYSTEM+%5D+El+Psy+Kongroo." />
 
-### `BSc IT · 3rd Year · India` &nbsp;|&nbsp; `Red Teamer` &nbsp;|&nbsp; `Open Source Builder`
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=00FF9C)](https://adityasiig.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/singhaditya70)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:adityaajaysingh0104@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=Adityasiig&color=FF1493&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Adityasiig)
-
-<img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-001e3c?style=for-the-badge&logoColor=00D4FF&logo=firefox)](https://adityasiig.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-001e3c?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/singhaditya70)
+[![Email](https://img.shields.io/badge/◈_EMAIL-001e3c?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:adityaajaysingh0104@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=Adityasiig&color=00D4FF&style=for-the-badge&label=◈+HUNTERS+SCANNED)](https://github.com/Adityasiig)
 
 </div>
 
-# About 私自身
-
+<!-- ══════════ SYSTEM WINDOW : STATUS ══════════ -->
 <table>
 <tr>
-<td width="34%" align="center">
-<img src="./assets/character-v2.png" width="100%" alt="Sung Jin-Woo · Shadow Monarch" />
+<td width="35%" align="center">
+<img src="./assets/character-v2.png" width="100%" alt="Shadow Monarch" />
+
+`◈ RANK: S-CLASS HUNTER ◈`
 </td>
-<td width="66%" valign="top">
+<td width="65%" valign="top">
 
-```yaml
-Profile Version: 3.2
-─────────────────────
-Level:      二十一 (21)
-
-Username:   Aditya Singh (アディティア・シング)
-WhoAmI:     BSc IT Student — 3rd Year
-            (情報技術専攻の学生)
-OS:         Windows 11 [64-bit] · Debian · Kali Linux
-Shell:      Bash · PowerShell · zsh
-Terminal:   VS Code · tmux · Warp
-
-Location:   India
-Education:  BSc IT · 3rd Year
-
-Interests:
-  - Web Application Security (SQLi · XSS · IDOR · SSRF)
-  - VoIP Infrastructure (OpenSIPS · FreeSWITCH · VOS3000)
-  - Full-Stack Development (React · Next.js · FastAPI)
-  - Red Team Engagements & Bug Bounty (HackerOne)
-  - Post-Quantum Cryptography
-
-Hobbies:    Coding at 3 AM · Breaking things · Anime
-Learning:   Rust · WebAssembly · Kubernetes Internals
-Languages:  Python · TypeScript · Kotlin · Bash · SQL
-Fav_Subject: Network Security · Cryptography · System Design
-
-─────────────────────
-"自分が立っている場所が頂点だと決めたら、私は決して動かない。"
-— If I decide the ground I stand on is the summit, I will never move.
+```ini
+╔══════════ [ STATUS WINDOW ] ══════════╗
+  NAME     :  Aditya Singh · アディティア
+  LEVEL    :  21
+  JOB      :  Netrunner / Web Alchemist
+  CLASS    :  BSc IT — 3rd Year · India
+  GUILD    :  Red Team // Bug Bounty
+────────────────────────────────────────
+  STR  Infrastructure    ████████░░  90
+  AGI  Coding Speed      ██████████  99
+  INT  Security Ops      █████████░  88
+  PER  System Design     ████████░░  85
+  LUK  3AM Ship Mode     ██████████  MAX
+────────────────────────────────────────
+  PASSIVE :  "I alone shall level up."
+╚════════════════════════════════════════╝
 ```
 
 </td>
