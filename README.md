@@ -1,175 +1,124 @@
-<!-- ══════════ SYSTEM BOOT HERO ══════════ -->
+<!-- GitHub profile README for github.com/Adityasiig -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00b4ff,100:0a1a4f&height=230&section=header&text=ARISE.&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=SYSTEM%20%3A%3A%20Aditya%20Singh%20has%20awakened%20as%20a%20Shadow%20Monarch&descSize=17&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0B3B60,100:0EA5E9&height=220&section=header&text=ADITYA%20AJAY%20SINGH&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Security%20Engineer%20%E2%80%A2%20Telecom%20DevOps%20%E2%80%A2%20Full-Stack%20Builder&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Aditya Ajay Singh - Security Engineer, Telecom DevOps, and Full-Stack Builder" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Securing+systems.+Automating+infrastructure.;Building+from+SIP+signaling+to+shipped+software.;OpenSIPS+%E2%86%92+FreeSWITCH+%E2%86%92+CDR+Analytics.;Recon+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Observe+%E2%86%92+Harden." alt="Animated introduction" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Rajdhani&weight=700&size=28&duration=2600&pause=600&color=00D4FF&center=true&vCenter=true&width=820&height=60&lines=%5B+SYSTEM+%5D+You+have+acquired+the+job%3A+Security+Researcher;%5B+SYSTEM+%5D+Skill+unlocked%3A+Full-Stack+Development;%5B+SYSTEM+%5D+Daily+Quest%3A+Break+something.+Ship+something.;%5B+SYSTEM+%5D+El+Psy+Kongroo." />
-
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-001e3c?style=for-the-badge&logoColor=00D4FF&logo=firefox)](https://adityasiig.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-001e3c?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/singhaditya70)
-[![Email](https://img.shields.io/badge/◈_EMAIL-001e3c?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:adityaajaysingh0104@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=Adityasiig&color=00D4FF&style=for-the-badge&label=◈+HUNTERS+SCANNED)](https://github.com/Adityasiig)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B3B60?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://adityasiig.github.io/gotham-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/singhaditya70)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaajaysingh0104@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Adityasiig&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS)](https://github.com/Adityasiig)
 
 </div>
 
-<!-- ══════════ SYSTEM WINDOW : STATUS ══════════ -->
-<table>
-<tr>
-<td width="35%" align="center">
-<img src="./assets/character-v2.png" width="100%" alt="Shadow Monarch" />
+<div align="center">
+  <img src="./github-profile-assets/profile-console.svg" width="100%" alt="Animated operator profile showing Aditya's role and engineering focus" />
+</div>
 
-`◈ RANK: S-CLASS HUNTER ◈`
-</td>
-<td width="65%" valign="top">
+## 01 // Operator profile
 
-```ini
-╔══════════ [ STATUS WINDOW ] ══════════╗
-  NAME     :  Aditya Singh · アディティア
-  LEVEL    :  21
-  JOB      :  Netrunner / Web Alchemist
-  CLASS    :  BSc IT — 3rd Year · India
-  GUILD    :  Red Team // Bug Bounty
-────────────────────────────────────────
-  STR  Infrastructure    ████████░░  90
-  AGI  Coding Speed      ██████████  99
-  INT  Security Ops      █████████░  88
-  PER  System Design     ████████░░  85
-  LUK  3AM Ship Mode     ██████████  MAX
-────────────────────────────────────────
-  PASSIVE :  "I alone shall level up."
-╚════════════════════════════════════════╝
-```
+I am a **Security Engineer and Telecom DevOps Engineer** who designs, deploys, secures, and maintains production systems end to end. My work sits at the intersection of **offensive security, VoIP infrastructure, backend engineering, and observability**.
 
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
-
-## 🌸 `Chapter 02 — Arsenal` ・ 道具
-
-> _"A tool is only as good as the one who wields it."_ — **Levi Ackerman**, Attack on Titan
+- Working at **Crown IT Solution** since August 2025; progressed from **VoIP NOC Engineer** to **Telecom DevOps Engineer**.
+- Operating and automating infrastructure built around **OpenSIPS, FreeSWITCH, VOS3000, SIP, and Linux**.
+- Building production tools for **CDR analytics, billing, fleet monitoring, least-cost routing, and customer reporting**.
+- Conducting security work only in **authorized engagements, labs, and bug-bounty scopes**.
+- Completed a **Bachelor of Science in Information Technology** in Q1 2026.
 
 <div align="center">
 
-**Security 「 影 」**
-
-<img src="https://skillicons.dev/icons?i=python,bash,linux,kali&theme=dark" />
-
-**Development 「 光 」**
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,flask,html,css,tailwind&theme=dark&perline=9" />
-
-**Infrastructure & Tools 「 城 」**
-
-<img src="https://skillicons.dev/icons?i=docker,aws,mongodb,git,vscode,postman,github&theme=dark&perline=9" />
+![Fleet](https://img.shields.io/badge/Production_Fleet-82%2B_Servers-111827?style=flat-square&logo=linux&logoColor=58A6FF)
+![Telecom](https://img.shields.io/badge/Telecom-OpenSIPS_%7C_FreeSWITCH_%7C_VOS3000-111827?style=flat-square&logo=asterisk&logoColor=58A6FF)
+![Data](https://img.shields.io/badge/Data-Kafka_%E2%86%92_ClickHouse_%E2%86%92_Grafana-111827?style=flat-square&logo=apachekafka&logoColor=58A6FF)
+![Focus](https://img.shields.io/badge/Focus-Security_%2B_Reliability-111827?style=flat-square&logo=shield&logoColor=58A6FF)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
+## 02 // Production signal path
 
-## ⚔️ `Chapter 03 — Works` ・ 作品
+<div align="center">
+  <img src="./github-profile-assets/telecom-flow.svg" width="100%" alt="Animated telecom flow from SIP traffic through routing and softswitch systems to CDR analytics" />
+</div>
 
-> _"I want to be a legend."_ — **David Martinez**, Cyberpunk: Edgerunners
+## 03 // Systems shipped
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**WebVulnScanner**](https://github.com/Adityasiig/WebVulnScanner) | Modular web vuln scanner — SQLi, XSS, LFI, WAF evasion, HTML reports | `Python` |
-| [**Zero Trust Network Access**](https://github.com/Adityasiig/Zero-Trust-Network-Access) | Post-quantum crypto (CRYSTALS-Kyber) + real-time threat dashboard | `Python` `Kyber` |
-| [**OpenSIPS Deploy**](https://github.com/Adityasiig/Opensips-Deploy) | Docker-packaged OpenSIPS deployment UI — bundle-driven | `PHP` `Docker` |
-| [**Terminal Portfolio**](https://github.com/Adityasiig/terminal-portfolio) · [↗ live](https://adityasiig.github.io/terminal-portfolio/) | macOS terminal-style interactive portfolio | `React` `TS` |
-| [**Portfolio v2**](https://github.com/Adityasiig/portfolio-v2) · [↗ live](https://adityasiig.github.io/portfolio-v2/) | Portfolio with matrix rain & Framer Motion | `React` `Vite` |
-| [**TaskFlow**](https://github.com/Adityasiig/TODO-list) · [↗ live](https://adityasiig.github.io/TODO-list/) | Task manager with drag & drop, dark mode | `Vanilla JS` |
+| Project | What it does | Core stack |
+|---|---|---|
+| [**MyCDR / CDR Direct**](https://github.com/Adityasiig/cdr-direct) | Ingests hourly telecom CDR files and provides authenticated analytics for NPANXX traffic, trunks, quality, revenue, cost, and margin. | Python, Flask, DuckDB, Docker |
+| [**EaseDial Customer Portal**](https://github.com/Adityasiig/easedial-portal) · [Live](https://portal.easedial.com) | Production customer portal with tenant-scoped access, carrier KPIs, reports, CDR diagnostics, rates, invoices, and transaction history. | TypeScript, Next.js, APIs |
+| [**RouteForge LCR2**](https://github.com/Adityasiig/routeforge-lcr2) | Telecom rate-deck tooling for NPANXX pricing and second-lowest-cost routing workflows. | TypeScript, Telecom Rating |
+| **OpenSIPS Deploy** | Docker-packaged deployment interface supporting repeatable OpenSIPS installation, upgrades, and standalone deployments. | PHP, Bash, Docker, OpenSIPS |
+| **FreeSWITCH Deploy System** | Repeatable server provisioning and configuration workflows designed to reduce manual setup and configuration drift. | Bash, Linux, FreeSWITCH |
+| [**Health Tracker**](https://github.com/Adityasiig/health-tracker) · [Live](https://health-tracker-five-xi.vercel.app) | Full-stack health platform for nutrition, hydration, weight, body metrics, analytics, food search, and AI-assisted coaching. | Next.js, TypeScript, Supabase, AI |
 
-<img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
+<details>
+<summary><strong>More engineering and security projects</strong></summary>
+<br />
 
-## 🥷 `Chapter 04 — Path of Shadows` ・ 影の道
+- [**WebVulnScanner**](https://github.com/Adityasiig/WebVulnScanner) — modular security scanner with reconnaissance, WAF detection, vulnerability checks, and HTML reports.
+- [**Zero Trust Network Access**](https://github.com/Adityasiig/Zero-Trust-Network-Access) — experimental ZTNA dashboard using post-quantum cryptography and real-time trust scoring.
+- [**Gotham Portfolio**](https://github.com/Adityasiig/gotham-portfolio) — dark interactive portfolio built with Next.js and motion-driven UI.
+- [**Terminal Portfolio**](https://github.com/Adityasiig/terminal-portfolio) — terminal-inspired portfolio experience built with React and TypeScript.
 
-> _"Present day, present time... hahaha!"_ — **Lain Iwakura**, Serial Experiments Lain
+</details>
 
-```bash
-$ whoami
-  → Red Teamer in training · authorized pentest work · bug bounty research
+## 04 // Technical stack
 
-$ cat current_targets.txt
-  → Web applications (SQLi · XSS · IDOR · Auth bypass · SSRF)
-  → VoIP infrastructure (SIP · RTP · OpenSIPS)
-  → API security (REST · WebSocket · JWT · CORS misconfigs)
+**Telecom and infrastructure**
 
-$ cat tools_of_choice.txt
-  → WebVulnScanner (built it) · Burp Suite · ffuf · nmap · sqlmap
+![OpenSIPS](https://img.shields.io/badge/OpenSIPS-111827?style=for-the-badge)
+![FreeSWITCH](https://img.shields.io/badge/FreeSWITCH-111827?style=for-the-badge)
+![VOS3000](https://img.shields.io/badge/VOS3000-111827?style=for-the-badge)
+![SIP](https://img.shields.io/badge/SIP-111827?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Coolify](https://img.shields.io/badge/Coolify-111827?style=for-the-badge&logo=coolify&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-111827?style=for-the-badge&logo=caddy&logoColor=1F88C0)
 
-$ echo $STAND_NAME
-  → 「 CYBER DECK 」
-  → Speed: ★★★★  ·  Precision: ★★★★★  ·  Range: ∞
+**Backend, data, and observability**
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-111827?style=for-the-badge&logo=clickhouse&logoColor=FFCC01)
+![Kafka](https://img.shields.io/badge/Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-111827?style=for-the-badge&logo=grafana&logoColor=F46800)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+**Application and security engineering**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![Nmap](https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
+![Ghidra](https://img.shields.io/badge/Ghidra-111827?style=for-the-badge&logoColor=white)
+
+## 05 // Operating model
+
+```text
+RECON  ->  DESIGN  ->  BUILD  ->  DEPLOY  ->  OBSERVE  ->  HARDEN
+
+Current focus:
+  - Telecom platform automation and reliability
+  - CDR billing, analytics, and carrier reporting
+  - Authorized web, API, network, and VoIP security testing
+  - Production tools that operators can trust at 3 AM
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
-
-## 📊 `Chapter 05 — Power Level` ・ 戦闘力
-
-```yaml
-──────── SCOUTER READOUT ────────
-Power Level:  OVER 9000
-Rank:         S-Class Hunter
-Class:        Netrunner / Web Alchemist
-
-Core Skills:
-  Coding Speed         ★★★★★
-  Security Ops         ★★★★☆
-  System Design        ★★★★☆
-  Infrastructure       ★★★★★
-  Late-Night Coding    ★★★★★ (unmatched)
-
-Fields Mastered:
-  ▸ Web Application Security (SQLi · XSS · IDOR · SSRF)
-  ▸ VoIP / SIP / Telecom Fraud Detection
-  ▸ Full-Stack Web (React · Next.js · FastAPI)
-  ▸ Post-Quantum Cryptography
-
-Signature Techniques:
-  ▸ 「 Cyber Deck 」        — hacks the net at close range
-  ▸ 「 Shadow Extraction 」  — pulls creds from live SIP capture
-  ▸ 「 3AM Ship Mode 」     — deploys production while others sleep
-
-Weaknesses:
-  ▸ Sleep (voluntarily forfeited)
-  ▸ Yellow tips popups
-─────────────────────────────────
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/216656500-3ba22b7b-de55-4ec7-8b8b-77db0f43f00c.gif" width="100%" />
+> **Security note:** Repositories and write-ups related to security are intended for authorized testing, defensive research, and controlled lab environments.
 
 <div align="center">
 
-## 「 コードを書く · バグを壊す · 世界を変える 」
+### Have a telecom, infrastructure, or security problem worth solving?
 
-_write code · break bugs · change the world_
+[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-0EA5E9?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:adityaajaysingh0104@gmail.com)
 
-<br/>
+<sub>Security engineering · Telecom DevOps · Production systems</sub>
 
-> _"A lesson without pain is meaningless. That's because no one can gain anything without sacrificing something in return."_
-> — **Edward Elric**, Fullmetal Alchemist
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/238200618-fbfd994c-8a89-4c7d-9210-1b96ac21b112.gif" width="120" />
-
-<br/>
-
-```diff
-+ Open to: internships · freelance · red team collaborations
-+ Currently building: WebVulnScanner v2 with AI exploit suggestions
-- Sleep schedule: sacrificed to the coding gods
-```
-
-<br/>
-
-<!-- ── Animated cyberpunk footer banner ────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:1E1B4B&height=140&section=footer&animation=fadeIn" width="100%" />
-
-<sub>また来てね · come back soon</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0B3B60,100:0EA5E9&height=110&section=footer" width="100%" alt="Footer" />
 
 </div>

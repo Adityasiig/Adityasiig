@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="250" viewBox="0 0 920 250" role="img" aria-labelledby="title description">
+  <title id="title">Aditya Ajay Singh operator profile</title>
+  <desc id="description">An animated terminal-inspired panel showing Aditya's role, production fleet, focus, and current status.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0b2239"/>
+      <stop offset="1" stop-color="#08131f"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0ea5e9"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect x="2" y="2" width="916" height="246" rx="18"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="918" height="248" rx="19" fill="url(#background)" stroke="url(#border)" stroke-width="2"/>
+  <g clip-path="url(#frame)">
+    <path d="M0 42H920" stroke="#1e3a54"/>
+    <circle cx="24" cy="22" r="5" fill="#fb7185"/>
+    <circle cx="42" cy="22" r="5" fill="#fbbf24"/>
+    <circle cx="60" cy="22" r="5" fill="#34d399"/>
+    <text x="460" y="27" text-anchor="middle" fill="#7dd3fc" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="2">OPERATOR://ADITYA</text>
+
+    <circle cx="47" cy="78" r="6" fill="#22d3ee" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="65" y="84" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="700">SYSTEM ONLINE</text>
+    <text x="65" y="108" fill="#94a3b8" font-family="Consolas,Menlo,monospace" font-size="13">security engineering  /  telecom devops  /  production systems</text>
+
+    <g font-family="Segoe UI,Arial,sans-serif">
+      <g transform="translate(30 135)">
+        <rect width="198" height="78" rx="12" fill="#0d1d2e" stroke="#164e63"/>
+        <text x="16" y="25" fill="#64748b" font-size="11" letter-spacing="1.5">CURRENT ROLE</text>
+        <text x="16" y="51" fill="#e2e8f0" font-size="17" font-weight="700">TELECOM DEVOPS</text>
+        <rect x="16" y="62" width="105" height="2" rx="1" fill="#22d3ee">
+          <animate attributeName="width" values="20;150;105" dur="4s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+      <g transform="translate(251 135)">
+        <rect width="198" height="78" rx="12" fill="#0d1d2e" stroke="#164e63"/>
+        <text x="16" y="25" fill="#64748b" font-size="11" letter-spacing="1.5">PRODUCTION FLEET</text>
+        <text x="16" y="54" fill="#e2e8f0" font-size="23" font-weight="700">82+ SERVERS</text>
+      </g>
+      <g transform="translate(472 135)">
+        <rect width="198" height="78" rx="12" fill="#0d1d2e" stroke="#164e63"/>
+        <text x="16" y="25" fill="#64748b" font-size="11" letter-spacing="1.5">ENGINEERING FOCUS</text>
+        <text x="16" y="51" fill="#e2e8f0" font-size="16" font-weight="700">SECURE + RELIABLE</text>
+        <circle cx="177" cy="18" r="4" fill="#34d399">
+          <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <g transform="translate(693 135)">
+        <rect width="198" height="78" rx="12" fill="#0d1d2e" stroke="#164e63"/>
+        <text x="16" y="25" fill="#64748b" font-size="11" letter-spacing="1.5">MODE</text>
+        <text x="16" y="51" fill="#e2e8f0" font-size="17" font-weight="700">BUILD · SHIP · HARDEN</text>
+      </g>
+    </g>
+
+    <rect x="0" y="0" width="920" height="2" fill="#22d3ee" opacity=".25">
+      <animate attributeName="y" values="0;250;0" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.28;0" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
