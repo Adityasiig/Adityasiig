@@ -33,6 +33,8 @@ Since joining **Crown IT Solution** in August 2025, I progressed from VoIP NOC E
 
 SIP routing, softswitch deployment, fleet operations, troubleshooting, LCR workflows, and production automation.
 
+<br />
+
 </td>
 <td width="33%" valign="top">
 
@@ -40,12 +42,16 @@ SIP routing, softswitch deployment, fleet operations, troubleshooting, LCR workf
 
 Authorized web, API, network, and VoIP testing—from reconnaissance and validation to evidence and reporting.
 
+<br />
+
 </td>
 <td width="33%" valign="top">
 
 ### Product engineering
 
 Operational platforms built with Python, TypeScript, FastAPI, Next.js, PostgreSQL, ClickHouse, and Docker.
+
+<br />
 
 </td>
 </tr>
@@ -65,6 +71,8 @@ Telecom CDR ingestion and analytics for NPANXX traffic, trunks, quality, revenue
 
 `Python` &nbsp; `Flask` &nbsp; `DuckDB` &nbsp; `Docker`
 
+<br />
+
 </td>
 <td width="50%" valign="top">
 
@@ -73,6 +81,8 @@ Telecom CDR ingestion and analytics for NPANXX traffic, trunks, quality, revenue
 Production carrier portal with tenant-scoped access, operational KPIs, CDR diagnostics, relationship reports, rates, invoices, exports, and transaction history.
 
 `TypeScript` &nbsp; `Next.js` &nbsp; `REST APIs`
+
+<br />
 
 </td>
 </tr>
@@ -85,6 +95,8 @@ Docker-packaged deployment tooling for repeatable OpenSIPS installation, upgrade
 
 `OpenSIPS` &nbsp; `PHP` &nbsp; `Bash` &nbsp; `Docker`
 
+<br />
+
 </td>
 <td width="50%" valign="top">
 
@@ -93,6 +105,8 @@ Docker-packaged deployment tooling for repeatable OpenSIPS installation, upgrade
 Repeatable server provisioning and configuration workflows that reduce manual setup and configuration drift across telecom environments.
 
 `FreeSWITCH` &nbsp; `Linux` &nbsp; `Bash` &nbsp; `Automation`
+
+<br />
 
 </td>
 </tr>
@@ -105,6 +119,8 @@ Telecom rate-deck tooling for NPANXX pricing and second-lowest-cost routing work
 
 `TypeScript` &nbsp; `NPANXX` &nbsp; `LCR`
 
+<br />
+
 </td>
 <td width="50%" valign="top">
 
@@ -113,6 +129,8 @@ Telecom rate-deck tooling for NPANXX pricing and second-lowest-cost routing work
 Full-stack health platform for nutrition, hydration, weight, body metrics, analytics, food discovery, and AI-assisted coaching.
 
 `Next.js` &nbsp; `TypeScript` &nbsp; `Supabase` &nbsp; `AI`
+
+<br />
 
 </td>
 </tr>
