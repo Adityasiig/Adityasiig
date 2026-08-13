@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <a href="https://adityasiig.github.io/gotham-portfolio/"><b>Portfolio</b></a>
+  <a href="https://adityasiig.github.io/Portfolio/"><b>Portfolio</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://linkedin.com/in/singhaditya70"><b>LinkedIn</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
