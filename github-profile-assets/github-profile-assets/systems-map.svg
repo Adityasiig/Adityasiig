@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">From signal to insight</title>
+  <desc id="desc">A production telecom architecture connecting carrier traffic, SIP routing, softswitch systems, CDR processing, analytics, and customer operations.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090a0e"/><stop offset="1" stop-color="#0d0e14"/></linearGradient>
+    <linearGradient id="route" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2dd4bf"/><stop offset=".52" stop-color="#60a5fa"/><stop offset="1" stop-color="#8b7cff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".025"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="308" rx="20" fill="url(#bg)" stroke="#292b33" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="308" rx="20" fill="url(#grid)"/>
+
+  <text x="52" y="55" fill="#f4f4f5" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="650">Production telecom architecture</text>
+  <text x="52" y="80" fill="#737680" font-family="Segoe UI,Arial,sans-serif" font-size="13">SIGNAL → ROUTING → MEDIA → DATA → DECISIONS</text>
+
+  <path d="M130 176H1070" stroke="#252832" stroke-width="6" stroke-linecap="round"/>
+  <path d="M130 176H1070" stroke="url(#route)" stroke-width="2" stroke-linecap="round"/>
+
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(130 176)">
+      <circle r="38" fill="#111319" stroke="#2dd4bf" stroke-opacity=".75" stroke-width="2"/>
+      <text y="-2" fill="#f1f1f3" font-size="14" font-weight="650">CARRIER</text><text y="16" fill="#777a84" font-size="10">SIP / RTP</text>
+      <text y="74" fill="#696c76" font-size="11" letter-spacing="1">INGRESS</text>
+    </g>
+    <g transform="translate(365 176)">
+      <circle r="44" fill="#111319" stroke="#44bfc9" stroke-opacity=".8" stroke-width="2"/>
+      <text y="5" fill="#f1f1f3" font-size="15" font-weight="650">OpenSIPS</text>
+      <text y="79" fill="#696c76" font-size="11" letter-spacing="1">ROUTING</text>
+    </g>
+    <g transform="translate(600 176)">
+      <circle r="44" fill="#111319" stroke="#60a5fa" stroke-opacity=".8" stroke-width="2"/>
+      <text y="-2" fill="#f1f1f3" font-size="14" font-weight="650">FreeSWITCH</text><text y="16" fill="#777a84" font-size="10">VOS3000</text>
+      <text y="79" fill="#696c76" font-size="11" letter-spacing="1">SOFTSWITCH</text>
+    </g>
+    <g transform="translate(835 176)">
+      <circle r="44" fill="#111319" stroke="#718be9" stroke-opacity=".8" stroke-width="2"/>
+      <text y="-2" fill="#f1f1f3" font-size="14" font-weight="650">CDR PIPELINE</text><text y="16" fill="#777a84" font-size="10">KAFKA / DUCKDB</text>
+      <text y="79" fill="#696c76" font-size="11" letter-spacing="1">PROCESSING</text>
+    </g>
+    <g transform="translate(1070 176)">
+      <circle r="44" fill="#111319" stroke="#8b7cff" stroke-opacity=".85" stroke-width="2"/>
+      <text y="-2" fill="#f1f1f3" font-size="14" font-weight="650">OPERATIONS</text><text y="16" fill="#777a84" font-size="10">PORTAL / GRAFANA</text>
+      <text y="79" fill="#696c76" font-size="11" letter-spacing="1">INSIGHT</text>
+    </g>
+  </g>
+
+  <g fill="#f4f4f5">
+    <circle cx="247" cy="176" r="3"/><circle cx="482" cy="176" r="3"/><circle cx="717" cy="176" r="3"/><circle cx="952" cy="176" r="3"/>
+  </g>
+</svg>
