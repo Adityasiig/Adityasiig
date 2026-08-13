@@ -15,31 +15,31 @@
   <path d="M130 176H1070" stroke="#252832" stroke-width="6" stroke-linecap="round"/>
   <path d="M130 176H1070" stroke="url(#route)" stroke-width="2" stroke-linecap="round"/>
 
-  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+  <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
     <g transform="translate(130 176)">
-      <circle r="38" fill="#111319" stroke="#2dd4bf" stroke-opacity=".75" stroke-width="2"/>
-      <text y="-2" fill="#f1f1f3" font-size="14" font-weight="650">CARRIER</text><text y="16" fill="#777a84" font-size="10">SIP / RTP</text>
-      <text y="74" fill="#696c76" font-size="11" letter-spacing="1">INGRESS</text>
+      <rect x="-76" y="-43" width="152" height="86" rx="16" fill="#111319" stroke="#2dd4bf" stroke-opacity=".75" stroke-width="2"/>
+      <text y="-4" fill="#f1f1f3" font-size="13" font-weight="700">CARRIER</text><text y="17" fill="#777a84" font-size="9">SIP / RTP</text>
+      <text y="76" fill="#696c76" font-size="10" letter-spacing="1.2">INGRESS</text>
     </g>
     <g transform="translate(365 176)">
-      <circle r="44" fill="#111319" stroke="#44bfc9" stroke-opacity=".8" stroke-width="2"/>
-      <text y="5" fill="#f1f1f3" font-size="15" font-weight="650">OpenSIPS</text>
-      <text y="79" fill="#696c76" font-size="11" letter-spacing="1">ROUTING</text>
+      <rect x="-76" y="-43" width="152" height="86" rx="16" fill="#111319" stroke="#44bfc9" stroke-opacity=".8" stroke-width="2"/>
+      <text y="5" fill="#f1f1f3" font-size="13" font-weight="700">OpenSIPS</text>
+      <text y="76" fill="#696c76" font-size="10" letter-spacing="1.2">ROUTING</text>
     </g>
     <g transform="translate(600 176)">
-      <circle r="44" fill="#111319" stroke="#60a5fa" stroke-opacity=".8" stroke-width="2"/>
-      <text y="-2" fill="#f1f1f3" font-size="14" font-weight="650">FreeSWITCH</text><text y="16" fill="#777a84" font-size="10">VOS3000</text>
-      <text y="79" fill="#696c76" font-size="11" letter-spacing="1">SOFTSWITCH</text>
+      <rect x="-76" y="-43" width="152" height="86" rx="16" fill="#111319" stroke="#60a5fa" stroke-opacity=".8" stroke-width="2"/>
+      <text y="-4" fill="#f1f1f3" font-size="13" font-weight="700">FreeSWITCH</text><text y="17" fill="#777a84" font-size="9">VOS3000</text>
+      <text y="76" fill="#696c76" font-size="10" letter-spacing="1.2">SOFTSWITCH</text>
     </g>
     <g transform="translate(835 176)">
-      <circle r="44" fill="#111319" stroke="#718be9" stroke-opacity=".8" stroke-width="2"/>
-      <text y="-2" fill="#f1f1f3" font-size="14" font-weight="650">CDR PIPELINE</text><text y="16" fill="#777a84" font-size="10">KAFKA / DUCKDB</text>
-      <text y="79" fill="#696c76" font-size="11" letter-spacing="1">PROCESSING</text>
+      <rect x="-76" y="-43" width="152" height="86" rx="16" fill="#111319" stroke="#718be9" stroke-opacity=".8" stroke-width="2"/>
+      <text y="-4" fill="#f1f1f3" font-size="12" font-weight="700">CDR PIPELINE</text><text y="17" fill="#777a84" font-size="9">KAFKA / DUCKDB</text>
+      <text y="76" fill="#696c76" font-size="10" letter-spacing="1.2">PROCESSING</text>
     </g>
     <g transform="translate(1070 176)">
-      <circle r="44" fill="#111319" stroke="#8b7cff" stroke-opacity=".85" stroke-width="2"/>
-      <text y="-2" fill="#f1f1f3" font-size="14" font-weight="650">OPERATIONS</text><text y="16" fill="#777a84" font-size="10">PORTAL / GRAFANA</text>
-      <text y="79" fill="#696c76" font-size="11" letter-spacing="1">INSIGHT</text>
+      <rect x="-76" y="-43" width="152" height="86" rx="16" fill="#111319" stroke="#8b7cff" stroke-opacity=".85" stroke-width="2"/>
+      <text y="-4" fill="#f1f1f3" font-size="12" font-weight="700">OPERATIONS</text><text y="17" fill="#777a84" font-size="9">PORTAL / GRAFANA</text>
+      <text y="76" fill="#696c76" font-size="10" letter-spacing="1.2">INSIGHT</text>
     </g>
   </g>
 
