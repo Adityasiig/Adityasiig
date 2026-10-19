@@ -1,71 +1,72 @@
 <!--
-  GitHub profile README for github.com/Adityasiig
+  github.com/Adityasiig
 
-  Visual direction: a live SIP console. Pure black, one red (#d71921),
-  mono type, real SMIL animation — camo preserves it, verified by
-  probe rather than assumed.
+  Minimal. Two SVGs (a header and a hairline), the rest is plain
+  Markdown so it stays readable, greppable and easy to edit.
 
-  The body is four generated panels rather than markdown code blocks,
-  so the whole page shares one visual language instead of a styled
-  header sitting on top of plain text.
-
-  Every panel is legible with animation disabled — see assets/profile.
-  Regenerate:  cd assets/profile && python3 hero.py && python3 body.py
+  Regenerate assets:  cd assets/profile && python3 minimal.py
 -->
 
-<img src="./assets/profile/hero.svg" width="100%" alt="Aditya Singh — Security Engineer and Telecom DevOps Engineer" />
+<img src="./assets/profile/head.svg" width="100%" alt="Aditya Singh — Telecom DevOps and Security Engineering" />
 
-<p align="center">
-  <a href="https://adityasiig.github.io/Portfolio/"><b>PORTFOLIO</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/singhaditya70"><b>LINKEDIN</b></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:adityaajaysingh0104@gmail.com"><b>EMAIL</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://portal.easedial.com"><b>EASEDIAL ↗</b></a>
-</p>
+I build and operate telecom infrastructure — SIP routing, softswitches, and
+the analytics that tell you whether any of it is actually working.
 
-<img src="./assets/profile/strip.svg" width="100%" alt="" />
+Telecom DevOps Engineer at **Crown IT Solution**, where I started as a VoIP
+NOC Engineer in August 2025. Around 82 production servers, mostly OpenSIPS
+and FreeSWITCH.
 
-<img src="./assets/profile/panel-now.svg" width="100%" alt="Now — Telecom DevOps Engineer at Crown IT Solution. 82 production servers, OpenSIPS, FreeSWITCH, SIP routing, CDR ingestion and margin analytics, authorized security testing." />
+<img src="./assets/profile/divider.svg" width="100%" alt="" />
 
-<img src="./assets/profile/panel-work.svg" width="100%" alt="Selected work — MyCDR/CDR Direct, EaseDial Portal, RouteForge LCR2, Health Tracker." />
+### Work
 
-<p align="center">
-  <a href="https://github.com/Adityasiig/cdr-direct"><b>MyCDR</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Adityasiig/easedial-portal"><b>EaseDial</b></a>
-  <a href="https://portal.easedial.com">↗</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Adityasiig/routeforge-lcr2"><b>RouteForge LCR2</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Adityasiig/health-tracker"><b>Health Tracker</b></a>
-  <a href="https://health-tracker-five-xi.vercel.app">↗</a>
-</p>
+**[MyCDR](https://github.com/Adityasiig/cdr-direct)** — CDR ingestion and
+analytics: NPANXX traffic, trunks, quality, revenue, cost, margin.
+<sub>Python · Flask · DuckDB</sub>
 
-<img src="./assets/profile/panel-stack.svg" width="100%" alt="Stack — Telecom: OpenSIPS, FreeSWITCH, VOS3000, SIP, RTP, LCR, CDR. Infra: Linux, Docker, Coolify, Caddy, Cloudflare. Backend: Python, FastAPI, Flask, PostgreSQL, ClickHouse, DuckDB. Frontend: TypeScript, Next.js, React. Observe: Grafana, ClickHouse, fleet probes, health checks. Security: Nmap, Burp Suite, Ghidra, gdb, API and VoIP testing." />
+**[EaseDial Portal](https://github.com/Adityasiig/easedial-portal)** —
+carrier portal with tenant-scoped access, KPIs, CDR diagnostics, rates and
+invoices. <sub>TypeScript · Next.js</sub> ·
+[live](https://portal.easedial.com)
 
-<img src="./assets/profile/panel-lab.svg" width="100%" alt="Lab — Glyph Toys for the Nothing Phone 4a Pro 13x13 matrix, Zero Trust Network Access, WebVulnScanner, Gotham and Terminal portfolios." />
+**[RouteForge LCR2](https://github.com/Adityasiig/routeforge-lcr2)** —
+rate-deck tooling for NPANXX pricing and second-lowest-cost routing.
+<sub>TypeScript · LCR</sub>
 
-<p align="center">
-  <a href="https://github.com/Adityasiig/glyph-radar"><b>Glyph Toys</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Adityasiig/Zero-Trust-Network-Access"><b>Zero Trust Network Access</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Adityasiig/WebVulnScanner"><b>WebVulnScanner</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Adityasiig/gotham-portfolio"><b>Gotham</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Adityasiig/terminal-portfolio"><b>Terminal</b></a>
-</p>
+**[Health Tracker](https://github.com/Adityasiig/health-tracker)** —
+nutrition, hydration and body metrics with analytics and coaching.
+<sub>Next.js · Supabase</sub> ·
+[live](https://health-tracker-five-xi.vercel.app)
 
-> Security work here is for authorized engagements, defensive research,
-> bug-bounty scopes and controlled labs.
+### Stack
 
-<img src="./assets/profile/strip.svg" width="100%" alt="" />
+```
+Telecom    OpenSIPS · FreeSWITCH · VOS3000 · SIP · RTP · LCR · CDR
+Infra      Linux · Docker · Coolify · Caddy · Cloudflare
+Backend    Python · FastAPI · Flask · PostgreSQL · ClickHouse · DuckDB
+Frontend   TypeScript · Next.js · React
+Security   Nmap · Burp Suite · Ghidra · gdb · web / API / VoIP testing
+```
 
-<p align="center">
-  <b>BUILD CAREFULLY · OPERATE HONESTLY · IMPROVE CONTINUOUSLY</b><br />
-  <sub>Open to conversations about telecom infrastructure, production engineering and security.</sub><br />
-  <a href="mailto:adityaajaysingh0104@gmail.com"><b>Start a conversation →</b></a>
-</p>
+### Lab
+
+**[Glyph Toys](https://github.com/Adityasiig/glyph-radar)** — twelve
+animations for the Nothing Phone's 13×13 Glyph Matrix. A circle of radius
+*r* on that grid lands on 8, 12, 16, 32, 28, 40 pixels — not even
+monotonic — so every design is built from what the grid renders exactly
+rather than from curves sampled onto it.
+
+**[Zero Trust Network Access](https://github.com/Adityasiig/Zero-Trust-Network-Access)**
+— experimental ZTNA with post-quantum crypto and live trust scoring.
+
+**[WebVulnScanner](https://github.com/Adityasiig/WebVulnScanner)** — recon,
+WAF detection, vulnerability checks, HTML reporting.
+
+<sub>Security work here is for authorized engagements, defensive research,
+bug-bounty scopes and controlled labs.</sub>
+
+<img src="./assets/profile/divider.svg" width="100%" alt="" />
+
+[Portfolio](https://adityasiig.github.io/Portfolio/) ·
+[LinkedIn](https://linkedin.com/in/singhaditya70) ·
+[Email](mailto:adityaajaysingh0104@gmail.com)

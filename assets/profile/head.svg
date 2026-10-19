@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Aditya Singh — Telecom DevOps and Security Engineer">
+<rect width="1200" height="260" fill="#000000"/>
+<rect x="80" y="86" width="34" height="2" fill="#d71921"><animate attributeName="width" values="0;34" dur="0.8s" fill="freeze"/></rect>
+<text x="80" y="140" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="40" font-weight="500" fill="#e8e8e8" letter-spacing="-0.5" text-anchor="start">Aditya Singh</text>
+<text x="80" y="174" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="400" fill="#8a8a8a" letter-spacing="0.5" text-anchor="start">Telecom DevOps &#183; Security Engineering</text>
+<text x="80" y="212" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" font-weight="400" fill="#5a5a5a" letter-spacing="0" text-anchor="start">SIP routing, softswitches, and the analytics that say whether any of it works.</text>
+<circle cx="1118" cy="135" r="3.5" fill="#d71921"><animate attributeName="opacity" values="1;0.2;1" dur="3.4s" repeatCount="indefinite"/></circle>
+<text x="1104" y="139" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="400" fill="#5a5a5a" letter-spacing="0.5" text-anchor="end">available</text>
+</svg>

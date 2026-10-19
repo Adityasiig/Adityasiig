@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="">
+<rect width="1200" height="28" fill="#000000"/>
+<rect x="80" y="14" width="1040" height="1" fill="#1e1e1e"/>
+<rect x="80" y="13" width="48" height="3" fill="#d71921" opacity="0.85"><animate attributeName="x" values="80;1072;80" dur="14s" repeatCount="indefinite"/></rect>
+</svg>
