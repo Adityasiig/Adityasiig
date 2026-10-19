@@ -1,182 +1,94 @@
 <!--
   GitHub profile README for github.com/Adityasiig
-  Visual direction: restrained, editorial, infrastructure-led.
+
+  Visual direction: dot matrix, pure black, one red accent (#d71921).
+  Deliberately the same language as the portfolio and the Glyph Matrix
+  toys, so the three properties read as one person's work.
+
+  Assets in assets/profile are generated; see that folder's note.
 -->
 
-<div align="center">
-  <img src="./github-profile-assets/premium-hero.svg" width="100%" alt="Aditya Ajay Singh — Security Engineer and Telecom DevOps Engineer" />
-</div>
+<img src="./assets/profile/hero.svg" width="100%" alt="Aditya Singh — Security Engineer and Telecom DevOps Engineer" />
 
-<p align="center">
-  <a href="https://adityasiig.github.io/Portfolio/"><b>Portfolio</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/singhaditya70"><b>LinkedIn</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:adityaajaysingh0104@gmail.com"><b>Email</b></a>
+<p>
+  <a href="https://adityasiig.github.io/Portfolio/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/singhaditya70">LinkedIn</a> ·
+  <a href="mailto:adityaajaysingh0104@gmail.com">Email</a>
 </p>
 
-<br />
+I build and operate telecom infrastructure — SIP routing, softswitches,
+and the analytics that tell you whether any of it is actually working.
+Currently Telecom DevOps Engineer at **Crown IT Solution**, where I
+started as a VoIP NOC Engineer in August 2025.
 
-## Engineering systems that stay useful after launch.
+Day to day that means OpenSIPS and FreeSWITCH, an 82+ server production
+fleet, CDR pipelines, carrier reporting, and the Linux automation that
+keeps all of it repeatable. I also do authorized security testing across
+web, API, network and VoIP surfaces.
 
-I am a **Security Engineer and Telecom DevOps Engineer** working across VoIP infrastructure, offensive security, backend systems, and production observability. I take systems from design to deployment—then operate, measure, and harden them.
+<img src="./assets/profile/rule-now.svg" width="100%" alt="Now" />
 
-Since joining **Crown IT Solution** in August 2025, I progressed from VoIP NOC Engineer to Telecom DevOps Engineer. My current work spans **OpenSIPS, FreeSWITCH, VOS3000, Linux automation, CDR analytics, carrier reporting, and an 82+ server production fleet**.
+**Telecom DevOps Engineer · Crown IT Solution** — since Aug 2025
 
-<br />
+Softswitch deployment and SIP routing · fleet operations across 82+
+servers · CDR ingestion and margin analytics · LCR and rate-deck
+workflows · carrier reporting · provisioning automation
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<img src="./assets/profile/rule-work.svg" width="100%" alt="Selected work" />
 
-### Telecom infrastructure
+**[MyCDR / CDR Direct](https://github.com/Adityasiig/cdr-direct)**
+`Python` `Flask` `DuckDB` `Docker`
+CDR ingestion and analytics for NPANXX traffic, trunks, quality, revenue,
+cost and margin. Built for protected data nodes and production dashboards.
 
-SIP routing, softswitch deployment, fleet operations, troubleshooting, LCR workflows, and production automation.
+**[EaseDial Customer Portal](https://github.com/Adityasiig/easedial-portal)** · [live ↗](https://portal.easedial.com)
+`TypeScript` `Next.js` `REST`
+Carrier portal with tenant-scoped access, operational KPIs, CDR
+diagnostics, rates, invoices, exports and transaction history.
 
-<br />
+**[RouteForge LCR2](https://github.com/Adityasiig/routeforge-lcr2)**
+`TypeScript` `NPANXX` `LCR`
+Rate-deck tooling for NPANXX pricing and second-lowest-cost routing,
+built around how wholesale voice actually gets priced.
 
-</td>
-<td width="33%" valign="top">
+**[Health Tracker](https://github.com/Adityasiig/health-tracker)** · [live ↗](https://health-tracker-five-xi.vercel.app)
+`Next.js` `TypeScript` `Supabase`
+Nutrition, hydration, weight and body metrics with analytics, food
+discovery and AI-assisted coaching.
 
-### Security engineering
+<img src="./assets/profile/rule-stack.svg" width="100%" alt="Stack" />
 
-Authorized web, API, network, and VoIP testing—from reconnaissance and validation to evidence and reporting.
-
-<br />
-
-</td>
-<td width="33%" valign="top">
-
-### Product engineering
-
-Operational platforms built with Python, TypeScript, FastAPI, Next.js, PostgreSQL, ClickHouse, and Docker.
-
-<br />
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [MyCDR / CDR Direct](https://github.com/Adityasiig/cdr-direct)
-
-Telecom CDR ingestion and analytics for NPANXX traffic, trunks, quality, revenue, cost, and margin. Designed for protected data nodes and production dashboard deployment.
-
-`Python` &nbsp; `Flask` &nbsp; `DuckDB` &nbsp; `Docker`
-
-<br />
-
-</td>
-<td width="50%" valign="top">
-
-### [EaseDial Customer Portal](https://github.com/Adityasiig/easedial-portal) · [Live ↗](https://portal.easedial.com)
-
-Production carrier portal with tenant-scoped access, operational KPIs, CDR diagnostics, relationship reports, rates, invoices, exports, and transaction history.
-
-`TypeScript` &nbsp; `Next.js` &nbsp; `REST APIs`
-
-<br />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### OpenSIPS Deploy
-
-Docker-packaged deployment tooling for repeatable OpenSIPS installation, upgrades, and standalone deployments using a controlled, bundle-driven workflow.
-
-`OpenSIPS` &nbsp; `PHP` &nbsp; `Bash` &nbsp; `Docker`
-
-<br />
-
-</td>
-<td width="50%" valign="top">
-
-### FreeSWITCH Deploy System
-
-Repeatable server provisioning and configuration workflows that reduce manual setup and configuration drift across telecom environments.
-
-`FreeSWITCH` &nbsp; `Linux` &nbsp; `Bash` &nbsp; `Automation`
-
-<br />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [RouteForge LCR2](https://github.com/Adityasiig/routeforge-lcr2)
-
-Telecom rate-deck tooling for NPANXX pricing and second-lowest-cost routing workflows, built around practical wholesale voice operations.
-
-`TypeScript` &nbsp; `NPANXX` &nbsp; `LCR`
-
-<br />
-
-</td>
-<td width="50%" valign="top">
-
-### [Health Tracker](https://github.com/Adityasiig/health-tracker) · [Live ↗](https://health-tracker-five-xi.vercel.app)
-
-Full-stack health platform for nutrition, hydration, weight, body metrics, analytics, food discovery, and AI-assisted coaching.
-
-`Next.js` &nbsp; `TypeScript` &nbsp; `Supabase` &nbsp; `AI`
-
-<br />
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## From signal to insight
-
-<div align="center">
-  <img src="./github-profile-assets/systems-map.svg" width="100%" alt="Telecom architecture from carrier traffic through OpenSIPS and FreeSWITCH to CDR analytics and customer operations" />
-</div>
-
-<br />
-
-## Tools I reach for
-
-| Domain | Technologies |
+| | |
 |:--|:--|
 | **Telecom** | OpenSIPS · FreeSWITCH · VOS3000 · SIP · RTP · LCR · CDR |
-| **Infrastructure** | Linux · Docker · Coolify · Caddy · Cloudflare · SSH · Git-based deployments |
-| **Backend & data** | Python · FastAPI · Flask · PostgreSQL · ClickHouse · DuckDB · MySQL · Kafka |
-| **Frontend** | TypeScript · Next.js · React · JavaScript · HTML · CSS |
-| **Observability** | Grafana · ClickHouse analytics · fleet probes · service health monitoring |
-| **Security** | Nmap · Burp Suite · Ghidra · gdb · ltrace · web/API/VoIP testing |
+| **Infrastructure** | Linux · Docker · Coolify · Caddy · Cloudflare · Git-based deploys |
+| **Backend & data** | Python · FastAPI · Flask · PostgreSQL · ClickHouse · DuckDB · Kafka |
+| **Frontend** | TypeScript · Next.js · React |
+| **Observability** | Grafana · ClickHouse analytics · fleet probes · health monitoring |
+| **Security** | Nmap · Burp Suite · Ghidra · gdb · web/API/VoIP testing |
 
-<br />
+<img src="./assets/profile/rule-lab.svg" width="100%" alt="Lab" />
 
-## More experiments
+Things I built because I wanted to know whether they would work.
 
-- [**WebVulnScanner**](https://github.com/Adityasiig/WebVulnScanner) — reconnaissance, WAF detection, vulnerability checks, and HTML reporting.
-- [**Zero Trust Network Access**](https://github.com/Adityasiig/Zero-Trust-Network-Access) — experimental ZTNA system using post-quantum cryptography and real-time trust scoring.
-- [**Gotham Portfolio**](https://github.com/Adityasiig/gotham-portfolio) — a cinematic Next.js portfolio with motion-driven interaction.
-- [**Terminal Portfolio**](https://github.com/Adityasiig/terminal-portfolio) — a terminal-inspired portfolio built with React and TypeScript.
+- **[Glyph Toys](https://github.com/Adityasiig/glyph-radar)** — twelve
+  animations for the Nothing Phone's 13×13 Glyph Matrix, drawn for that
+  grid rather than scaled down to it.
+- **[WebVulnScanner](https://github.com/Adityasiig/WebVulnScanner)** —
+  recon, WAF detection, vulnerability checks and HTML reporting.
+- **[Zero Trust Network Access](https://github.com/Adityasiig/Zero-Trust-Network-Access)**
+  — experimental ZTNA with post-quantum crypto and live trust scoring.
+- **[Gotham](https://github.com/Adityasiig/gotham-portfolio)** ·
+  **[Terminal](https://github.com/Adityasiig/terminal-portfolio)** — two
+  portfolios that went in very different directions.
 
-<br />
+> Security work here is for authorized engagements, defensive research,
+> bug-bounty scopes and controlled labs.
 
-> Security work shown here is intended for authorized engagements, defensive research, bug-bounty scopes, and controlled lab environments.
+<img src="./assets/profile/footer.svg" width="100%" alt="Build carefully. Operate honestly. Improve continuously." />
 
-<div align="center">
-  <br />
-  <h3>Build carefully. Operate honestly. Improve continuously.</h3>
-  <p>Open to thoughtful conversations about telecom infrastructure, production engineering, and security.</p>
-  <p>
-    <a href="mailto:adityaajaysingh0104@gmail.com"><b>Start a conversation →</b></a>
-  </p>
-  <br />
-  <img src="./github-profile-assets/premium-footer.svg" width="100%" alt="Decorative footer" />
-</div>
+<p>
+  Open to conversations about telecom infrastructure, production
+  engineering and security —
+  <a href="mailto:adityaajaysingh0104@gmail.com">get in touch</a>.
+</p>

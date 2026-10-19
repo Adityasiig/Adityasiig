@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80" role="img" aria-label="Decorative gradient footer">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2dd4bf"/><stop offset=".52" stop-color="#60a5fa"/><stop offset="1" stop-color="#8b7cff"/></linearGradient></defs>
-  <rect width="1200" height="80" rx="18" fill="#090a0e"/>
-  <rect x="40" y="39" width="1120" height="2" rx="1" fill="url(#g)" opacity=".75"/>
-  <circle cx="40" cy="40" r="4" fill="#2dd4bf"/><circle cx="1160" cy="40" r="4" fill="#8b7cff"/>
-</svg>

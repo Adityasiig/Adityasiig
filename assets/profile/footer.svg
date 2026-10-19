@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="Build carefully. Operate honestly.">
+<rect width="1200" height="90" fill="#000000"/>
+<defs><pattern id="f" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7.0" cy="7.0" r="2.20" fill="#ffffff" fill-opacity="0.06"/></pattern></defs><rect width="1200" height="90" fill="url(#f)"/>
+<rect x="70" y="26" width="1060" height="1" fill="#242424"/>
+<circle cx="70" cy="26.5" r="4" fill="#d71921"/>
+<text x="70" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8f8f8f" letter-spacing="4">BUILD CAREFULLY  ·  OPERATE HONESTLY  ·  IMPROVE CONTINUOUSLY</text>
+</svg>
