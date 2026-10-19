@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adityasiig.github.io/gotham-portfolio/"><b>Portfolio ↗</b></a>
+  <a href="https://adityasiig.github.io/Portfolio/"><b>Portfolio ↗</b></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
   <a href="https://linkedin.com/in/singhaditya70"><b>LinkedIn ↗</b></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
@@ -186,6 +186,7 @@ Observability, automation, and security connect the entire system.
 - [**Zero Trust Network Access ↗**](https://github.com/Adityasiig/Zero-Trust-Network-Access) — an experimental ZTNA system exploring post-quantum cryptography and real-time trust scoring.
 - [**Gotham Portfolio ↗**](https://github.com/Adityasiig/gotham-portfolio) — a cinematic Next.js portfolio with motion-driven interaction.
 - [**Terminal Portfolio ↗**](https://github.com/Adityasiig/terminal-portfolio) — a terminal-inspired portfolio built with React and TypeScript.
+- [**Glyph Toys ↗**](https://github.com/Adityasiig/glyph-radar) — twelve animations for a 13×13 LED matrix, built with Java and Android. Validated in simulation; not yet tested on physical hardware.
 
 <sub>Security projects are for authorized engagements, defensive research, bug-bounty scopes, and controlled labs.</sub>
 
@@ -205,7 +206,7 @@ Observability, automation, and security connect the entire system.
   &nbsp;&nbsp; / &nbsp;&nbsp;
   <a href="https://linkedin.com/in/singhaditya70">LinkedIn</a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://adityasiig.github.io/gotham-portfolio/">Portfolio</a>
+  <a href="https://adityasiig.github.io/Portfolio/">Portfolio</a>
   <br /><br />
   <sub>ADITYA AJAY SINGH &nbsp; / &nbsp; BUILD WITH INTENTION.</sub>
 </p>
