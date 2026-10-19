@@ -12,12 +12,14 @@
 .markdown-body sub{font-size:12px}.markdown-body ul,.markdown-body ol{padding-left:2em;margin:0 0 16px}.markdown-body li+li{margin-top:8px}.markdown-body code{padding:.2em .4em;border-radius:6px;background:var(--code)}
 .markdown-body details{margin:12px 0 16px}.markdown-body summary{cursor:pointer}.markdown-body details[open] summary{margin-bottom:16px}
 @media(max-width:600px){.markdown-body{border-radius:0;margin:0;padding:16px 12px}.preview-tools{margin:16px auto;font-size:10px}.preview-tools small{display:none}.markdown-body td[width]{padding:10px}.markdown-body td[width] h3{font-size:17px}.markdown-body sub{font-size:10px}}
-</style><nav class="preview-tools" aria-label="Preview controls"><span>ADITYASIIG <small>/ PROFILE PREVIEW</small></span><button type="button" aria-pressed="false" onclick="const dark=document.documentElement.dataset.theme!=='dark';document.documentElement.dataset.theme=dark?'dark':'light';this.setAttribute('aria-pressed',String(dark));this.textContent=dark?'Light preview':'Dark preview'">Dark preview</button></nav><main class="markdown-body"><!-- Profile of Aditya Ajay Singh · github.com/Adityasiig -->
+</style><nav class="preview-tools" aria-label="Preview controls"><span>ADITYASIIG <small>/ PROFILE PREVIEW</small></span><button type="button" aria-pressed="false" onclick="setTheme(document.documentElement.dataset.theme!=='dark')">Dark preview</button></nav><main class="markdown-body"><!-- Profile of Aditya Ajay Singh · github.com/Adityasiig -->
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../github-profile-assets/flow/hero-mobile-dark.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="../github-profile-assets/flow/hero-dark.png" />
     <source media="(max-width: 600px)" srcset="../github-profile-assets/flow/hero-mobile.png" />
-    <img src="../github-profile-assets/flow/hero.png" width="100%" alt="Aditya Ajay Singh — Security Engineer and Telecom DevOps Engineer. A dark figure suspended among flowing silver-white ribbons. Build with intention. Operate with clarity." />
+    <img src="../github-profile-assets/flow/hero.png" width="100%" alt="Aditya Ajay Singh — Security Engineer and Telecom DevOps Engineer. A figure suspended among flowing ribbons. Build with intention. Operate with clarity." />
   </picture>
 </p>
 
@@ -32,6 +34,8 @@
 <br />
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../github-profile-assets/flow/section-practice-mobile-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="../github-profile-assets/flow/section-practice-dark.svg" />
   <source media="(max-width: 600px)" srcset="../github-profile-assets/flow/section-practice-mobile.svg" />
   <img src="../github-profile-assets/flow/section-practice.svg" width="100%" alt="01 / The practice — Clarity beneath complexity." />
 </picture>
@@ -49,6 +53,8 @@ Backend services, data pipelines, and considered interfaces that bring operation
 <br />
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../github-profile-assets/flow/section-work-mobile-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="../github-profile-assets/flow/section-work-dark.svg" />
   <source media="(max-width: 600px)" srcset="../github-profile-assets/flow/section-work-mobile.svg" />
   <img src="../github-profile-assets/flow/section-work.svg" width="100%" alt="02 / Selected work — Systems with a purpose." />
 </picture>
@@ -58,7 +64,7 @@ Backend services, data pipelines, and considered interfaces that bring operation
 <tr>
 <td width="50%" valign="top">
 
-<p><a href="https://github.com/Adityasiig/cdr-direct"><img src="../github-profile-assets/flow/project-cdr.svg" width="100%" alt="01 / MyCDR — From call records to a clearer picture." /></a></p>
+<p><a href="https://github.com/Adityasiig/cdr-direct"><picture><source media="(prefers-color-scheme: dark)" srcset="../github-profile-assets/flow/project-cdr-dark.svg" /><img src="../github-profile-assets/flow/project-cdr.svg" width="100%" alt="01 / MyCDR — From call records to a clearer picture." /></picture></a></p>
 <h3>MyCDR / CDR Direct</h3>
 <p>CDR ingestion and analytics for NPANXX traffic, trunks, call quality, revenue, cost, and margin. Built for protected data nodes and production dashboards.</p>
 <p><sub>PYTHON · FLASK · DUCKDB · DOCKER</sub></p>
@@ -66,7 +72,7 @@ Backend services, data pipelines, and considered interfaces that bring operation
 </td>
 <td width="50%" valign="top">
 
-<p><a href="https://github.com/Adityasiig/easedial-portal"><img src="../github-profile-assets/flow/project-portal.svg" width="100%" alt="02 / EaseDial — A clearer view of carrier operations." /></a></p>
+<p><a href="https://github.com/Adityasiig/easedial-portal"><picture><source media="(prefers-color-scheme: dark)" srcset="../github-profile-assets/flow/project-portal-dark.svg" /><img src="../github-profile-assets/flow/project-portal.svg" width="100%" alt="02 / EaseDial — A clearer view of carrier operations." /></picture></a></p>
 <h3>EaseDial Customer Portal</h3>
 <p>A carrier portal that brings tenant-scoped access, KPIs, CDR diagnostics, rates, invoices, exports, and transaction history into one operational interface.</p>
 <p><sub>TYPESCRIPT · NEXT.JS · REST APIs</sub></p>
@@ -76,8 +82,7 @@ Backend services, data pipelines, and considered interfaces that bring operation
 <tr>
 <td width="50%" valign="top">
 
-<img src="../github-profile-assets/flow/project-opensips.svg" width="100%" alt="03 / OpenSIPS Deploy — Make the next deployment repeatable." />
-
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="../github-profile-assets/flow/project-opensips-dark.svg" /><img src="../github-profile-assets/flow/project-opensips.svg" width="100%" alt="03 / OpenSIPS Deploy — Make the next deployment repeatable." /></picture></p>
 <h3>OpenSIPS Deploy</h3>
 <p>Docker-packaged tooling for repeatable OpenSIPS installation, upgrades, and standalone deployments through a controlled, bundle-driven workflow.</p>
 <p><sub>OPENSIPS · PHP · BASH · DOCKER</sub></p>
@@ -85,8 +90,7 @@ Backend services, data pipelines, and considered interfaces that bring operation
 </td>
 <td width="50%" valign="top">
 
-<img src="../github-profile-assets/flow/project-freeswitch.svg" width="100%" alt="04 / FreeSWITCH — Bring consistency to the fleet." />
-
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="../github-profile-assets/flow/project-freeswitch-dark.svg" /><img src="../github-profile-assets/flow/project-freeswitch.svg" width="100%" alt="04 / FreeSWITCH — Bring consistency to the fleet." /></picture></p>
 <h3>FreeSWITCH Deploy System</h3>
 <p>Repeatable server provisioning and configuration workflows that reduce manual setup and configuration drift across telecom environments.</p>
 <p><sub>FREESWITCH · LINUX · BASH · AUTOMATION</sub></p>
@@ -96,7 +100,7 @@ Backend services, data pipelines, and considered interfaces that bring operation
 <tr>
 <td width="50%" valign="top">
 
-<p><a href="https://github.com/Adityasiig/routeforge-lcr2"><img src="../github-profile-assets/flow/project-routeforge.svg" width="100%" alt="05 / RouteForge — Bring precision to the rate deck." /></a></p>
+<p><a href="https://github.com/Adityasiig/routeforge-lcr2"><picture><source media="(prefers-color-scheme: dark)" srcset="../github-profile-assets/flow/project-routeforge-dark.svg" /><img src="../github-profile-assets/flow/project-routeforge.svg" width="100%" alt="05 / RouteForge — Bring precision to the rate deck." /></picture></a></p>
 <h3>RouteForge LCR2</h3>
 <p>Rate-deck tooling for NPANXX pricing and second-lowest-cost routing workflows, shaped by the day-to-day needs of wholesale voice operations.</p>
 <p><sub>TYPESCRIPT · NPANXX · LEAST-COST ROUTING</sub></p>
@@ -104,7 +108,7 @@ Backend services, data pipelines, and considered interfaces that bring operation
 </td>
 <td width="50%" valign="top">
 
-<p><a href="https://github.com/Adityasiig/health-tracker"><img src="../github-profile-assets/flow/project-health.svg" width="100%" alt="06 / Health Tracker — Make everyday progress visible." /></a></p>
+<p><a href="https://github.com/Adityasiig/health-tracker"><picture><source media="(prefers-color-scheme: dark)" srcset="../github-profile-assets/flow/project-health-dark.svg" /><img src="../github-profile-assets/flow/project-health.svg" width="100%" alt="06 / Health Tracker — Make everyday progress visible." /></picture></a></p>
 <h3>Health Tracker</h3>
 <p>A full-stack platform for nutrition, hydration, weight, body metrics, food discovery, analytics, and AI-assisted coaching.</p>
 <p><sub>NEXT.JS · TYPESCRIPT · SUPABASE · AI</sub></p>
@@ -116,12 +120,16 @@ Backend services, data pipelines, and considered interfaces that bring operation
 <br />
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../github-profile-assets/flow/section-systems-mobile-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="../github-profile-assets/flow/section-systems-dark.svg" />
   <source media="(max-width: 600px)" srcset="../github-profile-assets/flow/section-systems-mobile.svg" />
   <img src="../github-profile-assets/flow/section-systems.svg" width="100%" alt="03 / The throughline — From signal to understanding." />
 </picture>
 
 <p>The work connects: route the traffic, operate the infrastructure, understand the records, and put useful information in people’s hands.</p>
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../github-profile-assets/flow/systems-map-mobile-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="../github-profile-assets/flow/systems-map-dark.svg" />
   <source media="(max-width: 600px)" srcset="../github-profile-assets/flow/systems-map-mobile.svg" />
   <img src="../github-profile-assets/flow/systems-map.svg" width="100%" alt="Carrier traffic flows through OpenSIPS routing and FreeSWITCH media services into CDR ingestion and analytics, then customer portals and operations. Observability and security run across every stage." />
 </picture>
@@ -141,6 +149,8 @@ Backend services, data pipelines, and considered interfaces that bring operation
 <br />
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../github-profile-assets/flow/section-toolkit-mobile-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="../github-profile-assets/flow/section-toolkit-dark.svg" />
   <source media="(max-width: 600px)" srcset="../github-profile-assets/flow/section-toolkit-mobile.svg" />
   <img src="../github-profile-assets/flow/section-toolkit.svg" width="100%" alt="04 / The toolkit — Tools chosen for the work." />
 </picture>
@@ -180,6 +190,8 @@ Backend services, data pipelines, and considered interfaces that bring operation
 <br />
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="../github-profile-assets/flow/section-experiments-mobile-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="../github-profile-assets/flow/section-experiments-dark.svg" />
   <source media="(max-width: 600px)" srcset="../github-profile-assets/flow/section-experiments-mobile.svg" />
   <img src="../github-profile-assets/flow/section-experiments.svg" width="100%" alt="05 / Beyond the day-to-day — Stay curious. Keep building." />
 </picture>
@@ -212,4 +224,4 @@ Backend services, data pipelines, and considered interfaces that bring operation
   <br /><br />
   <sub>ADITYA AJAY SINGH &nbsp; / &nbsp; BUILD WITH INTENTION.</sub>
 </p>
-</main></html>
+</main><script>function setTheme(dark){document.documentElement.dataset.theme=dark?'dark':'light';const button=document.querySelector('.preview-tools button');button.setAttribute('aria-pressed',String(dark));button.textContent=dark?'Light preview':'Dark preview';for(const source of document.querySelectorAll('picture source')){source.dataset.originalMedia ||= source.media;source.media=source.dataset.originalMedia.replace('(prefers-color-scheme: dark)',dark?'(min-width: 0px)':'(max-width: 0px)');}}setTheme(matchMedia('(prefers-color-scheme: dark)').matches);</script></html>

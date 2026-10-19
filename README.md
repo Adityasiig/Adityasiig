@@ -2,8 +2,10 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./github-profile-assets/flow/hero-mobile-dark.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="./github-profile-assets/flow/hero-dark.png" />
     <source media="(max-width: 600px)" srcset="./github-profile-assets/flow/hero-mobile.png" />
-    <img src="./github-profile-assets/flow/hero.png" width="100%" alt="Aditya Ajay Singh — Security Engineer and Telecom DevOps Engineer. A dark figure suspended among flowing silver-white ribbons. Build with intention. Operate with clarity." />
+    <img src="./github-profile-assets/flow/hero.png" width="100%" alt="Aditya Ajay Singh — Security Engineer and Telecom DevOps Engineer. A figure suspended among flowing ribbons. Build with intention. Operate with clarity." />
   </picture>
 </p>
 
@@ -18,6 +20,8 @@
 <br />
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./github-profile-assets/flow/section-practice-mobile-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./github-profile-assets/flow/section-practice-dark.svg" />
   <source media="(max-width: 600px)" srcset="./github-profile-assets/flow/section-practice-mobile.svg" />
   <img src="./github-profile-assets/flow/section-practice.svg" width="100%" alt="01 / The practice — Clarity beneath complexity." />
 </picture>
@@ -40,6 +44,8 @@ Backend services, data pipelines, and considered interfaces that bring operation
 <br />
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./github-profile-assets/flow/section-work-mobile-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./github-profile-assets/flow/section-work-dark.svg" />
   <source media="(max-width: 600px)" srcset="./github-profile-assets/flow/section-work-mobile.svg" />
   <img src="./github-profile-assets/flow/section-work.svg" width="100%" alt="02 / Selected work — Systems with a purpose." />
 </picture>
@@ -50,7 +56,7 @@ A selection of the platforms, deployment tools, and experiments I work on.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Adityasiig/cdr-direct"><img src="./github-profile-assets/flow/project-cdr.svg" width="100%" alt="01 / MyCDR — From call records to a clearer picture." /></a>
+<a href="https://github.com/Adityasiig/cdr-direct"><picture><source media="(prefers-color-scheme: dark)" srcset="./github-profile-assets/flow/project-cdr-dark.svg" /><img src="./github-profile-assets/flow/project-cdr.svg" width="100%" alt="01 / MyCDR — From call records to a clearer picture." /></picture></a>
 
 ### MyCDR / CDR Direct
 
@@ -63,7 +69,7 @@ CDR ingestion and analytics for NPANXX traffic, trunks, call quality, revenue, c
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Adityasiig/easedial-portal"><img src="./github-profile-assets/flow/project-portal.svg" width="100%" alt="02 / EaseDial — A clearer view of carrier operations." /></a>
+<a href="https://github.com/Adityasiig/easedial-portal"><picture><source media="(prefers-color-scheme: dark)" srcset="./github-profile-assets/flow/project-portal-dark.svg" /><img src="./github-profile-assets/flow/project-portal.svg" width="100%" alt="02 / EaseDial — A clearer view of carrier operations." /></picture></a>
 
 ### EaseDial Customer Portal
 
@@ -78,7 +84,7 @@ A carrier portal that brings tenant-scoped access, KPIs, CDR diagnostics, rates,
 <tr>
 <td width="50%" valign="top">
 
-<img src="./github-profile-assets/flow/project-opensips.svg" width="100%" alt="03 / OpenSIPS Deploy — Make the next deployment repeatable." />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./github-profile-assets/flow/project-opensips-dark.svg" /><img src="./github-profile-assets/flow/project-opensips.svg" width="100%" alt="03 / OpenSIPS Deploy — Make the next deployment repeatable." /></picture>
 
 ### OpenSIPS Deploy
 
@@ -91,7 +97,7 @@ Deployment engineering / Telecom infrastructure
 </td>
 <td width="50%" valign="top">
 
-<img src="./github-profile-assets/flow/project-freeswitch.svg" width="100%" alt="04 / FreeSWITCH — Bring consistency to the fleet." />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./github-profile-assets/flow/project-freeswitch-dark.svg" /><img src="./github-profile-assets/flow/project-freeswitch.svg" width="100%" alt="04 / FreeSWITCH — Bring consistency to the fleet." /></picture>
 
 ### FreeSWITCH Deploy System
 
@@ -106,7 +112,7 @@ Deployment engineering / Fleet operations
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Adityasiig/routeforge-lcr2"><img src="./github-profile-assets/flow/project-routeforge.svg" width="100%" alt="05 / RouteForge — Bring precision to the rate deck." /></a>
+<a href="https://github.com/Adityasiig/routeforge-lcr2"><picture><source media="(prefers-color-scheme: dark)" srcset="./github-profile-assets/flow/project-routeforge-dark.svg" /><img src="./github-profile-assets/flow/project-routeforge.svg" width="100%" alt="05 / RouteForge — Bring precision to the rate deck." /></picture></a>
 
 ### RouteForge LCR2
 
@@ -119,7 +125,7 @@ Rate-deck tooling for NPANXX pricing and second-lowest-cost routing workflows, s
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Adityasiig/health-tracker"><img src="./github-profile-assets/flow/project-health.svg" width="100%" alt="06 / Health Tracker — Make everyday progress visible." /></a>
+<a href="https://github.com/Adityasiig/health-tracker"><picture><source media="(prefers-color-scheme: dark)" srcset="./github-profile-assets/flow/project-health-dark.svg" /><img src="./github-profile-assets/flow/project-health.svg" width="100%" alt="06 / Health Tracker — Make everyday progress visible." /></picture></a>
 
 ### Health Tracker
 
@@ -136,6 +142,8 @@ A full-stack platform for nutrition, hydration, weight, body metrics, food disco
 <br />
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./github-profile-assets/flow/section-systems-mobile-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./github-profile-assets/flow/section-systems-dark.svg" />
   <source media="(max-width: 600px)" srcset="./github-profile-assets/flow/section-systems-mobile.svg" />
   <img src="./github-profile-assets/flow/section-systems.svg" width="100%" alt="03 / The throughline — From signal to understanding." />
 </picture>
@@ -143,6 +151,8 @@ A full-stack platform for nutrition, hydration, weight, body metrics, food disco
 The work connects: route the traffic, operate the infrastructure, understand the records, and put useful information in people’s hands.
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./github-profile-assets/flow/systems-map-mobile-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./github-profile-assets/flow/systems-map-dark.svg" />
   <source media="(max-width: 600px)" srcset="./github-profile-assets/flow/systems-map-mobile.svg" />
   <img src="./github-profile-assets/flow/systems-map.svg" width="100%" alt="Carrier traffic flows through OpenSIPS routing and FreeSWITCH media services into CDR ingestion and analytics, then customer portals and operations. Observability and security run across every stage." />
 </picture>
@@ -162,6 +172,8 @@ Observability, automation, and security connect the entire system.
 <br />
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./github-profile-assets/flow/section-toolkit-mobile-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./github-profile-assets/flow/section-toolkit-dark.svg" />
   <source media="(max-width: 600px)" srcset="./github-profile-assets/flow/section-toolkit-mobile.svg" />
   <img src="./github-profile-assets/flow/section-toolkit.svg" width="100%" alt="04 / The toolkit — Tools chosen for the work." />
 </picture>
@@ -178,6 +190,8 @@ Observability, automation, and security connect the entire system.
 <br />
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./github-profile-assets/flow/section-experiments-mobile-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./github-profile-assets/flow/section-experiments-dark.svg" />
   <source media="(max-width: 600px)" srcset="./github-profile-assets/flow/section-experiments-mobile.svg" />
   <img src="./github-profile-assets/flow/section-experiments.svg" width="100%" alt="05 / Beyond the day-to-day — Stay curious. Keep building." />
 </picture>

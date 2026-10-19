@@ -56,7 +56,28 @@ visual reference. Typography was added through the native HTML hero layout.
 The final project asset is `../github-profile-assets/flow/hero.png`, with a mobile
 variant alongside it. The editable background is `hero-art.jpg`.
 
-Generation prompt:
+## Dark mode
+
+`hero-art-dark.jpg` is the user's supplied dark wallpaper, copied directly
+without regenerating or altering its pixels. `hero.html?theme=dark` places it in
+the existing cover layout, rotates it upright with CSS, and switches the cover
+text to light gray. Desktop and mobile exports are `hero-dark.png` and
+`hero-mobile-dark.png`.
+
+The build also emits `-dark.svg` variants of the section headers, project cards,
+and system diagram. Their geometry, typography, and content match the light
+versions; only the palette changes. The footer already has a dark background
+and is shared between themes. Existing light assets are preserved.
+
+The profile uses `prefers-color-scheme: dark` sources in `picture` elements,
+with mobile dark sources before desktop dark sources. Light images remain the
+fallback. The local preview's theme button also updates picture media queries
+so the preview changes artwork as well as the surrounding background.
+
+The build checks desktop and mobile in both themes, verifies every selected
+image belongs to the correct theme, and checks the preview's theme toggle.
+
+Original light artwork generation prompt:
 
 > Use case: stylized-concept. Asset type: wide hero background for a GitHub
 > profile README. Input image 1 is a visual reference for the subject,

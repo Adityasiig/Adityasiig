@@ -67,6 +67,22 @@ function footer() {
  const mobile=`<rect width="720" height="346" fill="#1c1c1c"/>${ribbons(350,70,.9,'#bfbfbf',.26)}${text(28,44,'A CONVERSATION IS A GOOD PLACE TO START.',14,'#b5b5b5','letter-spacing="1.7"')}${display(26,119,'Let’s build something',49,'#f1f1f1')}${display(26,184,'that lasts.',49,'#f1f1f1',true)}${text(28,259,'INFRASTRUCTURE / SECURITY',16,'#c0c0c0','letter-spacing="1.5"')}${text(28,291,'THOUGHTFUL SOFTWARE',16,'#c0c0c0','letter-spacing="1.5"')}${text(670,302,'↗',40,'#e8e8e8','text-anchor="end"')}`;
  fs.writeFileSync(path.join(out,'footer-mobile.svg'),svg(720,346,'Let’s build something that lasts.',mobile));
 }
+function darkVariants() {
+ // Only authored vector colors change. Preserve every shape and text position.
+ const palette={
+  '#f2f2f2':'#171717','#eeeeee':'#1b1b1b','#202020':'#ededed',
+  '#595959':'#bdbdbd','#626262':'#b4b4b4','#565656':'#c0c0c0',
+  '#6b6b6b':'#b0b0b0','#707070':'#aaaaaa','#7e7e7e':'#999999',
+  '#d6d6d6':'#3b3b3b','#a5a5a5':'#707070','#bebebe':'#666666',
+  '#b9b9b9':'#737373','#b4b4b4':'#777777','#a0a0a0':'#808080',
+  '#acacac':'#656565'
+ };
+ for(const file of fs.readdirSync(out).filter(f=>/^(section-|project-|systems-map)/.test(f)&&f.endsWith('.svg')&&!f.endsWith('-dark.svg'))) {
+  const source=fs.readFileSync(path.join(out,file),'utf8');
+  const themed=source.replace(/#[0-9a-f]{6}/gi,color=>palette[color.toLowerCase()]||color);
+  fs.writeFileSync(path.join(out,file.replace('.svg','-dark.svg')),themed);
+ }
+}
 async function main() {
  fs.mkdirSync(out,{recursive:true});
  if(fs.existsSync(path.join(__dirname,'hero-art.png'))) await sharp(path.join(__dirname,'hero-art.png')).jpeg({quality:90,mozjpeg:true}).toFile(path.join(__dirname,'hero-art.jpg'));
@@ -75,13 +91,16 @@ async function main() {
  section('systems','03','The throughline','From signal to understanding.');
  section('toolkit','04','The toolkit','Tools chosen for the work.');
  section('experiments','05','Beyond the day-to-day','Stay curious. Keep building.');
- cards.forEach(card);systems();footer();
+ cards.forEach(card);systems();footer();darkVariants();
  const markedModule=await import(pathToFileURL(deps.resolve('marked')).href);
  const readme=fs.readFileSync(path.join(root,'README.md'),'utf8');
  const markup=markedModule.marked.parse(readme).replaceAll('./github-profile-assets/','../github-profile-assets/');
  const style=fs.readFileSync(path.join(__dirname,'preview.css'),'utf8');
  fs.mkdirSync(path.join(root,'preview'),{recursive:true});
- fs.writeFileSync(path.join(root,'preview','index.html'),`<!doctype html><html lang="en" data-theme="light"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Adityasiig — GitHub profile preview</title><style>${style}</style><nav class="preview-tools" aria-label="Preview controls"><span>ADITYASIIG <small>/ PROFILE PREVIEW</small></span><button type="button" aria-pressed="false" onclick="const dark=document.documentElement.dataset.theme!=='dark';document.documentElement.dataset.theme=dark?'dark':'light';this.setAttribute('aria-pressed',String(dark));this.textContent=dark?'Light preview':'Dark preview'">Dark preview</button></nav><main class="markdown-body">${markup}</main></html>`);
+ // The preview control simulates prefers-color-scheme for picture sources as
+ // well as page chrome. GitHub uses the unmodified README media queries.
+ const themeScript=`function setTheme(dark){document.documentElement.dataset.theme=dark?'dark':'light';const button=document.querySelector('.preview-tools button');button.setAttribute('aria-pressed',String(dark));button.textContent=dark?'Light preview':'Dark preview';for(const source of document.querySelectorAll('picture source')){source.dataset.originalMedia ||= source.media;source.media=source.dataset.originalMedia.replace('(prefers-color-scheme: dark)',dark?'(min-width: 0px)':'(max-width: 0px)');}}setTheme(matchMedia('(prefers-color-scheme: dark)').matches);`;
+ fs.writeFileSync(path.join(root,'preview','index.html'),`<!doctype html><html lang="en" data-theme="light"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Adityasiig — GitHub profile preview</title><style>${style}</style><nav class="preview-tools" aria-label="Preview controls"><span>ADITYASIIG <small>/ PROFILE PREVIEW</small></span><button type="button" aria-pressed="false" onclick="setTheme(document.documentElement.dataset.theme!=='dark')">Dark preview</button></nav><main class="markdown-body">${markup}</main><script>${themeScript}</script></html>`);
  const browser=await chromium.launch({headless:true,...(process.env.PROFILE_BROWSER_PATH?{executablePath:process.env.PROFILE_BROWSER_PATH}:{})});
  try {
   const page=await browser.newPage({viewport:{width:1440,height:830},deviceScaleFactor:1});
@@ -90,17 +109,33 @@ async function main() {
   await page.locator('.cover').screenshot({path:path.join(out,'hero.png')});
   await page.setViewportSize({width:720,height:880});
   await page.locator('.cover').screenshot({path:path.join(out,'hero-mobile.png')});
+  await page.goto(pathToFileURL(path.join(__dirname,'hero.html')).href+'?theme=dark');
+  await page.evaluate(()=>document.fonts.ready);
+  await page.locator('.cover').screenshot({path:path.join(out,'hero-mobile-dark.png')});
+  await page.setViewportSize({width:1440,height:830});
+  await page.locator('.cover').screenshot({path:path.join(out,'hero-dark.png')});
   await page.close();
-  for(const [name,width,dark] of [['desktop',1120,false],['mobile',390,false],['dark',1120,true]]) {
+  for(const [name,width,dark] of [['desktop',1120,false],['mobile',390,false],['dark',1120,true],['mobile-dark',390,true]]) {
    const p=await browser.newPage({viewport:{width,height:900},deviceScaleFactor:1});
    const errors=[];p.on('pageerror',e=>errors.push(String(e)));
+   await p.emulateMedia({colorScheme:dark?'dark':'light'});
    await p.goto(pathToFileURL(path.join(root,'preview','index.html')).href);
-   if(dark) await p.getByRole('button',{name:'Dark preview'}).click();
    await p.evaluate(()=>document.fonts.ready);
-   const audit=await p.evaluate(()=>({images:[...document.images].length,broken:[...document.images].filter(i=>!i.complete||!i.naturalWidth).map(i=>i.src),overflow:document.documentElement.scrollWidth>innerWidth,theme:document.documentElement.dataset.theme,mobileArt:document.images[0].currentSrc.includes('hero-mobile')}));
+   await p.evaluate(()=>Promise.all([...document.images].map(i=>i.decode())));
+   const audit=await p.evaluate(()=>({images:[...document.images].length,broken:[...document.images].filter(i=>!i.complete||!i.naturalWidth).map(i=>i.src),overflow:document.documentElement.scrollWidth>innerWidth,theme:document.documentElement.dataset.theme,mobileArt:document.images[0].currentSrc.includes('hero-mobile'),wrongTheme:[...document.querySelectorAll('.markdown-body img')].filter(i=>!i.currentSrc.includes('footer')&&i.currentSrc.includes('-dark.')!==(document.documentElement.dataset.theme==='dark')).map(i=>i.currentSrc)}));
    await p.screenshot({path:path.join(root,'preview',`${name}.png`),fullPage:true});
    console.log(name,JSON.stringify({...audit,errors}));
-   if(audit.broken.length||audit.overflow||errors.length) throw new Error(`${name} preview failed`);
+   if(audit.broken.length||audit.overflow||errors.length||audit.wrongTheme.length) throw new Error(`${name} preview failed`);
+   await p.getByRole('button',{name:dark?'Light preview':'Dark preview'}).click();
+   await p.evaluate(()=>Promise.all([...document.images].map(i=>i.decode())));
+   const toggled=await p.evaluate(()=>[...document.images].every(i=>i.currentSrc.includes('footer')||i.currentSrc.includes('-dark.')===(document.documentElement.dataset.theme==='dark')));
+   if(!toggled)throw new Error(`${name} theme toggle failed`);
+   // Restore the exact README media queries and verify native browser selection
+   // independently of the local preview control.
+   await p.evaluate(()=>{for(const s of document.querySelectorAll('picture source'))s.media=s.dataset.originalMedia;});
+   await p.evaluate(()=>Promise.all([...document.images].map(i=>i.decode())));
+   const nativeSelection=await p.evaluate(expectedDark=>[...document.images].every(i=>i.currentSrc.includes('footer')||i.currentSrc.includes('-dark.')===expectedDark),dark);
+   if(!nativeSelection)throw new Error(`${name} native picture selection failed`);
    await p.close();
   }
  }finally{await browser.close();}
