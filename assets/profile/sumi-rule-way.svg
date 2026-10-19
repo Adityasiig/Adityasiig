@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-label="THE WAY">
+<rect width="1200" height="92" fill="#0a0a0a"/>
+<text x="60" y="60" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="34" font-weight="700" fill="#211f1c" letter-spacing="0" text-anchor="start">04</text>
+<rect x="120" y="34" width="3" height="26" fill="#8e2429"/>
+<text x="142" y="56" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="19" font-weight="700" fill="#e8e2d6" letter-spacing="5" text-anchor="start">THE WAY</text>
+<rect x="60" y="78" width="1080" height="1" fill="#1d1b18"/>
+<rect x="60" y="77" width="120" height="2" fill="#8e2429" opacity="0.9"><animate attributeName="x" values="60;1020;60" dur="13s" repeatCount="indefinite"/></rect>
+</svg>

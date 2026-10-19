@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Contact">
-<rect width="1200" height="150" fill="#080706"/>
-<rect x="60" y="0" width="1080" height="1" fill="#1a1715"/>
-<text x="60" y="58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="24" font-weight="700" fill="#f2f0ed" letter-spacing="2" text-anchor="start">I AM NOT LOOKING FOR EASY WORK.</text>
-<text x="60" y="90" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#c30010" letter-spacing="1" text-anchor="start">Bring me the routing nobody wants to touch.</text>
-<text x="60" y="120" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="400" fill="#8c8681" letter-spacing="0" text-anchor="start">adityaajaysingh0104@gmail.com</text>
-<circle cx="1126" cy="78" r="5" fill="#ff2b1c"><animate attributeName="opacity" values="1;0.15;1" dur="2.6s" repeatCount="indefinite"/></circle>
-<text x="1110" y="82" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#8c8681" letter-spacing="2" text-anchor="end">OPEN</text>
-</svg>
