@@ -3,10 +3,12 @@
 
   Sumi-e theme, built from the ink-wash painting in assets/profile.
   Palette taken from the artwork, not invented:
-    ink #0a0a0a · paper #e8e2d6 · blood #8e2429 (the ribbon)
+    ink #0a0a0a · paper #e8e2d6 · mist #b9b1a3 · stone #8a8378
 
-  Rule borrowed from the painting: ONE accent per view. The ribbon reads
-  because everything around it is monochrome. Do not add a second colour.
+  Strictly monochrome. The only colour anywhere is the ribbon inside the
+  painting itself — the chrome around it stays black and white, which is
+  why the ribbon reads at all. Do not add an accent colour to badges,
+  rules or type.
 
   Kanji appears only in Markdown text, never in a generated image — the
   build container has no CJK font, so a rasterised glyph becomes tofu.
@@ -17,14 +19,14 @@
 <img src="./assets/profile/sumi-banner.png" width="100%" alt="Aditya Singh — Telecom DevOps, SIP, softswitches. I keep 82 production servers from going dark." />
 
 <p align="center">
-  <b>墨</b>&nbsp;&nbsp;One brush. One accent. Everything else is restraint.
+  <b>墨</b>&nbsp;&nbsp;Black ink, white paper. The only colour is in the painting.
 </p>
 
 <img src="./assets/profile/sumi-rule-arsenal.svg" width="100%" alt="01 — The Arsenal" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenSIPS-8e2429?style=for-the-badge&labelColor=0a0a0a" alt="OpenSIPS" />
-  <img src="https://img.shields.io/badge/FreeSWITCH-8e2429?style=for-the-badge&labelColor=0a0a0a" alt="FreeSWITCH" />
+  <img src="https://img.shields.io/badge/OpenSIPS-e8e2d6?style=for-the-badge&labelColor=0a0a0a" alt="OpenSIPS" />
+  <img src="https://img.shields.io/badge/FreeSWITCH-e8e2d6?style=for-the-badge&labelColor=0a0a0a" alt="FreeSWITCH" />
   <img src="https://img.shields.io/badge/VOS3000-1c1a17?style=for-the-badge&labelColor=0a0a0a" alt="VOS3000" />
   <img src="https://img.shields.io/badge/SIP-1c1a17?style=for-the-badge&labelColor=0a0a0a" alt="SIP" />
   <img src="https://img.shields.io/badge/RTP-1c1a17?style=for-the-badge&labelColor=0a0a0a" alt="RTP" />
@@ -33,11 +35,30 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,redis,clickhouse,docker,linux,nginx,cloudflare&theme=dark" alt="Python, FastAPI, Flask, PostgreSQL, Redis, ClickHouse, Docker, Linux, Nginx, Cloudflare" />
+  <img src="https://img.shields.io/badge/Python-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=python&logoColor=e8e2d6" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=fastapi&logoColor=e8e2d6" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=flask&logoColor=e8e2d6" alt="Flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=postgresql&logoColor=e8e2d6" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=redis&logoColor=e8e2d6" alt="Redis" />
+  <img src="https://img.shields.io/badge/ClickHouse-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=clickhouse&logoColor=e8e2d6" alt="ClickHouse" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,js,git,github,bash,grafana,vim,md&theme=dark" alt="TypeScript, Next.js, React, JavaScript, Git, GitHub, Bash, Grafana, Vim, Markdown" />
+  <img src="https://img.shields.io/badge/Docker-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=docker&logoColor=e8e2d6" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=linux&logoColor=e8e2d6" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=nginx&logoColor=e8e2d6" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Cloudflare-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=cloudflare&logoColor=e8e2d6" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Grafana-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=grafana&logoColor=e8e2d6" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Git-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=git&logoColor=e8e2d6" alt="Git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=typescript&logoColor=e8e2d6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=nextdotjs&logoColor=e8e2d6" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=react&logoColor=e8e2d6" alt="React" />
+  <img src="https://img.shields.io/badge/Bash-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=gnubash&logoColor=e8e2d6" alt="Bash" />
+  <img src="https://img.shields.io/badge/Vim-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=vim&logoColor=e8e2d6" alt="Vim" />
+  <img src="https://img.shields.io/badge/Markdown-1c1a17?style=for-the-badge&labelColor=0a0a0a&logo=markdown&logoColor=e8e2d6" alt="Markdown" />
 </p>
 
 <p align="center">
@@ -91,10 +112,10 @@ circles and built from what the grid renders exactly.
 
 <p align="center">
   <a href="https://github.com/Adityasiig/cdr-direct">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=cdr-direct&hide_border=true&bg_color=0a0a0a&title_color=8e2429&text_color=8a8378&icon_color=8e2429" alt="MyCDR" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=cdr-direct&hide_border=true&bg_color=0a0a0a&title_color=e8e2d6&text_color=8a8378&icon_color=b9b1a3" alt="MyCDR" />
   </a>
   <a href="https://github.com/Adityasiig/glyph-radar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=glyph-radar&hide_border=true&bg_color=0a0a0a&title_color=8e2429&text_color=8a8378&icon_color=8e2429" alt="Glyph Toys" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=glyph-radar&hide_border=true&bg_color=0a0a0a&title_color=e8e2d6&text_color=8a8378&icon_color=b9b1a3" alt="Glyph Toys" />
   </a>
 </p>
 
@@ -115,7 +136,7 @@ circles and built from what the grid renders exactly.
 
 <p align="center">
   <a href="https://adityasiig.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-8e2429?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-e8e2d6?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/singhaditya70">
     <img src="https://img.shields.io/badge/LINKEDIN-1c1a17?style=for-the-badge&labelColor=0a0a0a" alt="LinkedIn" />

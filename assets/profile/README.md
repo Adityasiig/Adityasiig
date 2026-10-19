@@ -18,13 +18,24 @@ python3 sumi.py   # writes out/, then copy up a level
 Taken from the painting, not invented:
 
 ```
-ink    #0a0a0a   the storm
-paper  #e8e2d6   the sky
-blood  #8e2429   the ribbon — the only colour in the piece
+ink    #0a0a0a   background, the storm
+paper  #e8e2d6   primary type, the sky
+mist   #b9b1a3   secondary type
+stone  #8a8378   tertiary type
+slate  #2a2724   rules and ghost numerals
 ```
 
-**One accent per view.** The ribbon reads because everything around it
-is monochrome. Adding a second colour breaks the whole thing.
+**Strictly monochrome.** The only colour anywhere is the ribbon inside
+the painting. Everything around it — type, rules, badges, pin cards —
+stays black and white, which is the reason the ribbon reads at all.
+Adding an accent colour to the chrome kills it.
+
+Skillicons is not used: it renders brand logos in full colour with no
+greyscale option, which fights the whole theme. The tech badges are
+shields.io instead, which forces a single `logoColor`. Logos embed as
+base64 images, so a badge carrying one is ~1-8KB against ~445 bytes
+without — that size difference is how you check a logo name resolved
+(an invalid name silently returns the plain badge).
 
 ## Things that bit, and why they are done this way
 

@@ -7,10 +7,12 @@ composition), so everything here rotates it first.
 The palette is taken from the painting, not invented:
   ink    near-black, the storm
   paper  warm bone, the sky
-  blood  #8e2429, the single red ribbon — the only colour in the piece
+  mist / stone / slate, the greys between them
 
-Design rule borrowed from the painting: one accent, used once per view.
-The ribbon works because everything around it is monochrome.
+Strictly monochrome. The painting is black ink on paper and the only
+colour in it is the ribbon itself — so the ribbon stays the only colour
+anywhere, and it lives in the artwork, never in the chrome. No red in
+type, rules, badges or borders.
 
 Outputs are PNG (the artwork is photographic) plus small SVG overlays
 for type, so text stays crisp and selectable-looking at any width.
@@ -23,9 +25,11 @@ import os
 # outside the repo.
 SRC = os.path.join(os.path.dirname(os.path.abspath(__file__)), "source.png")
 
-INK = "#0a0a0a"
-PAPER = "#e8e2d6"
-BLOOD = "#8e2429"
+INK = "#0a0a0a"      # background
+PAPER = "#e8e2d6"    # primary type, the warm bone of the sky
+MIST = "#b9b1a3"     # secondary type
+STONE = "#8a8378"    # tertiary type
+SLATE = "#2a2724"    # rules, ghost numerals
 MONO = "ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
 
 
@@ -73,7 +77,7 @@ def side(art, w=560, h=620):
     """Tall crop for the About section, framed beside the text."""
     from PIL import Image
     aw, ah = art.size
-    # The region holding the rider and the red ribbon.
+    # The region holding the rider and the ribbon.
     a = art.crop((int(aw * 0.30), int(ah * 0.05), int(aw * 0.72), ah))
     return a.resize((w, h), Image.LANCZOS)
 
@@ -92,13 +96,14 @@ def rule_svg(label, n):
     s = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" '
          f'viewBox="0 0 {W} {H}" role="img" aria-label="{label}">',
          f'<rect width="{W}" height="{H}" fill="{INK}"/>']
-    s.append(txt(60, 60, n, 34, "#211f1c", "700"))
-    s.append(f'<rect x="120" y="34" width="3" height="26" fill="{BLOOD}"/>')
+    s.append(txt(60, 60, n, 34, SLATE, "700"))
+    s.append(f'<rect x="120" y="34" width="3" height="26" fill="{STONE}"/>')
     s.append(txt(142, 56, label, 19, PAPER, "700", 5))
-    s.append(f'<rect x="60" y="78" width="{W-120}" height="1" fill="#1d1b18"/>')
-    # One slow ink stroke travelling the rule — the ribbon, abstracted.
-    s.append(f'<rect x="60" y="77" width="120" height="2" fill="{BLOOD}" opacity="0.9">'
-             f'<animate attributeName="x" values="60;{W-180};60" dur="13s" '
+    s.append(f'<rect x="60" y="78" width="{W-120}" height="1" fill="{SLATE}"/>')
+    # A pale wash travelling the rule, like ink bleeding along paper.
+    # Grey, not red: the ribbon belongs to the painting alone.
+    s.append(f'<rect x="60" y="77" width="150" height="2" fill="{MIST}" opacity="0.5">'
+             f'<animate attributeName="x" values="60;{W-210};60" dur="15s" '
              f'repeatCount="indefinite"/></rect>')
     s.append('</svg>')
     return "\n".join(s)
@@ -119,12 +124,12 @@ def title_svg():
     # No kanji here: this block is rasterised, and the container has no
     # CJK font, so the glyph renders as a tofu box. Kanji lives only in
     # the README's Markdown text, where the browser resolves the font.
-    s.append(f'<rect x="70" y="26" width="38" height="4" fill="{BLOOD}"/>')
+    s.append(f'<rect x="70" y="26" width="38" height="4" fill="{STONE}"/>')
     s.append(txt(70, 84, "ADITYA SINGH", 46, PAPER, "700", 3))
     s.append(txt(74, 112, "TELECOM DEVOPS &#183; SIP &#183; SOFTSWITCHES",
-                 15, "#b9b1a3", "700", 4))
+                 15, MIST, "700", 4))
     s.append(txt(74, 136, "I keep 82 production servers from going dark.",
-                 13, "#8a8378", "400", 0))
+                 13, STONE, "400", 0))
     s.append('</svg>')
     return "\n".join(s)
 
