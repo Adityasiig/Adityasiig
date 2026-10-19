@@ -1,14 +1,15 @@
 <!--
   github.com/Adityasiig
 
-  Centred sections, emoji headings, badge rows, live stat cards.
+  Centred sections, emoji headings, badge rows, repo pins.
   banner.png is generated — see assets/profile/banner.py.
 
-  All widgets are third-party services. Each one was checked live
-  before being used here; github-readme-activity-graph and
-  github-profile-trophy both return HTTP 402 (over quota) and would
-  render as broken images, so the contribution chart uses ghchart
-  instead.
+  No contribution-stats widgets: the stats/streak/top-langs cards and
+  the activity graph were deliberately removed. Everything shown is
+  work, not activity metrics.
+
+  Remaining widgets are third-party services, each checked live before
+  use. See assets/profile/README.md for which hosts are safe.
 -->
 
 <img src="./assets/profile/banner.png" width="100%" alt="" />
@@ -116,30 +117,6 @@ nothing curved survives.
   <a href="https://github.com/Adityasiig/glyph-radar">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adityasiig&repo=glyph-radar&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=d71921&title_color=ffffff" alt="Glyph Toys" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityasiig&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0D1117&icon_color=d71921&title_color=ffffff" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Adityasiig&theme=github-dark-blue&hide_border=true&background=0D1117&ring=d71921&fire=d71921&currStreakLabel=ffffff" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasiig&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=ffffff" alt="Top languages" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/d71921/Adityasiig" width="90%" alt="Contribution chart" />
 </p>
 
 ---

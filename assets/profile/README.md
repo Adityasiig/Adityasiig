@@ -20,9 +20,7 @@ Each was verified live before use:
 | --- | --- | --- |
 | `img.shields.io` | badges | 200 |
 | `skillicons.dev` | tech-stack icons | 200 |
-| `github-readme-stats.vercel.app` | stats, top langs, repo pins | 200 |
-| `streak-stats.demolab.com` | streak card | 200 |
-| `ghchart.rshah.org` | contribution chart | 200 |
+| `github-readme-stats.vercel.app` | repo pin cards only | 200 |
 | `komarev.com` | profile-view counter | 200 |
 
 **Avoid these two** — both are over quota and return HTTP 402, which
@@ -31,8 +29,12 @@ renders as a broken image:
 - `github-readme-activity-graph.vercel.app`
 - `github-profile-trophy.vercel.app`
 
-The contribution chart uses `ghchart` instead of the activity graph for
-exactly this reason.
+## No contribution stats
+
+The stats card, streak card, top-languages card and contribution chart
+were all removed on purpose. If you add them back, note that
+`ghchart.rshah.org` is the working chart host — the activity-graph
+service above is dead.
 
 ## Constraints
 
