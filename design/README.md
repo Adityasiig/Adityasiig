@@ -66,8 +66,8 @@ text to light gray. Desktop and mobile exports are `hero-dark.png` and
 
 The build also emits `-dark.svg` variants of the section headers, project cards,
 and system diagram. Their geometry, typography, and content match the light
-versions; only the palette changes. The footer already has a dark background
-and is shared between themes. Existing light assets are preserved.
+versions; only the palette changes. The footer has matching light and dark
+variants on desktop and mobile. All images follow the selected theme.
 
 The profile uses `prefers-color-scheme: dark` sources in `picture` elements,
 with mobile dark sources before desktop dark sources. Light images remain the

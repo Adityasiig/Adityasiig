@@ -63,9 +63,13 @@ function systems() {
 }
 function footer() {
  let content=`<rect width="1200" height="282" fill="#1c1c1c"/>${ribbons(701,9,1.2,'#bfbfbf',.34)}${ribbons(769,31,1.1,'#e4e4e4',.18)}${text(42,46,'A CONVERSATION IS A GOOD PLACE TO START.',11,'#b5b5b5','letter-spacing="2.4"')}${display(39,113,'Let’s build something',45,'#f1f1f1')}${display(39,166,'that lasts.',45,'#f1f1f1',true)}${text(42,227,'INFRASTRUCTURE / SECURITY / THOUGHTFUL SOFTWARE',12,'#c0c0c0','letter-spacing="1.5"')}${text(1158,241,'↗',38,'#e8e8e8','text-anchor="end"')}`;
- fs.writeFileSync(path.join(out,'footer.svg'),svg(1200,282,'Let’s build something that lasts.',content,'Open a conversation about infrastructure, security, or thoughtful software.'));
+ fs.writeFileSync(path.join(out,'footer-dark.svg'),svg(1200,282,'Let’s build something that lasts.',content,'Open a conversation about infrastructure, security, or thoughtful software.'));
  const mobile=`<rect width="720" height="346" fill="#1c1c1c"/>${ribbons(350,70,.9,'#bfbfbf',.26)}${text(28,44,'A CONVERSATION IS A GOOD PLACE TO START.',14,'#b5b5b5','letter-spacing="1.7"')}${display(26,119,'Let’s build something',49,'#f1f1f1')}${display(26,184,'that lasts.',49,'#f1f1f1',true)}${text(28,259,'INFRASTRUCTURE / SECURITY',16,'#c0c0c0','letter-spacing="1.5"')}${text(28,291,'THOUGHTFUL SOFTWARE',16,'#c0c0c0','letter-spacing="1.5"')}${text(670,302,'↗',40,'#e8e8e8','text-anchor="end"')}`;
- fs.writeFileSync(path.join(out,'footer-mobile.svg'),svg(720,346,'Let’s build something that lasts.',mobile));
+ fs.writeFileSync(path.join(out,'footer-mobile-dark.svg'),svg(720,346,'Let’s build something that lasts.',mobile));
+ const lightPalette={'#1c1c1c':'#f2f2f2','#bfbfbf':'#999999','#e4e4e4':'#b9b9b9','#b5b5b5':'#595959','#f1f1f1':'#202020','#c0c0c0':'#565656','#e8e8e8':'#202020'};
+ const light=source=>source.replace(/#[0-9a-f]{6}/gi,color=>lightPalette[color.toLowerCase()]||color);
+ fs.writeFileSync(path.join(out,'footer.svg'),svg(1200,282,'Let’s build something that lasts.',light(content),'Open a conversation about infrastructure, security, or thoughtful software.'));
+ fs.writeFileSync(path.join(out,'footer-mobile.svg'),svg(720,346,'Let’s build something that lasts.',light(mobile)));
 }
 function darkVariants() {
  // Only authored vector colors change. Preserve every shape and text position.
@@ -122,19 +126,19 @@ async function main() {
    await p.goto(pathToFileURL(path.join(root,'preview','index.html')).href);
    await p.evaluate(()=>document.fonts.ready);
    await p.evaluate(()=>Promise.all([...document.images].map(i=>i.decode())));
-   const audit=await p.evaluate(()=>({images:[...document.images].length,broken:[...document.images].filter(i=>!i.complete||!i.naturalWidth).map(i=>i.src),overflow:document.documentElement.scrollWidth>innerWidth,theme:document.documentElement.dataset.theme,mobileArt:document.images[0].currentSrc.includes('hero-mobile'),wrongTheme:[...document.querySelectorAll('.markdown-body img')].filter(i=>!i.currentSrc.includes('footer')&&i.currentSrc.includes('-dark.')!==(document.documentElement.dataset.theme==='dark')).map(i=>i.currentSrc)}));
+   const audit=await p.evaluate(()=>({images:[...document.images].length,broken:[...document.images].filter(i=>!i.complete||!i.naturalWidth).map(i=>i.src),overflow:document.documentElement.scrollWidth>innerWidth,theme:document.documentElement.dataset.theme,mobileArt:document.images[0].currentSrc.includes('hero-mobile'),footer:document.images[document.images.length-1].currentSrc.split('/').pop(),wrongTheme:[...document.querySelectorAll('.markdown-body img')].filter(i=>i.currentSrc.includes('-dark.')!==(document.documentElement.dataset.theme==='dark')).map(i=>i.currentSrc)}));
    await p.screenshot({path:path.join(root,'preview',`${name}.png`),fullPage:true});
    console.log(name,JSON.stringify({...audit,errors}));
    if(audit.broken.length||audit.overflow||errors.length||audit.wrongTheme.length) throw new Error(`${name} preview failed`);
    await p.getByRole('button',{name:dark?'Light preview':'Dark preview'}).click();
    await p.evaluate(()=>Promise.all([...document.images].map(i=>i.decode())));
-   const toggled=await p.evaluate(()=>[...document.images].every(i=>i.currentSrc.includes('footer')||i.currentSrc.includes('-dark.')===(document.documentElement.dataset.theme==='dark')));
+   const toggled=await p.evaluate(()=>[...document.images].every(i=>i.currentSrc.includes('-dark.')===(document.documentElement.dataset.theme==='dark')));
    if(!toggled)throw new Error(`${name} theme toggle failed`);
    // Restore the exact README media queries and verify native browser selection
    // independently of the local preview control.
    await p.evaluate(()=>{for(const s of document.querySelectorAll('picture source'))s.media=s.dataset.originalMedia;});
    await p.evaluate(()=>Promise.all([...document.images].map(i=>i.decode())));
-   const nativeSelection=await p.evaluate(expectedDark=>[...document.images].every(i=>i.currentSrc.includes('footer')||i.currentSrc.includes('-dark.')===expectedDark),dark);
+   const nativeSelection=await p.evaluate(expectedDark=>[...document.images].every(i=>i.currentSrc.includes('-dark.')===expectedDark),dark);
    if(!nativeSelection)throw new Error(`${name} native picture selection failed`);
    await p.close();
   }
